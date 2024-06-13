@@ -1,0 +1,205 @@
+{
+  "$schema": "https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/schema.json",
+  "version": 2,
+  "final_space": true,
+  "console_title_template": "{{ .Shell }} in {{ .Folder }}",
+  "blocks": [
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "segments": [
+        {
+          "type": "path",
+          "style": "diamond",
+          "trailing_diamond": "\uE0B0",
+          "foreground": "black",
+          "background": "blue",
+          "template": "\uea83 {{ .Path }}",
+          "properties": {
+            "style": "full"
+          }
+        },
+        {
+          "type": "git",
+          "style": "diamond",
+          "trailing_diamond": "\uE0B0",
+          "foreground": "black",
+          "foreground_templates": [
+            "{{ if or (.Working.Changed) (.Staging.Changed) }}black{{ end }}",
+            "{{ if and (gt .Ahead 0) (gt .Behind 0) }}white{{ end }}",
+            "{{ if gt .Ahead 0 }}white{{ end }}"
+          ],
+          "background": "p:green",
+          "background_templates": [
+            "{{ if or (.Working.Changed) (.Staging.Changed) }}yellow{{ end }}",
+            "{{ if and (gt .Ahead 0) (gt .Behind 0) }}red{{ end }}",
+            "{{ if gt .Ahead 0 }}#49416D{{ end }}",
+            "{{ if gt .Behind 0 }}#7A306C{{ end }}"
+          ],
+          "template": "{{ .HEAD }}{{if .BranchStatus }} {{ .BranchStatus }}{{ end }}{{ if .Working.Changed }} {{ .Working.String }}{{ end }}{{ if .Staging.Changed }} {{ .Staging.String }}{{ end }} ",
+          "properties": {
+            "branch_max_length": 25,
+            "fetch_status": true,
+            "fetch_upstream_icon": true
+          }
+        },
+        {
+          "type": "root",
+          "style": "diamond",
+          "trailing_diamond": "\uE0B0",
+          "foreground": "white",
+          "background": "yellow",
+          "template": " \uf0e7 "
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "right",
+      "overflow": "hide",
+      "segments": [
+        {
+          "type": "status",
+          "style": "diamond",
+          "leading_diamond": "\ue0b2",
+          "foreground": "black",
+          "background": "green",
+          "background_templates": [
+            "{{ if gt .Code 0 }}red{{ end }}"
+          ],
+          "template": " {{ if gt .Code 0 }}\uf00d{{ else }}\uf00c{{ end }} ",
+          "properties": {
+            "always_enabled": true
+          }
+        },
+        {
+          "type": "executiontime",
+          "style": "diamond",
+          "leading_diamond": "\ue0b2",
+          "foreground": "black",
+          "background": "cyan",
+          "template": "{{ .FormattedMs }}",
+          "properties": {
+            "style": "round"
+          }
+        },
+        {
+          "type": "rust",
+          "style": "diamond",
+          "leading_diamond": "\ue0b2",
+          "foreground": "p:rust_red",
+          "background": "darkGray",
+          "template": ".rs",
+          "properties": {
+            "display_mode": "files",
+            "fetch_package_manager": false,
+            "home_enabled": false
+          }
+        },
+        {
+          "type": "dotnet",
+          "style": "diamond",
+          "leading_diamond": "\ue0b2",
+          "foreground": "p:dotnet_purple",
+          "background": "darkGray",
+          "template": ".net",
+          "properties": {
+            "display_mode": "files",
+            "fetch_package_manager": false,
+            "home_enabled": false
+          }
+        },
+        {
+          "type": "node",
+          "style": "diamond",
+          "leading_diamond": "\ue0b2",
+          "foreground": "p:node_green",
+          "background": "darkGray",
+          "template": ".node",
+          "properties": {
+            "display_mode": "files",
+            "fetch_package_manager": false,
+            "home_enabled": false
+          }
+        },
+        {
+          "type": "go",
+          "style": "diamond",
+          "leading_diamond": "\ue0b2",
+          "foreground": "p:blue",
+          "background": "darkGray",
+          "template": ".go",
+          "properties": {
+            "fetch_version": false
+          }
+        },
+        {
+          "type": "python",
+          "style": "diamond",
+          "leading_diamond": "\ue0b2",
+          "foreground": "p:python_yellow",
+          "background": "darkGray",
+          "template": ".py",
+          "properties": {
+            "display_mode": "files",
+            "fetch_version": false,
+            "fetch_virtual_env": false
+          }
+        },
+        {
+          "type": "time",
+          "style": "diamond",
+          "leading_diamond": "\ue0b2",
+          "foreground": "black",
+          "background": "blue",
+          "template": "{{ .CurrentDate | date \"15:04\" }} "
+        }
+      ]
+    },
+    {
+      "type": "prompt",
+      "alignment": "left",
+      "newline": true,
+      "segments": [
+        {
+          "type": "text",
+          "style": "plain",
+          "foreground_templates": [
+            "{{if gt .Code 0}}red{{end}}",
+            "{{if eq .Code 0}}green{{end}}"
+          ],
+          "background": "transparent",
+          "template": "\uf105"
+        }
+      ]
+    }
+  ],
+  "transient_prompt": {
+    "foreground_templates": [
+      "{{if gt .Code 0}}red{{end}}",
+      "{{if eq .Code 0}}green{{end}}"
+    ],
+    "background": "transparent",
+    "template": "\uf105 "
+  },
+  "secondary_prompt": {
+    "type": "text",
+    "style": "plain",
+    "foreground": "green",
+    "background": "transparent",
+    "template": "\uf105\uf105 "
+  },
+  "palette": {
+    "black": "#262B44",
+    "blue": "#4B95E9",
+    "green": "#59C9A5",
+    "orange": "#F07623",
+    "red": "#D81E5B",
+    "white": "#E0DEF4",
+    "yellow": "#F3AE35",
+    "dotnet_purple": "#ac99ea",
+    "node_green": "#84ba64",
+    "python_yellow": "#ffd343",
+    "rust_black": "#a72145"
+  }
+}
