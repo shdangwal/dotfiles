@@ -7,7 +7,7 @@ if [ "$TERM_PROGRAM" != "Apple_Terminal" ]; then
   eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/base.json)"
 fi
 
-plugins=(git)
+plugins=(git direnv)
 
 alias vi="nvim"
 alias vim="nvim"
@@ -83,3 +83,6 @@ _fzf_comprun() {
 
 eval $(thefuck --alias fk)
 
+export GOPATH=$HOME/go 
+export GOBIN=$GOPATH/bin 
+export PATH=$PATH:$GOPATH 
