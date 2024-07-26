@@ -29,7 +29,7 @@ setopt hist_verify
 
 bindkey '^P' history-search-backward
 bindkey '^N' history-search-forward
-
+bindkey '^E' end-of-line
 
 # Set up fzf key bindings and fuzzy completion
 eval "$(fzf --zsh)"
@@ -81,8 +81,8 @@ _fzf_comprun() {
   esac
 }
 
+alias ivi='nvim $(fzf -m --preview="bat --color=always {}")'
+
 eval $(thefuck --alias fk)
 
-export GOPATH=$HOME/go 
-export GOBIN=$GOPATH/bin 
-export PATH=$PATH:$GOPATH 
+export GOPATH=$HOME/Development/go/
