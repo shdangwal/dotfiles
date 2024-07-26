@@ -8,98 +8,98 @@ local config = wezterm.config_builder()
 
 --  custom config keys to check if works accross macOS and Widnows
 config.keys = {
-	{
-		key = "-",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.DisableDefaultAssignment,
-	},
-	{
-		key = "x",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.DisableDefaultAssignment,
-	},
-	{
-		key = "m",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.DisableDefaultAssignment,
-	},
-	{
-		key = "|",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.SplitHorizontal({ domain = "CurrentPaneDomain" }),
-	},
-	{
-		key = "_",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.SplitVertical({ domain = "CurrentPaneDomain" }),
-	},
-	{
-		key = "x",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.CloseCurrentPane({ confirm = true }),
-	},
-	{
-		key = "f",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.ToggleFullScreen,
-	},
-	{
-		key = "h",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.ActivatePaneDirection("Left"),
-	},
-	{
-		key = "l",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.ActivatePaneDirection("Right"),
-	},
-	{
-		key = "k",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.ActivatePaneDirection("Up"),
-	},
-	{
-		key = "j",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.ActivatePaneDirection("Down"),
-	},
-	{
-		key = "a",
-		mods = "CTRL|SHIFT",
-		action = wezterm.action.ActivateKeyTable({
-			name = "resize_pane",
-			timeout_milliseconds = 1000,
-			one_shot = false,
-		}),
-	},
+  {
+    key = "-",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.DisableDefaultAssignment,
+  },
+  {
+    key = "x",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.DisableDefaultAssignment,
+  },
+  {
+    key = "m",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.DisableDefaultAssignment,
+  },
+  {
+    key = "|",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.SplitHorizontal({ domain = "CurrentPaneDomain" }),
+  },
+  {
+    key = "_",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.SplitVertical({ domain = "CurrentPaneDomain" }),
+  },
+  {
+    key = "x",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.CloseCurrentPane({ confirm = true }),
+  },
+  {
+    key = "f",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.ToggleFullScreen,
+  },
+  {
+    key = "h",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.ActivatePaneDirection("Left"),
+  },
+  {
+    key = "l",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.ActivatePaneDirection("Right"),
+  },
+  {
+    key = "k",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.ActivatePaneDirection("Up"),
+  },
+  {
+    key = "j",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.ActivatePaneDirection("Down"),
+  },
+  {
+    key = "a",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.ActivateKeyTable({
+      name = "resize_pane",
+      timeout_milliseconds = 1000,
+      one_shot = false,
+    }),
+  },
 }
 config.key_tables = {
-	-- Defines the keys that are active in our resize-pane mode.
-	-- Since we're likely to want to make multiple adjustments,
-	-- we made the activation one_shot=false. We therefore need
-	-- to define a key assignment for getting out of this mode.
-	-- 'resize_pane' here corresponds to the name="resize_pane" in
-	-- the key assignments above.
-	resize_pane = {
-		{ key = "LeftArrow", action = wezterm.action.AdjustPaneSize({ "Left", 5 }) },
-		{ key = "h", action = wezterm.action.AdjustPaneSize({ "Left", 5 }) },
+  -- Defines the keys that are active in our resize-pane mode.
+  -- Since we're likely to want to make multiple adjustments,
+  -- we made the activation one_shot=false. We therefore need
+  -- to define a key assignment for getting out of this mode.
+  -- 'resize_pane' here corresponds to the name="resize_pane" in
+  -- the key assignments above.
+  resize_pane = {
+    { key = "LeftArrow", action = wezterm.action.AdjustPaneSize({ "Left", 5 }) },
+    { key = "h", action = wezterm.action.AdjustPaneSize({ "Left", 5 }) },
 
-		{ key = "RightArrow", action = wezterm.action.AdjustPaneSize({ "Right", 5 }) },
-		{ key = "l", action = wezterm.action.AdjustPaneSize({ "Right", 5 }) },
+    { key = "RightArrow", action = wezterm.action.AdjustPaneSize({ "Right", 5 }) },
+    { key = "l", action = wezterm.action.AdjustPaneSize({ "Right", 5 }) },
 
-		{ key = "UpArrow", action = wezterm.action.AdjustPaneSize({ "Up", 5 }) },
-		{ key = "k", action = wezterm.action.AdjustPaneSize({ "Up", 5 }) },
+    { key = "UpArrow", action = wezterm.action.AdjustPaneSize({ "Up", 5 }) },
+    { key = "k", action = wezterm.action.AdjustPaneSize({ "Up", 5 }) },
 
-		{ key = "DownArrow", action = wezterm.action.AdjustPaneSize({ "Down", 5 }) },
-		{ key = "j", action = wezterm.action.AdjustPaneSize({ "Down", 5 }) },
+    { key = "DownArrow", action = wezterm.action.AdjustPaneSize({ "Down", 5 }) },
+    { key = "j", action = wezterm.action.AdjustPaneSize({ "Down", 5 }) },
 
-		-- Cancel the mode by pressing escape
-		{ key = "Escape", action = "PopKeyTable" },
-	},
+    -- Cancel the mode by pressing escape
+    { key = "Escape", action = "PopKeyTable" },
+  },
 }
 
 -- For example, changing the color scheme:
-config.color_scheme = "Tokyo Night"
+config.color_scheme = "Catppuccin Macchiato"
 --config.colors = {
 --	foreground = "#CBE0F0",
 --	background = "#011423",
