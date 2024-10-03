@@ -3,9 +3,10 @@ source $ZSH/oh-my-zsh.sh
 
 source ~/.nvm/nvm.sh
 
-if [ "$TERM_PROGRAM" != "Apple_Terminal" ]; then
-  eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/base.json)"
-fi
+eval "$(starship init zsh)"
+#if [ "$TERM_PROGRAM" != "Apple_Terminal" ]; then
+#  eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/base.json)"
+#fi
 
 plugins=(git direnv)
 
