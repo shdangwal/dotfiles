@@ -14,6 +14,9 @@ alias vi="nvim"
 alias vim="nvim"
 alias ls="eza --icons=always --git --color=always"
 
+# tdf alias
+alias tdf="~/Development/rust/tdf/target/release/tdf"
+
 eval "$(zoxide init zsh)"
 alias cd="z"
 
