@@ -34,6 +34,11 @@ config.keys = {
     action = wezterm.action.SplitVertical({ domain = "CurrentPaneDomain" }),
   },
   {
+    key = "c",
+    mods = "CTRL|SHIFT",
+    action = wezterm.action.ActivateCopyMode,
+  },
+  {
     key = "x",
     mods = "CTRL|SHIFT",
     action = wezterm.action.CloseCurrentPane({ confirm = true }),
