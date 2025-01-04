@@ -9,6 +9,7 @@ eval "$(starship init zsh)"
 #fi
 
 plugins=(git direnv)
+plugins+=(zsh-vi-mode)
 
 alias vi="nvim"
 alias vim="nvim"
