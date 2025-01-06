@@ -28,22 +28,48 @@
   (setq evil-want-integration t)
   (evil-collection-init))
 
-
-(tool-bar-mode 0)
-(menu-bar-mode 0)
-(scroll-bar-mode 0)
-(setq display-line-numbers-type 'relative)
-(global-display-line-numbers-mode 1)
-
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(package-selected-packages '(undo-fu evil-collection evil)))
+ '(package-selected-packages '(vertico catppuccin-theme undo-fu evil-collection evil)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
+
+
+;;; enabling relative line numbers
+(setq display-line-numbers-type 'relative)
+(global-display-line-numbers-mode 1)
+
+;;; loading theme and setting to 'frappe
+(load-theme 'catppuccin :no-confirm)
+(setq catppuccin-flavor 'frappe)
+(catppuccin-reload)
+
+;;; disabling all toolbar, menubar, scrollbar, titlebar
+(tool-bar-mode -1)
+(menu-bar-mode -1)
+(scroll-bar-mode -1)
+(setq default-frame-alist '((undecorated . t)))
+
+
+(recentf-mode 1)
+(setq history-length 25)
+(savehist-mode 1)
+(save-place-mode 1)
+
+;;; don't pop up UI dialogs when prompting
+(setq use-dialog-box nil)
+
+
+;;; revert buffers when the underlying file has changed
+(global-auto-revert-mode 1)
+;;; for dired
+(setq global-auto-revert-non-file-buffers t)
+
+
