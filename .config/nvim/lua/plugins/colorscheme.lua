@@ -13,10 +13,12 @@
 --
 return {
   {
-    "ViViDboarder/wombat.nvim",
-    dependencies = { { "rktjmp/lush.nvim" } },
+    "Mofiqul/dracula.nvim",
+  },
+  {
+    "LazyVim/LazyVim",
     opts = {
-      ansi_colors_name = nil,
+      colorscheme = "dracula",
     },
   },
 }
