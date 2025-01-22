@@ -104,7 +104,8 @@ config.key_tables = {
 }
 
 -- For example, changing the color scheme:
-config.color_scheme = "Catppuccin Macchiato"
+--config.color_scheme = "Catppuccin Macchiato"
+config.color_scheme = "Dracula (Official)"
 --config.colors = {
 --	foreground = "#CBE0F0",
 --	background = "#011423",
@@ -123,7 +124,7 @@ config.font_size = 16
 config.enable_tab_bar = false
 
 config.window_decorations = "RESIZE"
-config.window_background_opacity = 0.95
+config.window_background_opacity = 1 --0.95
 config.macos_window_background_blur = 9
 
 -- and finally, return the configuration to wezterm

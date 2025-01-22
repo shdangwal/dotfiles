@@ -1,12 +1,22 @@
+--return {
+--  -- add gruvbox
+--  { "catppuccin/nvim" },
+--
+--  -- Configure LazyVim to load gruvbox
+--  {
+--    "LazyVim/LazyVim",
+--    opts = {
+--      colorscheme = "catppuccin-macchiato",
+--    },
+--  },
+--}
+--
 return {
-  -- add gruvbox
-  { "catppuccin/nvim" },
-
-  -- Configure LazyVim to load gruvbox
   {
-    "LazyVim/LazyVim",
+    "ViViDboarder/wombat.nvim",
+    dependencies = { { "rktjmp/lush.nvim" } },
     opts = {
-      colorscheme = "catppuccin-macchiato",
+      ansi_colors_name = nil,
     },
   },
 }
