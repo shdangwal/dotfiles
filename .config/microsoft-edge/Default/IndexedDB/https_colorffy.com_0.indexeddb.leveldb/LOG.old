@@ -1,0 +1,13 @@
+2025/11/02-08:50:38.639 a7a9 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_colorffy.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/02-08:50:38.640 a7a9 Recovering log #52
+2025/11/02-08:50:38.640 a7a9 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_colorffy.com_0.indexeddb.leveldb/000052.log 
+2025/11/02-08:50:38.650 a7ab Level-0 table #56: started
+2025/11/02-08:50:38.651 a7ab Level-0 table #56: 4974 bytes OK
+2025/11/02-08:50:38.653 a7ab Delete type=0 #52
+2025/11/02-08:50:38.653 a7ab Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x12\x00\x00\x05' @ 1180 : 1
+2025/11/02-08:50:38.653 a7ab Compacting 1@0 + 1@1 files
+2025/11/02-08:50:38.654 a7ab Generated table #57@0: 37 keys, 2264 bytes
+2025/11/02-08:50:38.654 a7ab Compacted 1@0 + 1@1 files => 2264 bytes
+2025/11/02-08:50:38.656 a7ab compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/02-08:50:38.656 a7ab Delete type=2 #56
+2025/11/02-08:50:38.657 a7ab Manual compaction at level-0 from '\x00\x12\x00\x00\x05' @ 1180 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)

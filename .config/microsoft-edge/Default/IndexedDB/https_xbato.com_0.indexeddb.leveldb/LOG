@@ -1,0 +1,7 @@
+2025/07/13-01:43:39.692 c15 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_xbato.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/13-01:43:39.692 c15 Recovering log #3
+2025/07/13-01:43:39.693 c15 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_xbato.com_0.indexeddb.leveldb/000003.log 
+2025/07/13-01:46:12.613 c16 Level-0 table #5: started
+2025/07/13-01:46:12.615 c16 Level-0 table #5: 2002 bytes OK
+2025/07/13-01:46:12.616 c16 Delete type=0 #3
+2025/07/13-01:46:12.617 c16 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

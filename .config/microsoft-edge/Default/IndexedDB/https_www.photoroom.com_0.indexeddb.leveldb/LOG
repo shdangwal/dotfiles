@@ -1,0 +1,18 @@
+2025/08/23-17:53:24.051 d5de Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.photoroom.com_0.indexeddb.leveldb since it was missing.
+2025/08/23-17:53:24.053 d5de Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.photoroom.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/23-17:53:24.141 d5e1 Level-0 table #5: started
+2025/08/23-17:53:24.144 d5e1 Level-0 table #5: 669 bytes OK
+2025/08/23-17:53:24.146 d5e1 Delete type=0 #3
+2025/08/23-17:53:24.146 d5df Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/23-17:54:21.103 d5df Level-0 table #7: started
+2025/08/23-17:54:21.104 d5df Level-0 table #7: 1404 bytes OK
+2025/08/23-17:54:21.105 d5df Delete type=0 #4
+2025/08/23-17:54:21.106 d5df Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/08/23-17:54:21.106 d5df Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x004\x005\x006\x002\x008\x009\x007\x006\x008\x009\x007\x006\x00:\x00w\x00e\x00b\x00:\x004\x00e\x005\x005\x004\x006\x002\x006\x000\x00c\x00f\x004\x006\x008\x00f\x00d\x00b\x00f\x00d\x00c\x009\x005' @ 68 : 1
+2025/08/23-17:54:21.106 d5df Compacting 1@1 + 1@2 files
+2025/08/23-17:54:21.107 d5df Generated table #8@1: 21 keys, 915 bytes
+2025/08/23-17:54:21.107 d5df Compacted 1@1 + 1@2 files => 915 bytes
+2025/08/23-17:54:21.109 d5df compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/23-17:54:21.109 d5df Delete type=2 #7
+2025/08/23-17:54:21.109 d5df Delete type=2 #5
+2025/08/23-17:54:21.109 d5df Manual compaction at level-1 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x004\x005\x006\x002\x008\x009\x007\x006\x008\x009\x007\x006\x00:\x00w\x00e\x00b\x00:\x004\x00e\x005\x005\x004\x006\x002\x006\x000\x00c\x00f\x004\x006\x008\x00f\x00d\x00b\x00f\x00d\x00c\x009\x005' @ 68 : 1 .. (end); will stop at (end)

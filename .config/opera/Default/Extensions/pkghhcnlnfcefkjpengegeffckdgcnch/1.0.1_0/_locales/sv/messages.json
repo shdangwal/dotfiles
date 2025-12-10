@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Tidigt"
+   },
+   "hidden": {
+      "message": "Dold"
+   },
+   "late": {
+      "message": "Sen"
+   },
+   "seen": {
+      "message": "Sedd"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Skrattet har länge tystnat, men ljusen brinner fortfarande i detta animerade mörka tema."
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Early"
+   },
+   "hidden": {
+      "message": "Hidden"
+   },
+   "late": {
+      "message": "Late"
+   },
+   "seen": {
+      "message": "Seen"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Laughter has long faded, but the lights still burn in this animated dark theme."
+   }
+}

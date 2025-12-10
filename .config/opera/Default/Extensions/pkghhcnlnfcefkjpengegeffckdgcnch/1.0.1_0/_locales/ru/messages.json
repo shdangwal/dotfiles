@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Рано"
+   },
+   "hidden": {
+      "message": "Скрыто"
+   },
+   "late": {
+      "message": "Поздно"
+   },
+   "seen": {
+      "message": "Увидено"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Смех давно утих, но огни все еще горят в этой анимационной темной теме."
+   }
+}

@@ -1,0 +1,7 @@
+2025/06/11-15:10:45.038 5f4d Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_rivestream.xyz_0.indexeddb.leveldb since it was missing.
+2025/06/11-15:10:45.042 5f4d Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_rivestream.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/11-15:10:45.124 5f4d Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/11-15:13:49.485 5f5f Level-0 table #5: started
+2025/06/11-15:13:49.487 5f5f Level-0 table #5: 2533 bytes OK
+2025/06/11-15:13:49.488 5f5f Delete type=0 #3
+2025/06/11-15:13:49.488 5f5f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

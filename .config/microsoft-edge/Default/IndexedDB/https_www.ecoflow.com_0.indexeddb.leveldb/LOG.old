@@ -1,0 +1,6 @@
+2025/10/24-00:36:44.375 bc3 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.ecoflow.com_0.indexeddb.leveldb since it was missing.
+2025/10/24-00:36:44.378 bc3 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.ecoflow.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/24-00:36:49.385 bc4 Level-0 table #5: started
+2025/10/24-00:36:49.387 bc4 Level-0 table #5: 7160 bytes OK
+2025/10/24-00:36:49.388 bc4 Delete type=0 #3
+2025/10/24-00:36:49.389 bc4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

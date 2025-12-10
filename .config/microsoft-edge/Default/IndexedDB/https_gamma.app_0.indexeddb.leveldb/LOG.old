@@ -1,0 +1,6 @@
+2025/09/14-22:09:41.791 b87 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_gamma.app_0.indexeddb.leveldb since it was missing.
+2025/09/14-22:09:41.795 b87 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_gamma.app_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/14-22:11:03.458 b88 Level-0 table #5: started
+2025/09/14-22:11:03.460 b88 Level-0 table #5: 1666 bytes OK
+2025/09/14-22:11:03.461 b88 Delete type=0 #3
+2025/09/14-22:11:03.462 b88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

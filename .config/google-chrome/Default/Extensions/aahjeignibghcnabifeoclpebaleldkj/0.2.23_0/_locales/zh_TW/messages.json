@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "自訂選項卡組標題"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "新增規則"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "將選項卡新增至群組"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "將選項卡新增至群組中"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "自動分組所有取消分組的選項卡"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "自動組規則"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "背景主題"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "取消"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "更改字體系列"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "更改字體大小"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "關閉上面的選項卡"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "關閉下面的選項卡"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "關閉其他選項卡"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "關閉選定的選項卡"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "關閉選項卡"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "折疊/展開組"
+   },
+   "color": {
+      "description": "Color",
+      "message": "顏色"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "緊湊模式"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️配置"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "複製的"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "複製網址"
+   },
+   "create": {
+      "description": "Create",
+      "message": "創造"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "首先建立自動分組規則"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "建立群組"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "建立規則"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "建立選項卡"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "建立工作區"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "自訂網址"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "刪除群組"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "刪除規則"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "領域"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "重複標籤"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "編輯群組"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "編輯規則"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 啟用自動選項卡分組"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 啟用自動標籤懸浮"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 啟用工作區"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "（可選）輸入選定的網域。逗號代表多個"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "（可選）輸入選定的頂級網域。逗號代表多個"
+   },
+   "export": {
+      "description": "Export",
+      "message": "出口"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "在側面板中垂直管理選項卡和選項卡組。進階自動選項卡分組。切換工作空間。自動暫停選項卡"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - 垂直選項卡"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "篩選"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "第一個路徑段"
+   },
+   "format": {
+      "description": "Format",
+      "message": "格式"
+   },
+   "group": {
+      "description": "Group",
+      "message": "團體"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "將相同網域選項卡進行分組"
+   },
+   "import": {
+      "description": "Import",
+      "message": "進口"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "匯入/匯出選項卡"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "只需輕輕一按"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "鍵盤快速鍵"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "匹配模式"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "火柴"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "將群組移至視窗"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "將選項卡移至視窗"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "將選項卡移至視窗"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "靜音選項卡"
+   },
+   "name": {
+      "description": "Name",
+      "message": "姓名"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "上面的新標籤"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "下面的新標籤"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "新窗戶"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "面板位置"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "引腳標籤"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "優先事項"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "最近使用過"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "重新載入選項卡"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "刪除重複的選項卡"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "報告軟體缺陷"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "反向"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "規則名稱"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "搜尋選項卡"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "選擇選項卡"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "已選擇"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "（可選）輸入選定的第一條路徑。逗號代表多個"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "（可選）輸入選定的前兩個路徑。逗號代表多個"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "設定"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "抱歉，出了點問題"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "種類"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "暫停經理"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "暫停其他選項卡"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "暫停選定的選項卡"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "暫停選項卡"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "暫停選項卡組"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "選項卡標題包括"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "選項卡組規則"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "這個視窗"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "頂級域名"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "兩路段"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "取消分組所有選項卡"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "取消分組選項卡"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "全部取消選擇"
+   },
+   "update": {
+      "description": "Update",
+      "message": "更新"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "更新選項卡組標題"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "更新視窗名稱"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "網址匹配"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "工作空間"
+   }
+}

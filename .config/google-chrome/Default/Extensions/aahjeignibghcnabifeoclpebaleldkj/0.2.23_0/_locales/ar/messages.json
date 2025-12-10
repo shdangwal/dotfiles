@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "عنوان مجموعة علامات التبويب المخصصة"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "أضف القاعدة"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "إضافة علامة تبويب إلى المجموعة"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "إضافة علامات تبويب إلى المجموعة"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "تجميع تلقائي لجميع علامات التبويب غير المجمعة"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "قواعد المجموعة التلقائية"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "مواضيع الخلفية"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "يلغي"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "تغيير عائلة الخطوط"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "تغيير حجم الخط"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "إغلاق علامات التبويب أعلاه"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "إغلاق علامات التبويب أدناه"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "أغلق علامات التبويب الأخرى"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "إغلاق علامات التبويب المحددة"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "إغلاق علامة التبويب"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "طي/إلغاء طي المجموعة"
+   },
+   "color": {
+      "description": "Color",
+      "message": "لون"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "الوضع المضغوط"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️ التكوين"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "نسخ"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "إنسخ الرابط"
+   },
+   "create": {
+      "description": "Create",
+      "message": "يخلق"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "قم بإنشاء قاعدة المجموعة التلقائية أولاً"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "إنشاء مجموعة"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "إنشاء قاعدة"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "إنشاء علامة تبويب"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "إنشاء مساحة عمل"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "عنوان URL مخصص"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "حذف المجموعة"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "حذف القاعدة"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "اِختِصاص"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "علامة تبويب مكررة"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "تحرير المجموعة"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "تحرير القاعدة"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 تمكين تجميع علامات التبويب تلقائيًا"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 تمكين التعليق التلقائي لعلامات التبويب"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 تمكين مساحة العمل"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(اختياري) أدخل المجالات المحددة. فاصلة لمتعددة"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(اختياري) أدخل النطاقات العليا المحددة. فاصلة لمتعددة"
+   },
+   "export": {
+      "description": "Export",
+      "message": "يصدّر"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "إدارة علامات التبويب ومجموعات علامات التبويب عموديًا في اللوحة الجانبية. تجميع علامات التبويب التلقائي المتقدم. تبديل مساحات العمل. علامة التبويب تعليق تلقائي"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - علامات التبويب العمودية"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "منقي"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "مقطع المسار الأول"
+   },
+   "format": {
+      "description": "Format",
+      "message": "شكل"
+   },
+   "group": {
+      "description": "Group",
+      "message": "مجموعة"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "تجميع علامات تبويب المجال نفسه"
+   },
+   "import": {
+      "description": "Import",
+      "message": "يستورد"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "علامة التبويب استيراد/تصدير"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "بنقرة واحدة فقط"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "اختصارات لوحة المفاتيح"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "أنماط المباراة"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "اعواد الكبريت"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "انقل المجموعة إلى النافذة"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "نقل علامة التبويب إلى النافذة"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "نقل علامات التبويب إلى النافذة"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "علامة التبويب كتم الصوت"
+   },
+   "name": {
+      "description": "Name",
+      "message": "اسم"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "علامة تبويب جديدة أعلاه"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "علامة تبويب جديدة أدناه"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "نافذة جديدة"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "موقف اللوحة"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "علامة التبويب دبوس"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "أولوية"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "المستخدمة مؤخرا"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "إعادة تحميل علامة التبويب"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "إزالة علامات التبويب المكررة"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "تقرير الشوائب"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "يعكس"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "اسم القاعدة"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "علامات تبويب البحث"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "حدد علامة التبويب"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "المحدد"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(اختياري) أدخل المسار الأول المحدد. فاصلة لمتعددة"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(اختياري) أدخل المسارين الأولين المحددين. فاصلة لمتعددة"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "إعدادات"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "عذرا، هناك خطأ ما"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "نوع"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "ايقاف المدير"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "تعليق علامات التبويب الأخرى"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "تعليق علامات التبويب المحددة"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "تعليق علامة التبويب"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "تعليق مجموعة علامات التبويب"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "يتضمن عنوان علامة التبويب"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "قواعد مجموعة التبويب"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "هذه النافذة"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "المجال العلوي"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "مقطع مسارين"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "ungroup_all_tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "علامة التبويب فك التجميع"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "إلغاء تحديد الكل"
+   },
+   "update": {
+      "description": "Update",
+      "message": "تحديث"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "تحديث عنوان مجموعة علامات التبويب"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "تحديث اسم النافذة"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "مطابقة عنوان URL"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "مساحة العمل"
+   }
+}

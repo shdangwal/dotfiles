@@ -1,0 +1,13 @@
+2025/05/22-23:24:27.593 4eea Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/22-23:24:27.594 4eea Recovering log #10
+2025/05/22-23:24:27.594 4eea Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.myntra.com_0.indexeddb.leveldb/000010.log 
+2025/05/22-23:24:27.824 4eeb Level-0 table #14: started
+2025/05/22-23:24:27.826 4eeb Level-0 table #14: 4178 bytes OK
+2025/05/22-23:24:27.827 4eeb Delete type=0 #10
+2025/05/22-23:24:27.828 4eea Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 455 : 1
+2025/05/22-23:24:27.828 4eea Compacting 1@0 + 1@1 files
+2025/05/22-23:24:27.829 4eea Generated table #15@0: 38 keys, 2732 bytes
+2025/05/22-23:24:27.829 4eea Compacted 1@0 + 1@1 files => 2732 bytes
+2025/05/22-23:24:27.830 4eea compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/22-23:24:27.831 4eea Delete type=2 #14
+2025/05/22-23:24:27.831 4eea Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 455 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

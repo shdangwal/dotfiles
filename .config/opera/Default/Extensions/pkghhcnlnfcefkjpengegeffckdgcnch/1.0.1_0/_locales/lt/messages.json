@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Anksti"
+   },
+   "hidden": {
+      "message": "Paslėpta"
+   },
+   "late": {
+      "message": "Vėlu"
+   },
+   "seen": {
+      "message": "Matyta"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Juokas seniai išnyko, bet šviesos vis dar dega šiame animuotame tamsiame temoje."
+   }
+}

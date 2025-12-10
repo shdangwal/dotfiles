@@ -1,0 +1,260 @@
+{
+   "at": {
+      "message": "Afficher tous les onglets"
+   },
+   "button_bookmarks": {
+      "message": "Signets non classés"
+   },
+   "button_downloads": {
+      "message": "Téléchargements"
+   },
+   "button_filter_type": {
+      "message": "Recherche des titres ou urls"
+   },
+   "button_group_bar": {
+      "message": "Affiche / Masque les groupes"
+   },
+   "button_history": {
+      "message": "Historique"
+   },
+   "button_move": {
+      "message": "Détacher l’onglet"
+   },
+   "button_new": {
+      "message": "Appuyer le bouton sinistre du mouse pour ouvrir le nouvel onglet, le bouton central \npour doubler l’onglet actuel e le bouton droit du mouse pour faire défiler la liste à l'onglet actif."
+   },
+   "button_options": {
+      "message": "Réglages Vertical Tabs"
+   },
+   "button_pin": {
+      "message": "Figer / Défiger l’onglet"
+   },
+   "button_search": {
+      "message": "Recherche des onglets"
+   },
+   "button_settings": {
+      "message": "Réglages"
+   },
+   "button_sort": {
+      "message": "Trier les onglets"
+   },
+   "button_tools": {
+      "message": "Outils"
+   },
+   "button_undo": {
+      "message": "Rouvrir le dernier onglet fermé"
+   },
+   "caption_clear_filter": {
+      "message": "Effacer les résultats de la recherche"
+   },
+   "caption_group": {
+      "message": "Groupe"
+   },
+   "caption_loading": {
+      "message": "Chargement..."
+   },
+   "caption_searchbox": {
+      "message": "Recherche onglets..."
+   },
+   "close_group": {
+      "message": "Supprimer groupe actuel"
+   },
+   "donate_no_thanks_button": {
+      "message": "Ce n’est pas mon affaire et ne me montrer plus jamais cette fenêtre"
+   },
+   "donate_text_change_mind": {
+      "message": "Si vous changez l’idée, vous pouvez  à chaque moment envoyer votre donation par une option de cet extension.\u003Cbr>Je vous souhaite le plus aimable use de Vertical Tabs :)"
+   },
+   "donate_text_pledge": {
+      "message": "J’ai passé un numéro infini au travail sur cet extension  tous les jours et toutes les nuits,\u003Cbr>Vertical Tabs grandit mais malheureusement mon temps libre n’est pas sans limites.\u003Cbr>Je vous pris de penser à une donation, même minimale,  pour le développement future.\u003Cbr>Je vous en remercie beaucoup."
+   },
+   "extensionDescription": {
+      "message": "Manage your tabs in the sidebar!"
+   },
+   "extensionName": {
+      "message": "Vertical Tabs"
+   },
+   "group_edit_background": {
+      "message": "Couleur de fond"
+   },
+   "group_edit_button_cancel": {
+      "message": "Annuler"
+   },
+   "group_edit_button_confirm": {
+      "message": "OK"
+   },
+   "group_edit_font": {
+      "message": "Couleur du titre"
+   },
+   "groups_menu_bookmark": {
+      "message": "Ajouter aux favoris"
+   },
+   "groups_menu_close": {
+      "message": "Supprimer"
+   },
+   "groups_menu_close_with_tabs": {
+      "message": "Supprimer et fermer les onglets"
+   },
+   "groups_menu_edit": {
+      "message": "Modifier"
+   },
+   "groups_menu_mute": {
+      "message": "Couper le son du groupe"
+   },
+   "groups_menu_mute_other": {
+      "message": "Couper le son des autres"
+   },
+   "groups_menu_new": {
+      "message": "Nouveau groupe"
+   },
+   "groups_menu_suspend": {
+      "message": "Suspendre"
+   },
+   "groups_menu_unmute": {
+      "message": "Activer le son du groupe"
+   },
+   "groups_menu_unmute_other": {
+      "message": "Activer le son des autres"
+   },
+   "new_group": {
+      "message": "Créer un nouveau groupe"
+   },
+   "option_allow_pin_close": {
+      "message": " - allouer de fermer les onglets figés"
+   },
+   "options_always_show_close": {
+      "message": " - montrer le bouton de fermeture sur tous les onglets"
+   },
+   "options_apply_all_settings": {
+      "message": "Appliquer"
+   },
+   "options_auto_switch_to_group": {
+      "message": " - changer automatiquement le groupe, après avoir déplacé les onglets à un autre groupe"
+   },
+   "options_available_buttons": {
+      "message": "Les options disponibles, Drag and Drop pour personnaliser"
+   },
+   "options_close_with_MMB": {
+      "message": " - fermer l'onglet par bouton central de la mouse"
+   },
+   "options_pin_list_multi_row": {
+      "message": " - multiligne"
+   },
+   "options_pin_list_on_top": {
+      "message": " - visualiser le panneau des onglets figés en haut de la liste"
+   },
+   "options_pinned": {
+      "message": " Barre des onglets figés "
+   },
+   "options_reset_all_settings": {
+      "message": "Remettre"
+   },
+   "options_scroll_to_active": {
+      "message": " - défiler automatiquement la liste pour voir l’onglet actuel"
+   },
+   "options_scroll_to_moved": {
+      "message": " - défiler la liste quand l’onglet è déménagé de l’Opera"
+   },
+   "options_scroll_to_new": {
+      "message": " - défiler la liste pour voir l’onglet nouveau"
+   },
+   "options_scrollbar_pin_list": {
+      "message": " - l’hauteur de la barre du déroulement des onglets figés"
+   },
+   "options_scrollbar_tab_list": {
+      "message": " - la largeur de la barre de déroulement"
+   },
+   "options_scrollbars": {
+      "message": " Les barres du déroulement "
+   },
+   "options_scrolling": {
+      "message": " Déroulement "
+   },
+   "options_tabs": {
+      "message": " Onglets "
+   },
+   "options_theme": {
+      "message": "Thème"
+   },
+   "options_toolbar": {
+      "message": " La barre des outils "
+   },
+   "options_toolbar_main_buttons": {
+      "message": "Barre principale"
+   },
+   "options_toolbar_on_top": {
+      "message": " - visualiser la barre en haut"
+   },
+   "options_toolbar_reset": {
+      "message": "Remettre"
+   },
+   "options_toolbar_tools_buttons": {
+      "message": "La barre des outils"
+   },
+   "options_update_favicon_hover": {
+      "message": " - rafraîchir les icones et les titres des onglets quand la mouse passe au dessus les onglets"
+   },
+   "remove_tabs_from_group": {
+      "message": "Dissocier les onglets du groupe"
+   },
+   "repeat_search": {
+      "message": "Répéter la recherche"
+   },
+   "tabs_menu_bookmark": {
+      "message": "Ajouter aux favoris"
+   },
+   "tabs_menu_clone": {
+      "message": "Cloner l’onglet"
+   },
+   "tabs_menu_close": {
+      "message": "Fermer l’onglet"
+   },
+   "tabs_menu_close_above": {
+      "message": "Fermer au dessus"
+   },
+   "tabs_menu_close_below": {
+      "message": "Fermer au dessous"
+   },
+   "tabs_menu_close_other": {
+      "message": "Fermer les autres"
+   },
+   "tabs_menu_move": {
+      "message": "Détacher"
+   },
+   "tabs_menu_move_to_group": {
+      "message": "Déplacer vers un groupe:"
+   },
+   "tabs_menu_mute": {
+      "message": "Couper / Activer le son"
+   },
+   "tabs_menu_mute_other": {
+      "message": "Couper le son des autres"
+   },
+   "tabs_menu_new": {
+      "message": "Nouvel onglet"
+   },
+   "tabs_menu_pin": {
+      "message": "Figer"
+   },
+   "tabs_menu_reload": {
+      "message": "Recharger"
+   },
+   "tabs_menu_settings": {
+      "message": "Réglages"
+   },
+   "tabs_menu_undo": {
+      "message": "Rouvrir l’ultime fermé"
+   },
+   "tabs_menu_ungroup": {
+      "message": "Dégrouper"
+   },
+   "tabs_menu_unmute_other": {
+      "message": "Activer le son des autres"
+   },
+   "tabs_menu_unpin": {
+      "message": "Défiger"
+   },
+   "ut": {
+      "message": "Voir l’onglets qui ne font pas partie des groupes"
+   }
+}

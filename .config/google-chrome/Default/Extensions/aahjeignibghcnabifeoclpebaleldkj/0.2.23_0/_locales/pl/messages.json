@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "Karta niestandardowa Tytuł grupy"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "Dodaj regułę"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "Dodaj kartę do grupy"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "Dodaj karty do grupy"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "Automatycznie grupuj wszystkie karty rozgrupowujące"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "Reguły grupy automatycznej"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "Motywy tła"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "Anulować"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "Zmień rodzinę czcionek"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "Zmienić rozmiar czcionki"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "Zamknij powyższe karty"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "Zamknij poniższe karty"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "Zamknij inne karty"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "Zamknij wybrane karty"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "Zamknij kartę"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "zwiń/rozwiń grupę"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Kolor"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "Tryb kompaktowy"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️ Konfiguracja"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "skopiowane"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "Kopiuj URL"
+   },
+   "create": {
+      "description": "Create",
+      "message": "Tworzyć"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "Najpierw utwórz regułę automatycznego grupowania"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "Stworzyć grupę"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "Stwórz zasadę"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "Utwórz zakładkę"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "Utwórz obszar roboczy"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "Niestandardowy adres URL"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "Usuń grupę"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "Usuń regułę"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "Domena"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "Zduplikowana zakładka"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "Edytuj grupę"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "Edytuj regułę"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 Włącz automatyczne grupowanie kart"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 Włącz automatyczne zawieszenie kart"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 Włącz obszar roboczy"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(opcjonalnie) wprowadź wybrane domeny. przecinek dla wielu"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(opcjonalnie) wprowadź wybrane najlepsze domeny. przecinek dla wielu"
+   },
+   "export": {
+      "description": "Export",
+      "message": "Eksport"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Zarządzaj kartami i grupami kart w pionie w panelu bocznym. Zaawansowane automatyczne grupowanie kart. Zmień obszary robocze. Zakładka automatycznego zawieszania"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - zakładki pionowe"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "Filtr"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "Pierwszy segment ścieżki"
+   },
+   "format": {
+      "description": "Format",
+      "message": "Format"
+   },
+   "group": {
+      "description": "Group",
+      "message": "Grupa"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "Grupuj te same karty domeny"
+   },
+   "import": {
+      "description": "Import",
+      "message": "Import"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "Zakładka Import/eksport"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "Wystarczy jedno kliknięcie"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "Skróty klawiszowe"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "wzorce dopasowania"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "mecze"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "Przenieś grupę do okna"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "Przenieś zakładkę do okna"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "Przenieś karty do okna"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "Karta Wycisz"
+   },
+   "name": {
+      "description": "Name",
+      "message": "Nazwa"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "Nowa zakładka powyżej"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "Nowa zakładka poniżej"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "Nowe okno"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "Pozycja panelu"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "Tablica korkowa"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "Priorytet"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "Ostatnio używany"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "Załaduj ponownie kartę"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "Usuń zduplikowane karty"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "Zgłoś błąd"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "Odwracać"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "Nazwa reguły"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "Zakładki wyszukiwania"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "Wybierz zakładkę"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "wybrany"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(opcjonalnie) wprowadź wybraną pierwszą ścieżkę. przecinek dla wielu"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(opcjonalnie) wprowadź wybrane dwie pierwsze ścieżki. przecinek dla wielu"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Ustawienia"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "Przepraszam, coś poszło nie tak"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "Sortować"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "Zawieś menedżera"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "Zawieś inne karty"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "Zawieś wybrane karty"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "Zawieś kartę"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "Zawieś grupę zakładek"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "Tytuł karty zawiera"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "Reguły grupy zakładek"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "To okno"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "Najlepsza domena"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "Segment dwóch ścieżek"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "rozgrupuj_wszystkie_taby"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "Rozgrupuj kartę"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "Odznacz wszystko"
+   },
+   "update": {
+      "description": "Update",
+      "message": "Aktualizacja"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "Zaktualizuj tytuł grupy kart"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "Zaktualizuj nazwę okna"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "Dopasowanie adresu URL"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "Obszar roboczy"
+   }
+}

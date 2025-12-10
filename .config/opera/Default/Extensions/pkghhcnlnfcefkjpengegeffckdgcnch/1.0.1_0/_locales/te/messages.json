@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "మొదటి"
+   },
+   "hidden": {
+      "message": "దాచిన"
+   },
+   "late": {
+      "message": "మొదటి"
+   },
+   "seen": {
+      "message": "చూసిన"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "నవ్వు చాలా కాలం కరిగిపోయింది, కానీ ఈ యానిమేటెడ్ డార్క్ థీమ్‌లో ఇంకా దీపాలు వెలిగుతున్నాయి."
+   }
+}

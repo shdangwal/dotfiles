@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Рано"
+   },
+   "hidden": {
+      "message": "Скрито"
+   },
+   "late": {
+      "message": "Късно"
+   },
+   "seen": {
+      "message": "Видяно"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Смехът отдавна е изчезнал, но светлините все още горят в тази анимирана тъмна тема."
+   }
+}

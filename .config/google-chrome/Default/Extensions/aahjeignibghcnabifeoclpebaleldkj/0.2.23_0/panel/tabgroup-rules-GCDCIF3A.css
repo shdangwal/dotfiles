@@ -1,0 +1,287 @@
+* {
+	box-sizing: border-box;
+}
+
+svg {
+	height: 1.4em;
+	vertical-align: middle;
+	fill: var(--icon-clr);
+	cursor: pointer;
+}
+
+ul {
+	padding-left: 0.8em;
+
+	& li {
+		list-style-type: none;
+		margin-bottom: 0.2em;
+	}
+}
+
+dialog {
+	border: none;
+	border-radius: 0.4em;
+	box-shadow: var(--card);
+	background-color: light-dark(white, hsl(0, 0%, 14%));
+	overflow: visible;
+
+	&:hover .close-btn {
+		opacity: 1;
+	}
+}
+
+:host > dialog {
+	width: 90%;
+	height: 78vh;
+	padding: 0;
+
+	& > header {
+		display: flex;
+		align-items: center;
+		padding: 0.4em 1em;
+		border-radius: 0.4em 0.4em 0 0;
+		box-shadow: var(--card);
+		background-color: light-dark(whitesmoke, hsl(0, 0%, 18%));
+
+		& button {
+			width: unset;
+			padding-inline: 0.4em;
+			padding-block: unset;
+			margin-left: auto;
+		}
+	}
+}
+
+/* tabgroup-rule */
+tabgroup-rule-list {
+	padding: 0.5em;
+	display: flex;
+	flex-direction: column;
+	row-gap: 0.8em;
+}
+
+tabgroup-rule {
+	--bdr-clr: dodgerblue;
+	display: block;
+	padding: 0.4em;
+	border-radius: 0.4em;
+	background-color: light-dark(white, hsl(0, 0%, 20%));
+	box-shadow: var(--card);
+	position: relative;
+
+	&:hover .toggle_rule {
+		opacity: 1;
+	}
+
+	&:has(.toggle_rule:checked) {
+		outline: 1px solid var(--bdr-clr);
+	}
+
+	&:hover {
+		& .edit-icon,
+		& .delete-icon {
+			opacity: 1;
+		}
+	}
+}
+
+.toggle_rule {
+	position: absolute;
+	left: -0.5em;
+	top: -0.5em;
+	scale: 1.2;
+	opacity: 0;
+	accent-color: var(--bdr-clr);
+
+	&:checked {
+		opacity: 1;
+	}
+}
+
+@scope (rule-details) {
+	:scope {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	:scope > div {
+		display: flex;
+		flex-direction: column;
+		row-gap: 0.3em;
+
+		& > label,
+		& > div {
+			font-size: 95%;
+			display: flex;
+			justify-content: space-between;
+			column-gap: 0.4em;
+		}
+
+		&.left-column > div {
+			justify-content: unset;
+		}
+	}
+
+	input[type="text"],
+	input[type="number"] {
+		width: 12ch;
+		border: none;
+		color: inherit;
+		background-color: inherit;
+	}
+
+	var {
+		font-style: small;
+	}
+}
+
+.edit-icon,
+.delete-icon {
+	opacity: 0;
+	transition: opacity 400ms ease-out 100ms;
+}
+
+.edit-icon {
+	/* Backward compatibity */
+	&:--checked svg {
+		& line {
+			visibility: visible;
+		}
+	}
+
+	&:state(checked) svg {
+		& line {
+			visibility: visible;
+		}
+	}
+}
+
+.close-btn {
+	position: absolute;
+	top: -0.5em;
+	right: -0.5em;
+	opacity: 0;
+	transition: opacity 200ms ease-in-out;
+}
+
+/* create-rule-dialog */
+@scope (#create-rule-dialog) {
+	:scope {
+		max-width: 86%;
+		margin-inline: auto;
+		background-color: light-dark(white, hsl(0, 0%, 20%));
+	}
+
+	input[type="text"],
+	input[type="number"] {
+		border: var(--border);
+		border-radius: 4px;
+		background-color: light-dark(white, black);
+		color: inherit;
+		padding: 0.4em 0.5em;
+		font-family: inherit;
+		margin-top: 0.2em;
+	}
+
+	input[type="number"] {
+		width: 5ch;
+	}
+
+	.rule-row {
+		margin-block: 0.8em;
+		display: flex;
+	}
+
+	.chip-list {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.4em;
+		margin-left: 0.4em;
+		margin-top: 0.4em;
+		padding-left: 0;
+
+		& .chip-item {
+			display: inline-flex;
+			column-gap: 2px;
+			font-size: 0.75rem;
+			padding: 2px 0.4em;
+			overflow-x: hidden;
+			background-color: light-dark(whitesmoke, hsl(0, 0%, 28%));
+			border-radius: 1em;
+
+			& svg {
+				height: 1.1em;
+			}
+		}
+	}
+
+	.url-match {
+		border: var(--border);
+		border-radius: 0.4em;
+
+		& header {
+			padding: 0.4em;
+			border-radius: 0.4em 0.4em 0 0;
+			box-shadow: var(--card);
+			background-color: light-dark(whitesmoke, hsl(0, 0%, 16%));
+		}
+
+		& input[type="email"] {
+			display: none;
+			margin-left: 1.5em;
+			width: 88%;
+		}
+
+		& label:has(input:checked) + input {
+			display: block;
+		}
+
+		& label:has(input:disabled) {
+			opacity: 50%;
+
+			& + input {
+				display: none;
+			}
+		}
+	}
+
+	.color-pot {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5em 1em;
+		margin-bottom: 0.5em;
+
+		& label {
+			height: 2.2em;
+			width: 2.2em;
+			border-radius: 50%;
+			display: inline-block;
+			background-color: var(--clr);
+
+			&:has(input:checked) {
+				outline: 2px dashed red;
+			}
+		}
+	}
+}
+
+button {
+	border: none;
+	background-image: var(--btn-clr);
+	text-align: center;
+	box-shadow: var(--card);
+	border-radius: 7px;
+	padding-block: 0.5em;
+	margin-left: 1.2em;
+	width: 80%;
+	font-weight: bold;
+	font-size: medium;
+	color: #ffff;
+	opacity: 0.7;
+	cursor: pointer;
+
+	&:hover {
+		opacity: 1;
+		transition: opacity 0.5s linear;
+	}
+}

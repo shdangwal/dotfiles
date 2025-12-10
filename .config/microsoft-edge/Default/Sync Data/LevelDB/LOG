@@ -1,0 +1,6 @@
+2025/12/10-09:44:11.884 197e Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/12/10-09:44:11.893 197e Recovering log #883
+2025/12/10-09:44:11.894 197e Reusing old log /home/shdangwal/.config/microsoft-edge/Default/Sync Data/LevelDB/000883.log 
+2025/12/10-13:40:44.479 1980 Level-0 table #888: started
+2025/12/10-13:40:44.485 1980 Level-0 table #888: 111754 bytes OK
+2025/12/10-13:40:44.488 1980 Delete type=0 #883

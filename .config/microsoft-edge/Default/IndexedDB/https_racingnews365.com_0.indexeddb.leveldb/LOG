@@ -1,0 +1,6 @@
+2025/07/09-20:48:31.507 3301 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_racingnews365.com_0.indexeddb.leveldb since it was missing.
+2025/07/09-20:48:31.510 3301 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_racingnews365.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/09-20:49:43.654 3302 Level-0 table #5: started
+2025/07/09-20:49:43.655 3302 Level-0 table #5: 1443 bytes OK
+2025/07/09-20:49:43.657 3302 Delete type=0 #3
+2025/07/09-20:49:43.657 3302 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

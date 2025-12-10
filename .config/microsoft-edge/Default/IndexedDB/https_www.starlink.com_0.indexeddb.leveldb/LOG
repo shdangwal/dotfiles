@@ -1,0 +1,18 @@
+2025/06/22-22:42:58.762 c54 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.starlink.com_0.indexeddb.leveldb since it was missing.
+2025/06/22-22:42:58.765 c54 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.starlink.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/22-22:42:59.211 c56 Level-0 table #5: started
+2025/06/22-22:42:59.213 c56 Level-0 table #5: 1297 bytes OK
+2025/06/22-22:42:59.215 c56 Delete type=0 #3
+2025/06/22-22:42:59.216 c54 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/22-22:45:19.605 c55 Level-0 table #7: started
+2025/06/22-22:45:19.606 c55 Level-0 table #7: 9350 bytes OK
+2025/06/22-22:45:19.608 c55 Delete type=0 #4
+2025/06/22-22:45:19.608 c55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/06/22-22:45:19.608 c55 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x004\x007\x008\x006\x009\x004\x005\x000\x007\x007\x009\x00:\x00w\x00e\x00b\x00:\x007\x008\x00e\x001\x00e\x00b\x009\x00a\x00d\x000\x002\x009\x009\x009\x004\x008\x001\x001\x004\x00e\x00b\x00e' @ 160 : 1
+2025/06/22-22:45:19.609 c55 Compacting 1@1 + 1@2 files
+2025/06/22-22:45:19.610 c55 Generated table #8@1: 58 keys, 3801 bytes
+2025/06/22-22:45:19.610 c55 Compacted 1@1 + 1@2 files => 3801 bytes
+2025/06/22-22:45:19.611 c55 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/22-22:45:19.612 c55 Delete type=2 #7
+2025/06/22-22:45:19.612 c55 Delete type=2 #5
+2025/06/22-22:45:19.612 c55 Manual compaction at level-1 from '\x00\x04\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x005\x004\x007\x008\x006\x009\x004\x005\x000\x007\x007\x009\x00:\x00w\x00e\x00b\x00:\x007\x008\x00e\x001\x00e\x00b\x009\x00a\x00d\x000\x002\x009\x009\x009\x004\x008\x001\x001\x004\x00e\x00b\x00e' @ 160 : 1 .. (end); will stop at (end)

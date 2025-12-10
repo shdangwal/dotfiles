@@ -1,0 +1,10 @@
+2025/11/26-11:23:02.034 bb3 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_kukufm.com_0.indexeddb.leveldb since it was missing.
+2025/11/26-11:23:02.036 bb3 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_kukufm.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/26-11:23:02.047 bb5 Level-0 table #5: started
+2025/11/26-11:23:02.049 bb5 Level-0 table #5: 1308 bytes OK
+2025/11/26-11:23:02.050 bb5 Delete type=0 #3
+2025/11/26-11:23:02.051 bb3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/26-11:23:03.209 bb4 Level-0 table #7: started
+2025/11/26-11:23:03.210 bb4 Level-0 table #7: 3581 bytes OK
+2025/11/26-11:23:03.212 bb4 Delete type=0 #4
+2025/11/26-11:23:03.212 bb4 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

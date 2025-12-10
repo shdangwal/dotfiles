@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Varhainen"
+   },
+   "hidden": {
+      "message": "Piilotettu"
+   },
+   "late": {
+      "message": "Myöhäinen"
+   },
+   "seen": {
+      "message": "Nähty"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Nauru on kauan sitten haalistunut, mutta valot palavat yhä tässä animoidussa tummassa teemassa."
+   }
+}

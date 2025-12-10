@@ -1,0 +1,46 @@
+{
+   "action": {
+      "default_title": "Open Vertical tabs (Alt + V)"
+   },
+   "author": "TabRail",
+   "background": {
+      "service_worker": "background/background.js",
+      "type": "module"
+   },
+   "commands": {
+      "_execute_action": {
+         "suggested_key": {
+            "default": "Alt+V",
+            "linux": "Alt+V",
+            "mac": "Alt+V",
+            "windows": "Alt+V"
+         }
+      },
+      "duplicateTab": {
+         "description": "Duplicate current tab",
+         "suggested_key": {
+            "default": "Alt+C"
+         }
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "homepage_url": "https://tabVertikal.tabrail.site/",
+   "icons": {
+      "128": "icon_128.png",
+      "16": "icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxATe9wB2c1yEk6bFV6ueOGWW1JbbDIXZtmhhwzKdPaFyspqn8IxPiRFUf9M99NN5cGAKY5UT3tl59bzyvmG1Ej+BGcIrjlEQZiFS4I+1irUsC7e9zD6Td67qGZ7av5F8cGdfLpQy+MgzHMNCLDt2uv9a1vF+F067YDlMTjwfKfQDx2FiYyqmQoZtg7Fs+GN42AgsNC2rWcSuv1gPhTbNr6h/Q58YbUHRv0yQ89jX44g7kYrYxMPOncQg9X+6z8JXW/jwCWab3Ck12zgk+DK1Rjcv7u7v8w86Cuwxyao28AJSQGpXSHs0xeCHTq4Cdtsl9NeHETroI5TFE4Y0QhM8qQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "123",
+   "name": "__MSG_extName__",
+   "offline_enabled": true,
+   "options_page": "options/index.html",
+   "permissions": [ "sidePanel", "tabs", "tabGroups", "storage", "contextMenus" ],
+   "short_name": "tabVertikal",
+   "side_panel": {
+      "default_path": "panel/index.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.23"
+}

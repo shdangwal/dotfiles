@@ -1,0 +1,10 @@
+2025/06/11-15:10:45.495 8b41 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_cinemaos-v2.vercel.app_0.indexeddb.leveldb since it was missing.
+2025/06/11-15:10:45.499 8b41 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_cinemaos-v2.vercel.app_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/11-15:10:45.607 8b40 Level-0 table #5: started
+2025/06/11-15:10:45.609 8b40 Level-0 table #5: 1293 bytes OK
+2025/06/11-15:10:45.611 8b40 Delete type=0 #3
+2025/06/11-15:10:45.611 8b40 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/11-15:14:20.322 12ded Level-0 table #7: started
+2025/06/11-15:14:20.324 12ded Level-0 table #7: 6436 bytes OK
+2025/06/11-15:14:20.325 12ded Delete type=0 #4
+2025/06/11-15:14:20.326 12ded Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

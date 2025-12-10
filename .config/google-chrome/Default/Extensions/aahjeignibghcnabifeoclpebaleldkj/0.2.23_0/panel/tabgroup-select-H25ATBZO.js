@@ -1,0 +1,5 @@
+import{a as s}from"./chunk-T7ZIDMMC.js";import{e as i,o}from"./chunk-I5YWVGZK.js";import"./chunk-EK7ODJWE.js";var r=class extends HTMLElement{constructor(t){super(),this.tabIds=t}async groupTabsInExistGroup(t){try{await chrome.tabs.group({tabIds:this.tabIds,groupId:t}),$("marked-action")?.remove(),notify("add in tabgroup")}catch(e){console.error(e)}}onTabGroupSelect({target:t}){let e=+t.closest("li").id;if(e)return this.groupTabsInExistGroup(e);this.after(new s(null,this.tabIds))}render(){let t=e=>o`<li id=${e.id}>
+			<cite>${e.title}</cite>
+			<tv-icon ico="edit" title="edit group"></tv-icon>
+		</li>`;return o`${this.tabGroups.map(t)}
+			<li>${i18n("create_group")}</li>`}async connectedCallback(){this.id="tabgroup-list",this.style.left="4em",this.setAttribute("popover",""),this.tabGroups=await i({}),this.replaceChildren(this.render()),this.showPopover(),$on(this,"click",this.onTabGroupSelect),$on(this,"toggle",t=>t.newState==="closed"&&this.remove())}};customElements.define("tabgroup-select",r);export{r as TabgroupSelect};

@@ -1,0 +1,123 @@
+.config-item {
+	box-shadow: var(--card);
+	background-color: var(--popup-bgc);
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0.5em;
+}
+
+/* switch */
+.switch {
+	position: relative;
+	display: inline-block;
+	width: 60px;
+	height: 34px;
+
+	& input {
+		opacity: 0;
+
+		&:checked + .slider {
+			background-color: limegreen;
+		}
+
+		&:focus + .slider {
+			box-shadow: 0 0 1px limegreen;
+		}
+
+		&:checked + .slider:before {
+			translate: 26px;
+		}
+	}
+}
+
+.slider {
+	position: absolute;
+	cursor: pointer;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #ccc;
+	transition: 0.4s;
+	border-radius: 34px;
+
+	&:before {
+		position: absolute;
+		content: "";
+		height: 26px;
+		width: 26px;
+		left: 4px;
+		bottom: 4px;
+		background-color: white;
+		transition: 0.4s;
+		border-radius: 50%;
+	}
+}
+
+.setting-info {
+	flex-grow: 1;
+	& h3 {
+		margin-block: 0.2em;
+	}
+}
+
+details {
+	padding-block: 0.5em;
+	padding-left: 0.5em;
+}
+
+#font-size {
+	width: 8ch;
+	margin-right: 2px;
+}
+
+#theme-list {
+	padding-left: 0;
+	overflow-x: auto;
+	display: flex;
+	column-gap: 0.5em;
+
+	& > li {
+		list-style-type: none;
+		& img {
+			cursor: pointer;
+			border: 1px solid white;
+			border-radius: 2px;
+		}
+	}
+}
+
+/* snackbar  */
+#snackbar {
+	min-width: 8em;
+	background-color: var(--toast-bgc);
+	color: var(--toast-txt);
+	text-align: center;
+	border-radius: 1em;
+	padding: 0.6em;
+	position: fixed;
+	z-index: 1000;
+	left: 40%;
+	bottom: 2em;
+	width: max-content;
+	translate: 0 200%;
+	animation: in-out 4s ease-out;
+}
+
+@keyframes in-out {
+	10%,
+	90% {
+		translate: 0 0;
+	}
+}
+
+@keyframes top-drop {
+	from {
+		scale: 1 0;
+	}
+
+	to {
+		scale: 1;
+	}
+}

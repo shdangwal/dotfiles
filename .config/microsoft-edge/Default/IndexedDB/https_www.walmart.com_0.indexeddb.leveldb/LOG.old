@@ -1,0 +1,6 @@
+2025/11/28-19:35:28.942 b94 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.walmart.com_0.indexeddb.leveldb since it was missing.
+2025/11/28-19:35:28.948 b94 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.walmart.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/28-19:40:30.444 b95 Level-0 table #5: started
+2025/11/28-19:40:30.446 b95 Level-0 table #5: 1928 bytes OK
+2025/11/28-19:40:30.447 b95 Delete type=0 #3
+2025/11/28-19:40:30.448 b95 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

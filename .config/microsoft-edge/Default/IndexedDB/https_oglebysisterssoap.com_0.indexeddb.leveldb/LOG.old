@@ -1,0 +1,6 @@
+2025/12/06-18:24:07.489 13ff Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_oglebysisterssoap.com_0.indexeddb.leveldb since it was missing.
+2025/12/06-18:24:07.493 13ff Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_oglebysisterssoap.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/06-18:25:03.856 1400 Level-0 table #5: started
+2025/12/06-18:25:03.858 1400 Level-0 table #5: 9479 bytes OK
+2025/12/06-18:25:03.859 1400 Delete type=0 #3
+2025/12/06-18:25:03.859 1400 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

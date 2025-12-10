@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Miedź"
+   },
+   "greyscale": {
+      "message": "Skala szarości"
+   },
+   "rise": {
+      "message": "Wschód"
+   },
+   "set": {
+      "message": "Zachód"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Tu są smoki. Odkryj animowane tapety ze starego świata z muzyką i dźwiękiem."
+   }
+}

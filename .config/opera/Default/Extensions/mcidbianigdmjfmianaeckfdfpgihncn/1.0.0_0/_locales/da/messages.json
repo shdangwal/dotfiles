@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Kobber"
+   },
+   "greyscale": {
+      "message": "Gråskala"
+   },
+   "rise": {
+      "message": "Stige"
+   },
+   "set": {
+      "message": "Sæt"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Her er drager. Udforsk et gammeldags animeret tapet med musik og lyd."
+   }
+}

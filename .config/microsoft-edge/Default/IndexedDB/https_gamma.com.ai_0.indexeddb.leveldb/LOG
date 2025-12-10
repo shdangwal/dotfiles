@@ -1,0 +1,26 @@
+2025/09/14-22:14:53.218 b88 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_gamma.com.ai_0.indexeddb.leveldb since it was missing.
+2025/09/14-22:14:53.221 b88 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_gamma.com.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/14-22:16:20.758 b87 Level-0 table #5: started
+2025/09/14-22:16:20.777 b87 Level-0 table #5: 1266954 bytes OK
+2025/09/14-22:16:20.780 b87 Delete type=0 #3
+2025/09/14-22:22:23.146 b88 Level-0 table #7: started
+2025/09/14-22:22:23.162 b88 Level-0 table #7: 1272888 bytes OK
+2025/09/14-22:22:23.164 b88 Delete type=0 #4
+2025/09/14-22:23:40.797 b89 Compacting 1@1 + 1@2 files
+2025/09/14-22:23:40.808 b89 Generated table #8@1: 318 keys, 597982 bytes
+2025/09/14-22:23:40.808 b89 Compacted 1@1 + 1@2 files => 597982 bytes
+2025/09/14-22:23:40.809 b89 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/14-22:23:40.809 b89 Delete type=2 #7
+2025/09/14-22:23:40.809 b89 Delete type=2 #5
+2025/09/14-23:10:08.765 b88 Level-0 table #10: started
+2025/09/14-23:10:08.778 b88 Level-0 table #10: 827809 bytes OK
+2025/09/14-23:10:08.780 b88 Delete type=0 #6
+2025/09/14-23:10:08.781 b88 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/09/14-23:10:08.781 b88 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x03\x00\x00\x00\x00\x00\xc0Y@' @ 4202 : 1
+2025/09/14-23:10:08.781 b88 Compacting 1@1 + 1@2 files
+2025/09/14-23:10:08.788 b88 Generated table #11@1: 295 keys, 578743 bytes
+2025/09/14-23:10:08.788 b88 Compacted 1@1 + 1@2 files => 578743 bytes
+2025/09/14-23:10:08.789 b88 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/14-23:10:08.790 b88 Delete type=2 #10
+2025/09/14-23:10:08.790 b88 Delete type=2 #8
+2025/09/14-23:10:08.790 b88 Manual compaction at level-1 from '\x00\x03\x01\x02\x03\x00\x00\x00\x00\x00\xc0Y@' @ 4202 : 1 .. (end); will stop at (end)

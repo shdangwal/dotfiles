@@ -1,0 +1,3 @@
+2025/09/14-18:42:19.093 b89 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_offers.smartbuy.hdfcbank.com_0.indexeddb.leveldb since it was missing.
+2025/09/14-18:42:19.096 b89 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_offers.smartbuy.hdfcbank.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/14-18:42:19.102 b89 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

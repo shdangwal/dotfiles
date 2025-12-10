@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "முன்பே"
+   },
+   "hidden": {
+      "message": "மறைக்கப்பட்ட"
+   },
+   "late": {
+      "message": "தாமதமாக"
+   },
+   "seen": {
+      "message": "காணப்பட்டது"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "சிரிப்பு நீண்ட காலமாக மாறிவிட்டது, ஆனால் இந்த அனிமேட்டெட் இருண்ட தீமில் விளக்குகள் இன்னும் எரிகின்றன."
+   }
+}

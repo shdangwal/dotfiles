@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["ng-validate.ts"],
+  "sourcesContent": [null],
+  "mappings": "mBAUA,GAAIA,SAASC,cAAgB,YAAa,CACxC,IAAMC,EAASF,SAASG,cAAc,QAAQ,EAC9CD,EAAOE,IAAMC,OAAOC,QAAQC,OAAO,iDAAiD,EACpFP,SAASQ,gBAAgBC,YAAYP,CAAM,EAC3CF,SAASQ,gBAAgBE,YAAYR,CAAM,CAC7C",
+  "names": ["document", "contentType", "script", "createElement", "src", "chrome", "runtime", "getURL", "documentElement", "appendChild", "removeChild"]
+}

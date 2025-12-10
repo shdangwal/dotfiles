@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Copper"
+   },
+   "greyscale": {
+      "message": "Greyscale"
+   },
+   "rise": {
+      "message": "Rise"
+   },
+   "set": {
+      "message": "Set"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Here be dragons. Explore an old-world animated wallpaper with music and sound."
+   }
+}

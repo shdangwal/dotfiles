@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Sớm"
+   },
+   "hidden": {
+      "message": "Ẩn"
+   },
+   "late": {
+      "message": "Muộn"
+   },
+   "seen": {
+      "message": "Đã thấy"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Tiếng cười đã lâu phai tắt, nhưng ánh sáng vẫn còn sáng trong chủ đề tối hoạt hình này."
+   }
+}

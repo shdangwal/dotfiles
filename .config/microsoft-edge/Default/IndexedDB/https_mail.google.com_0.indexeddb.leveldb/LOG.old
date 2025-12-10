@@ -1,0 +1,24 @@
+2025/11/25-12:08:13.372 ba2 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/25-12:08:13.372 ba2 Recovering log #80
+2025/11/25-12:08:13.388 ba2 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000080.log 
+2025/11/25-12:08:16.701 ba4 Compacting 1@1 + 1@2 files
+2025/11/25-12:08:16.775 ba4 Generated table #83@1: 366 keys, 1961990 bytes
+2025/11/25-12:08:16.775 ba4 Compacted 1@1 + 1@2 files => 1961990 bytes
+2025/11/25-12:08:16.776 ba4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/25-12:08:16.777 ba4 Delete type=2 #79
+2025/11/25-12:08:16.788 ba4 Delete type=2 #81
+2025/11/25-12:08:16.789 ba4 Level-0 table #85: started
+2025/11/25-12:08:16.864 ba4 Level-0 table #85: 3168088 bytes OK
+2025/11/25-12:08:16.871 ba4 Delete type=0 #80
+2025/11/25-12:08:21.995 ba3 Compacting 1@1 + 1@2 files
+2025/11/25-12:08:22.010 ba3 Generated table #86@1: 108 keys, 316482 bytes
+2025/11/25-12:08:22.010 ba3 Compacted 1@1 + 1@2 files => 316482 bytes
+2025/11/25-12:08:22.011 ba3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/25-12:08:22.012 ba3 Delete type=2 #85
+2025/11/25-12:08:22.012 ba3 Delete type=2 #83
+2025/11/25-12:09:04.389 ba3 Level-0 table #88: started
+2025/11/25-12:09:04.447 ba3 Level-0 table #88: 3182374 bytes OK
+2025/11/25-12:09:04.450 ba3 Delete type=0 #84
+2025/11/25-12:09:18.797 ba3 Level-0 table #90: started
+2025/11/25-12:09:18.856 ba3 Level-0 table #90: 3195837 bytes OK
+2025/11/25-12:09:18.858 ba3 Delete type=0 #87

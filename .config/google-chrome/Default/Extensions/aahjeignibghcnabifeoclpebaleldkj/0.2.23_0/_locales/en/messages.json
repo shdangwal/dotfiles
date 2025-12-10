@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "Custom tabGroup title"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "Add Rule"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "Add tab to group"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "Add tabs to group"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "Auto group all ungroup tabs"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "Auto Group rules"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "Background themes"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "Cancel"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "Change font family"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "Change font size"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "Close above tabs"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "Close below tabs"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "Close other tabs"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "Close selected tabs"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "Close tab"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "collapse/uncollapse group"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Color"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "Compact mode"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️ Configuration"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "copied"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "Copy URL"
+   },
+   "create": {
+      "description": "Create",
+      "message": "Create"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "Create autogroup rule first"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "Create group"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": " Create Rule"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "Create Tab"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": " Create workspace"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "Custom url"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "Delete group"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "Delete rule"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "Domain"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "Duplicate tab"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "Edit group"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "Edit rule"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 Enable Auto tab grouping"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 Enable Auto tab suspension"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 Enable Workspace"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(optional) enter selected domains. comma for multi"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(optional) enter selected top domains. comma for multi"
+   },
+   "export": {
+      "description": "Export",
+      "message": "Export"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Manage tabs & tabGroups vertically in side panel. Advanced auto tab grouping. Switch workspaces. Auto suspend tab"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - vertical tabs"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "Filter"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "First Path segment"
+   },
+   "format": {
+      "description": "Format",
+      "message": "Format"
+   },
+   "group": {
+      "description": "Group",
+      "message": "Group"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "Group same domain tabs"
+   },
+   "import": {
+      "description": "Import",
+      "message": "Import"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "Import/export tab"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "Just one click"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "Keyboard shortcuts"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "match patterns"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "Matches"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "Move group to window"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "Move tab to window"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "Move tabs to window"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "Mute tab"
+   },
+   "name": {
+      "description": "Name",
+      "message": "Name"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "New tab above"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "New tab below"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "New window"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "Panel position"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "Pin tab"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "Priority"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "Recent used"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "Reload tab"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "Remove duplicate tabs"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "Report Bug"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "Reverse"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "Rule name"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "Search tabs"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "Select tab"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "selected"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(optional) enter selected first path. comma for multi"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(optional) enter selected first two path. comma for multi"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Settings"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "Sorry, Something went wrong"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "Sort"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "Suspend manager"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "Suspend other tabs"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "Suspend selected tabs"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "Suspend tab"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "Suspend tabgroup"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "Tab title includes"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "TabGroup Rules"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "This window"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "Top domain"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "Two Path segment"
+   },
+   "ungroup_all_tabs": {
+      "description": "Ungroup all tabs",
+      "message": "Ungroup all tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "Ungroup tab"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "Unselect all"
+   },
+   "update": {
+      "description": "Update",
+      "message": "Update"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "Update tabgroup title"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "Update window name"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "Url Match"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "Workspace"
+   }
+}

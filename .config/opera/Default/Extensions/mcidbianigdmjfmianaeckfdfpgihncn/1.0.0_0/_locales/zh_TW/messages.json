@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "銅"
+   },
+   "greyscale": {
+      "message": "灰階"
+   },
+   "rise": {
+      "message": "升起"
+   },
+   "set": {
+      "message": "落下"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "這裡有龍。探索一個舊世界的動畫壁紙，伴隨音樂和聲音。"
+   }
+}

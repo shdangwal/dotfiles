@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Νωρίς"
+   },
+   "hidden": {
+      "message": "Κρυφό"
+   },
+   "late": {
+      "message": "Αργά"
+   },
+   "seen": {
+      "message": "Ορατό"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Το γέλιο έχει εδώ και καιρό σβήσει, αλλά τα φώτα εξακολουθούν να καίνε σε αυτό το κινούμενο σκοτεινό θέμα."
+   }
+}

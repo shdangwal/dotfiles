@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Awal"
+   },
+   "hidden": {
+      "message": "Tersembunyi"
+   },
+   "late": {
+      "message": "Terlambat"
+   },
+   "seen": {
+      "message": "Terlihat"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Tawa telah lama memudar, tetapi lampu masih menyala dalam tema gelap yang animasi ini."
+   }
+}

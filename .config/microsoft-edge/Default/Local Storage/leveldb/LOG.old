@@ -1,0 +1,24 @@
+2025/12/10-00:36:38.252 5 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/Local Storage/leveldb/MANIFEST-000001
+2025/12/10-00:36:38.263 5 Recovering log #13170
+2025/12/10-00:36:38.264 5 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/Local Storage/leveldb/013170.log 
+2025/12/10-09:25:41.732 7 Level-0 table #13174: started
+2025/12/10-09:25:41.737 7 Level-0 table #13174: 77107 bytes OK
+2025/12/10-09:25:41.739 7 Delete type=0 #13170
+2025/12/10-09:25:41.740 7 Compacting 4@0 + 4@1 files
+2025/12/10-09:25:41.820 7 Generated table #13175@0: 1609 keys, 2588488 bytes
+2025/12/10-09:25:41.894 7 Generated table #13176@0: 568 keys, 3569278 bytes
+2025/12/10-09:25:41.933 7 Generated table #13177@0: 3692 keys, 2192593 bytes
+2025/12/10-09:25:41.964 7 Generated table #13178@0: 11681 keys, 1472085 bytes
+2025/12/10-09:25:41.964 7 Compacted 4@0 + 4@1 files => 9822444 bytes
+2025/12/10-09:25:41.965 7 compacted to: files[ 0 4 6 0 0 0 0 ]
+2025/12/10-09:25:41.967 7 Delete type=2 #13163
+2025/12/10-09:25:41.967 7 Delete type=2 #13164
+2025/12/10-09:25:41.967 7 Delete type=2 #13162
+2025/12/10-09:25:41.967 7 Delete type=2 #13169
+2025/12/10-09:25:41.967 7 Delete type=2 #13165
+2025/12/10-09:25:41.967 7 Delete type=2 #13167
+2025/12/10-09:25:41.967 7 Delete type=2 #13171
+2025/12/10-09:25:41.967 7 Delete type=2 #13174
+2025/12/10-09:25:51.207 7 Level-0 table #13180: started
+2025/12/10-09:25:51.211 7 Level-0 table #13180: 25650 bytes OK
+2025/12/10-09:25:51.213 7 Delete type=0 #13173

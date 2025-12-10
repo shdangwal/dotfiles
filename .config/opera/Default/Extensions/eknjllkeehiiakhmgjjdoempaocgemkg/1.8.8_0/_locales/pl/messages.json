@@ -1,0 +1,281 @@
+{
+   "at": {
+      "message": "Pokaż wszystkie karty"
+   },
+   "button_bookmarks": {
+      "message": "Inne Zakładki"
+   },
+   "button_downloads": {
+      "message": "Pobrane pliki"
+   },
+   "button_filter_type": {
+      "message": "Wyszukaj po tytule lub adresie url"
+   },
+   "button_group_bar": {
+      "message": "Pokaż / Schowaj grupy"
+   },
+   "button_history": {
+      "message": "Historia"
+   },
+   "button_move": {
+      "message": "Odczep kartę"
+   },
+   "button_new": {
+      "message": "Przyciśnij lewy przycisk myszki żeby otworzyć nową kartę.\nPrzyciśnij środkowy przycisk myszki, żeby powielić kartę.\nPrzyciśnij prawy przycisk myszki, żeby przewinąć listę do aktywnej karty."
+   },
+   "button_options": {
+      "message": "Opcje Vertical Tabs"
+   },
+   "button_pin": {
+      "message": "Przypnij / Odepnij aktywną kartę"
+   },
+   "button_search": {
+      "message": "Wyszukaj karty"
+   },
+   "button_settings": {
+      "message": "Opcje"
+   },
+   "button_sort": {
+      "message": "Sortuj karty"
+   },
+   "button_tools": {
+      "message": "Narzędzia"
+   },
+   "button_undo": {
+      "message": "Przywróć zamkniętą kartę"
+   },
+   "caption_clear_filter": {
+      "message": "Wyczyść wyniki wyszukiwania"
+   },
+   "caption_group": {
+      "message": "Grupa"
+   },
+   "caption_loading": {
+      "message": "Ładowanie..."
+   },
+   "caption_searchbox": {
+      "message": "Szukaj kart..."
+   },
+   "close_group": {
+      "message": "Usuń aktywną grupę"
+   },
+   "donate_no_thanks_button": {
+      "message": "To nie moja sprawa i nigdy więcej nie pokazuj mi tego okienka"
+   },
+   "donate_text_change_mind": {
+      "message": "Jeżeli zmienisz zdanie, w każdym momencie możesz przesłać donację z opcji tego rosszerzenia.\u003Cbr>Życzę miłego używania Vertical Tabs :)"
+   },
+   "donate_text_pledge": {
+      "message": "Spędziłem niezliczoną ilość godzin pracy nad tym rozszerzeniem każdego dnia i nocy, \u003Cbr>Vertical Tabs wciąż rośnie a mój wolny czas niestety nie jest nieograniczony. \u003Cbr>Proszę rozważyć chociaż minimalną donację na dalszy rozwój. \u003Cbr>Z góry bardzo dziękuję."
+   },
+   "extensionDescription": {
+      "message": "Organizuj karty w bocznym pasku!"
+   },
+   "extensionName": {
+      "message": "Vertical Tabs"
+   },
+   "group_edit_background": {
+      "message": "Kolor tła"
+   },
+   "group_edit_button_cancel": {
+      "message": "Anuluj"
+   },
+   "group_edit_button_confirm": {
+      "message": "OK"
+   },
+   "group_edit_font": {
+      "message": "Kolor tytułu"
+   },
+   "groups_menu_bookmark": {
+      "message": "Dodaj do zakładek"
+   },
+   "groups_menu_close": {
+      "message": "Usuń"
+   },
+   "groups_menu_close_with_tabs": {
+      "message": "Usuń i zamknij karty"
+   },
+   "groups_menu_edit": {
+      "message": "Modyfikuj"
+   },
+   "groups_menu_mute": {
+      "message": "Wycisz grupę"
+   },
+   "groups_menu_mute_other": {
+      "message": "Wycisz inne grupy"
+   },
+   "groups_menu_new": {
+      "message": "Nowa grupa"
+   },
+   "groups_menu_suspend": {
+      "message": "Uśpij"
+   },
+   "groups_menu_unmute": {
+      "message": "Przywróć dźwięk"
+   },
+   "groups_menu_unmute_other": {
+      "message": "Przywróć dźwięk innych"
+   },
+   "new_group": {
+      "message": "Stwórz nową grupę"
+   },
+   "option_allow_pin_close": {
+      "message": " - zezwalaj zamykanie przypiętych kart"
+   },
+   "options_activate_last_after_close": {
+      "message": "Po zamknięciu aktywnej karty, "
+   },
+   "options_always_show_close": {
+      "message": " - wyświetlaj przycisk zamknij na wszystkich kartach"
+   },
+   "options_apply_all_settings": {
+      "message": "Zastosuj"
+   },
+   "options_auto_switch_to_group": {
+      "message": " - automatycznie przejdź do grupy po przerzuceniu kart"
+   },
+   "options_available_buttons": {
+      "message": "Możliwe opcje, przeciągnij ikony, żeby zmodyfikować paski"
+   },
+   "options_close_with_MMB": {
+      "message": " - zamykaj karty środkowym przyciskiem myszki"
+   },
+   "options_drop_down_menu_after_close_action_last": {
+      "message": "powróć do poprzedniej karty"
+   },
+   "options_drop_down_menu_after_close_action_next": {
+      "message": "uaktywnij kartę na dole"
+   },
+   "options_drop_down_menu_after_close_action_opera": {
+      "message": "zostaw wybór operze (aktywacja kart powoduje przeskoki między grupami)"
+   },
+   "options_drop_down_menu_after_close_action_prev": {
+      "message": "uaktywnij kartę na górze"
+   },
+   "options_pin_list_multi_row": {
+      "message": " - wiele linii"
+   },
+   "options_pin_list_on_top": {
+      "message": " - wyświetlaj panel nad listą kart"
+   },
+   "options_pinned": {
+      "message": " Panel przypiętych kart "
+   },
+   "options_reset_all_settings": {
+      "message": "Domyślne"
+   },
+   "options_scroll_to_active": {
+      "message": " - automatycznie przewijaj listę do aktywnej karty"
+   },
+   "options_scroll_to_moved": {
+      "message": " - aktualizuj listę, gdy zmienia się kolejność kart"
+   },
+   "options_scroll_to_new": {
+      "message": " - przewijaj listę do nowej karty"
+   },
+   "options_scrollbar_pin_list": {
+      "message": " - wysokość paska panelu przypiętych kart"
+   },
+   "options_scrollbar_tab_list": {
+      "message": " - szerokość paska listy kart"
+   },
+   "options_scrollbars": {
+      "message": " Paski przesuwania "
+   },
+   "options_scrolling": {
+      "message": " Przewijanie "
+   },
+   "options_tabs": {
+      "message": " Karty "
+   },
+   "options_theme": {
+      "message": "Motyw"
+   },
+   "options_toolbar": {
+      "message": " Pasek narzędzi "
+   },
+   "options_toolbar_main_buttons": {
+      "message": "Pasek główny"
+   },
+   "options_toolbar_on_top": {
+      "message": " - wyświetlaj pasek na górze"
+   },
+   "options_toolbar_reset": {
+      "message": "Domyślne"
+   },
+   "options_toolbar_tools_buttons": {
+      "message": "Pasek narzędzi"
+   },
+   "options_update_favicon_hover": {
+      "message": " - odświeżaj ikonki i tytuły kart, kiedy kursor myszki przechodzi nad kartami"
+   },
+   "remove_tabs_from_group": {
+      "message": "Usuń wybrany karty z grupy"
+   },
+   "repeat_search": {
+      "message": "Powtórz wyszukiwanie"
+   },
+   "tabs_menu_bookmark": {
+      "message": "Dodaj do zakładek"
+   },
+   "tabs_menu_clone": {
+      "message": "Powiel"
+   },
+   "tabs_menu_close": {
+      "message": "Zamknij"
+   },
+   "tabs_menu_close_above": {
+      "message": "Zamknij powyższe"
+   },
+   "tabs_menu_close_below": {
+      "message": "Zamknij poniższe"
+   },
+   "tabs_menu_close_other": {
+      "message": "Zamknij inne"
+   },
+   "tabs_menu_discard": {
+      "message": "Wyładuj"
+   },
+   "tabs_menu_move": {
+      "message": "Odczep"
+   },
+   "tabs_menu_move_to_group": {
+      "message": "Przenieś do grupy:"
+   },
+   "tabs_menu_move_to_new_group": {
+      "message": "Przenieś do nowej grupy"
+   },
+   "tabs_menu_mute": {
+      "message": "Wycisz / Przywróć dźwięk"
+   },
+   "tabs_menu_mute_other": {
+      "message": "Wycisz inne karty"
+   },
+   "tabs_menu_new": {
+      "message": "Nowa karta"
+   },
+   "tabs_menu_pin": {
+      "message": "Przypnij"
+   },
+   "tabs_menu_reload": {
+      "message": "Odśwież"
+   },
+   "tabs_menu_settings": {
+      "message": "Ustawienia"
+   },
+   "tabs_menu_undo": {
+      "message": "Przywróć zamkniętą"
+   },
+   "tabs_menu_ungroup": {
+      "message": "Usuń z grupy"
+   },
+   "tabs_menu_unmute_other": {
+      "message": "Przywróć dźwięk innych"
+   },
+   "tabs_menu_unpin": {
+      "message": "Odepnij"
+   },
+   "ut": {
+      "message": "Pokaż karty nie należące do żadnej grupy"
+   }
+}

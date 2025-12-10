@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "早い"
+   },
+   "hidden": {
+      "message": "隠された"
+   },
+   "late": {
+      "message": "遅い"
+   },
+   "seen": {
+      "message": "見られた"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "笑いは長い間消え去ったが、このアニメーションされたダークテーマではまだ明かりが灯っている。"
+   }
+}

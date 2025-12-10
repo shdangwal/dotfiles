@@ -1,0 +1,6 @@
+2025/07/06-15:38:36.218 c6d Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.paypal.com_0.indexeddb.leveldb since it was missing.
+2025/07/06-15:38:36.222 c6d Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.paypal.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/06-15:38:38.310 c6e Level-0 table #5: started
+2025/07/06-15:38:38.311 c6e Level-0 table #5: 1293 bytes OK
+2025/07/06-15:38:38.313 c6e Delete type=0 #3
+2025/07/06-15:38:38.313 c6e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

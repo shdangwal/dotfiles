@@ -1,0 +1,32 @@
+2025/11/26-13:05:19.934 bb3 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/26-13:05:19.935 bb3 Recovering log #89
+2025/11/26-13:05:19.953 bb3 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000089.log 
+2025/11/26-13:05:22.641 bb3 Compacting 1@0 + 1@1 files
+2025/11/26-13:05:22.667 bb3 Generated table #92@0: 1076 keys, 2242240 bytes
+2025/11/26-13:05:22.685 bb3 Generated table #93@0: 178 keys, 1136300 bytes
+2025/11/26-13:05:22.685 bb3 Compacted 1@0 + 1@1 files => 3378540 bytes
+2025/11/26-13:05:22.687 bb3 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/11/26-13:05:22.688 bb3 Delete type=2 #88
+2025/11/26-13:05:22.688 bb3 Delete type=2 #90
+2025/11/26-13:05:24.515 bb3 Expanding@1 1+1 (2242240+316482 bytes) to 2+1 (3378540+316482 bytes)
+2025/11/26-13:05:24.515 bb3 Compacting 2@1 + 1@2 files
+2025/11/26-13:05:24.539 bb3 Generated table #94@1: 331 keys, 2220366 bytes
+2025/11/26-13:05:24.547 bb3 Generated table #95@1: 77 keys, 424744 bytes
+2025/11/26-13:05:24.547 bb3 Compacted 2@1 + 1@2 files => 2645110 bytes
+2025/11/26-13:05:24.549 bb3 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/11/26-13:05:24.549 bb3 Delete type=2 #92
+2025/11/26-13:05:24.549 bb3 Delete type=2 #86
+2025/11/26-13:05:24.549 bb3 Delete type=2 #93
+2025/11/26-13:05:25.446 bb4 Level-0 table #97: started
+2025/11/26-13:05:25.484 bb4 Level-0 table #97: 3168500 bytes OK
+2025/11/26-13:05:25.487 bb4 Delete type=0 #89
+2025/11/26-13:05:28.204 bb4 Compacting 1@1 + 2@2 files
+2025/11/26-13:05:28.233 bb4 Generated table #98@1: 129 keys, 478008 bytes
+2025/11/26-13:05:28.233 bb4 Compacted 1@1 + 2@2 files => 478008 bytes
+2025/11/26-13:05:28.234 bb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/11/26-13:05:28.235 bb4 Delete type=2 #94
+2025/11/26-13:05:28.235 bb4 Delete type=2 #95
+2025/11/26-13:05:28.235 bb4 Delete type=2 #97
+2025/11/26-13:05:42.599 bb4 Level-0 table #100: started
+2025/11/26-13:05:42.656 bb4 Level-0 table #100: 3179391 bytes OK
+2025/11/26-13:05:42.659 bb4 Delete type=0 #96

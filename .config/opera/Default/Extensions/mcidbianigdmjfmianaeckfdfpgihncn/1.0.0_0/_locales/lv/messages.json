@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Varš"
+   },
+   "greyscale": {
+      "message": "Pelēktoņu"
+   },
+   "rise": {
+      "message": "Saullēkts"
+   },
+   "set": {
+      "message": "Saulriets"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Šeit ir pūķi. Izpētiet vecās pasaules animētu tapeti ar mūziku un skaņu."
+   }
+}

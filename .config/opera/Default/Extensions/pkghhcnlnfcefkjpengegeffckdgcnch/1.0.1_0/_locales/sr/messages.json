@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Рано"
+   },
+   "hidden": {
+      "message": "Скривено"
+   },
+   "late": {
+      "message": "Касно"
+   },
+   "seen": {
+      "message": "Видљиво"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Смех је давно утихнуо, али светла и даље горе у овој анимираној тамној теми."
+   }
+}

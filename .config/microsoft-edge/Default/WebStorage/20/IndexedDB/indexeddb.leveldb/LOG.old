@@ -1,0 +1,7 @@
+2025/10/11-12:11:43.703 bac Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/WebStorage/20/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/10/11-12:11:43.703 bac Recovering log #3
+2025/10/11-12:11:43.704 bac Reusing old log /home/shdangwal/.config/microsoft-edge/Default/WebStorage/20/IndexedDB/indexeddb.leveldb/000003.log 
+2025/10/11-12:11:43.789 bac Level-0 table #5: started
+2025/10/11-12:11:43.790 bac Level-0 table #5: 5832 bytes OK
+2025/10/11-12:11:43.792 bac Delete type=0 #3
+2025/10/11-12:11:43.792 bac Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

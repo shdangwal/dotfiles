@@ -1,0 +1,25 @@
+2025/12/01-00:01:12.935 ba6 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_asiaflix.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/01-00:01:12.935 ba6 Recovering log #41
+2025/12/01-00:01:12.936 ba6 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_asiaflix.net_0.indexeddb.leveldb/000041.log 
+2025/12/01-00:01:12.936 ba6 Delete type=2 #39
+2025/12/01-00:01:13.079 ba7 Level-0 table #46: started
+2025/12/01-00:01:13.080 ba7 Level-0 table #46: 924 bytes OK
+2025/12/01-00:01:13.082 ba7 Delete type=0 #41
+2025/12/01-00:01:13.083 ba6 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\x05' @ 549 : 1
+2025/12/01-00:01:13.083 ba6 Compacting 1@0 + 1@1 files
+2025/12/01-00:01:13.085 ba6 Generated table #47@0: 53 keys, 1398 bytes
+2025/12/01-00:01:13.085 ba6 Compacted 1@0 + 1@1 files => 1398 bytes
+2025/12/01-00:01:13.086 ba6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/01-00:01:13.087 ba6 Delete type=2 #46
+2025/12/01-00:01:13.087 ba6 Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 549 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/01-00:01:18.986 ba7 Level-0 table #49: started
+2025/12/01-00:01:18.987 ba7 Level-0 table #49: 931 bytes OK
+2025/12/01-00:01:18.989 ba7 Delete type=0 #45
+2025/12/01-00:01:18.989 ba7 Delete type=2 #43
+2025/12/01-00:01:18.989 ba6 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x11\x00\x00\x05' @ 582 : 1
+2025/12/01-00:01:18.990 ba6 Compacting 1@0 + 1@1 files
+2025/12/01-00:01:18.991 ba6 Generated table #50@0: 60 keys, 1470 bytes
+2025/12/01-00:01:18.991 ba6 Compacted 1@0 + 1@1 files => 1470 bytes
+2025/12/01-00:01:18.993 ba6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/01-00:01:18.993 ba6 Delete type=2 #49
+2025/12/01-00:01:18.993 ba6 Manual compaction at level-0 from '\x00\x11\x00\x00\x05' @ 582 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)

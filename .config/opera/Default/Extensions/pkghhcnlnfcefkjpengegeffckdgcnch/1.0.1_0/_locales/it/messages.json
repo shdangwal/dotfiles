@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Presto"
+   },
+   "hidden": {
+      "message": "Nascosto"
+   },
+   "late": {
+      "message": "Tardi"
+   },
+   "seen": {
+      "message": "Visto"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "La risata è svanita da tempo, ma le luci brillano ancora in questo tema scuro animato."
+   }
+}

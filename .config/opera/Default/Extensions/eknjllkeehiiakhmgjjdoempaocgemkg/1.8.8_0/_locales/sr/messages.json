@@ -1,0 +1,254 @@
+{
+   "at": {
+      "message": "Прикажи све картице"
+   },
+   "button_bookmarks": {
+      "message": "Несортирани обележивачи"
+   },
+   "button_downloads": {
+      "message": "Преузимања"
+   },
+   "button_filter_type": {
+      "message": "Претражи наслове и адресе"
+   },
+   "button_group_bar": {
+      "message": "Приказуј / Сакриј групe"
+   },
+   "button_history": {
+      "message": "Историја"
+   },
+   "button_move": {
+      "message": "Одвоји картицу"
+   },
+   "button_new": {
+      "message": "Притисни леви тастер миша за отварање нове картице. \nПритисни точкић миша за клонирање активне картице. \nПритисни десни тастер миша за скроловање листе до активне картице."
+   },
+   "button_options": {
+      "message": "Vertical tabs подешавања"
+   },
+   "button_pin": {
+      "message": "Закачи или откачи тренутну картицу"
+   },
+   "button_search": {
+      "message": "Претражи картице"
+   },
+   "button_settings": {
+      "message": "Подешавања"
+   },
+   "button_sort": {
+      "message": "Сортирај картице"
+   },
+   "button_tools": {
+      "message": "Алати"
+   },
+   "button_undo": {
+      "message": "Поново отвори последњу затворену картицу"
+   },
+   "caption_clear_filter": {
+      "message": "Очисти резултате претраге"
+   },
+   "caption_group": {
+      "message": "Група"
+   },
+   "caption_loading": {
+      "message": "Учитавање..."
+   },
+   "caption_searchbox": {
+      "message": "Претражи картице..."
+   },
+   "donate_no_thanks_button": {
+      "message": "Не интересује ме и не узнемиравај више"
+   },
+   "donate_text_change_mind": {
+      "message": "Ако се предомислите, можете донирати са странице за опције.\u003Cbr>Желим Вам пријатно искуство са Vertical Tabs проширењем :)"
+   },
+   "donate_text_pledge": {
+      "message": "Провео сам небројене сате радећи на овом проширењу сваког дана и ноћи, \u003Cbr>како Vertical Tabs проширење и даље расте а моје слободно време није неограничено, \u003Cbr>размислите о донирању за даљи развој. Много Вам хвала."
+   },
+   "extensionDescription": {
+      "message": "Управљајте картицама на бочној траци!"
+   },
+   "extensionName": {
+      "message": "Vertical Tabs"
+   },
+   "group_edit_background": {
+      "message": "Background color"
+   },
+   "group_edit_button_cancel": {
+      "message": "Cancel"
+   },
+   "group_edit_button_confirm": {
+      "message": "OK"
+   },
+   "group_edit_font": {
+      "message": "Title color"
+   },
+   "groups_menu_bookmark": {
+      "message": "Додаj у обележиваче"
+   },
+   "groups_menu_close": {
+      "message": "Уклони"
+   },
+   "groups_menu_close_with_tabs": {
+      "message": "Уклони и затвори картице"
+   },
+   "groups_menu_edit": {
+      "message": "edit"
+   },
+   "groups_menu_mute": {
+      "message": "Стишај групу"
+   },
+   "groups_menu_mute_other": {
+      "message": "Стишај остале"
+   },
+   "groups_menu_new": {
+      "message": "Нова група"
+   },
+   "groups_menu_suspend": {
+      "message": "Обустави"
+   },
+   "groups_menu_unmute": {
+      "message": "Поништи стишавање"
+   },
+   "groups_menu_unmute_other": {
+      "message": "Поништи стишавање осталих"
+   },
+   "new_group": {
+      "message": "Направи нову групу"
+   },
+   "option_allow_pin_close": {
+      "message": " - дозволи затварање закачених картица"
+   },
+   "options_always_show_close": {
+      "message": " - прикажи дугме за затварање на свим картицама"
+   },
+   "options_apply_all_settings": {
+      "message": "Примени"
+   },
+   "options_auto_switch_to_group": {
+      "message": " - аутоматски пребаци на групу након премештања картица у другу групу"
+   },
+   "options_available_buttons": {
+      "message": "Доступне опције, превуци и пусти за прилагођавање"
+   },
+   "options_close_with_MMB": {
+      "message": " - затвори картицу средњим кликом миша"
+   },
+   "options_pin_list_multi_row": {
+      "message": " - више редова"
+   },
+   "options_pin_list_on_top": {
+      "message": " - прикажи траку закачених картица на врху"
+   },
+   "options_pinned": {
+      "message": " Трака закачених картица "
+   },
+   "options_reset_all_settings": {
+      "message": "Врати подешавања на подразумевана"
+   },
+   "options_scroll_to_active": {
+      "message": " - аутоматски листај до активне картице"
+   },
+   "options_scroll_to_moved": {
+      "message": " - ажурирај листу приликом померања картица Опера прегледача"
+   },
+   "options_scroll_to_new": {
+      "message": " - листај до нове картице"
+   },
+   "options_scrollbar_pin_list": {
+      "message": " - висина клизне траке на траци закачених картица"
+   },
+   "options_scrollbar_tab_list": {
+      "message": " - ширина клизне траке на листи картица"
+   },
+   "options_scrollbars": {
+      "message": " Клизна трака "
+   },
+   "options_scrolling": {
+      "message": " Листање "
+   },
+   "options_tabs": {
+      "message": " Картице "
+   },
+   "options_theme": {
+      "message": "Тема"
+   },
+   "options_toolbar": {
+      "message": " Трака алата "
+   },
+   "options_toolbar_main_buttons": {
+      "message": "Главна трака"
+   },
+   "options_toolbar_on_top": {
+      "message": " - прикажи траку алата на врху"
+   },
+   "options_toolbar_reset": {
+      "message": "Врати на подразумевано"
+   },
+   "options_toolbar_tools_buttons": {
+      "message": "Алати"
+   },
+   "options_update_favicon_hover": {
+      "message": " - ажурирај фавиконе и наслове када се курсором миша пређе преко картица"
+   },
+   "repeat_search": {
+      "message": "Понови претрагу"
+   },
+   "tabs_menu_bookmark": {
+      "message": "Додаj у обележиваче"
+   },
+   "tabs_menu_clone": {
+      "message": "Клонирај"
+   },
+   "tabs_menu_close": {
+      "message": "Затвори"
+   },
+   "tabs_menu_close_above": {
+      "message": "Затвори изнад"
+   },
+   "tabs_menu_close_below": {
+      "message": "Затвори испод"
+   },
+   "tabs_menu_close_other": {
+      "message": "Затвори остале"
+   },
+   "tabs_menu_move": {
+      "message": "Одвоји"
+   },
+   "tabs_menu_move_to_group": {
+      "message": "Move to group:"
+   },
+   "tabs_menu_mute": {
+      "message": "Стишај / Поништи стишавање"
+   },
+   "tabs_menu_mute_other": {
+      "message": "Стишај остале"
+   },
+   "tabs_menu_new": {
+      "message": "Нова картица"
+   },
+   "tabs_menu_pin": {
+      "message": "Закачи"
+   },
+   "tabs_menu_reload": {
+      "message": "Поново учитај"
+   },
+   "tabs_menu_settings": {
+      "message": "Подешавања"
+   },
+   "tabs_menu_undo": {
+      "message": "Врати затворено"
+   },
+   "tabs_menu_ungroup": {
+      "message": "Ungroup"
+   },
+   "tabs_menu_unmute_other": {
+      "message": "Поништи стишавање осталих"
+   },
+   "tabs_menu_unpin": {
+      "message": "Откачи"
+   },
+   "ut": {
+      "message": "Прикажи картице које не припадају ниједној групи"
+   }
+}

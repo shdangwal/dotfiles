@@ -1,0 +1,6 @@
+2025/09/23-19:30:05.603 b6b Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.express.co.uk_0.indexeddb.leveldb since it was missing.
+2025/09/23-19:30:05.606 b6b Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.express.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/23-19:30:49.229 b6c Level-0 table #5: started
+2025/09/23-19:30:49.231 b6c Level-0 table #5: 8614 bytes OK
+2025/09/23-19:30:49.232 b6c Delete type=0 #3
+2025/09/23-19:30:49.233 b6c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2025/10/15-19:48:49.433 b53 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.hindustantimes.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/15-19:48:49.433 b53 Recovering log #4
+2025/10/15-19:48:49.434 b53 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.hindustantimes.com_0.indexeddb.leveldb/000004.log 
+2025/10/15-19:49:41.407 b52 Level-0 table #8: started
+2025/10/15-19:49:41.409 b52 Level-0 table #8: 2703 bytes OK
+2025/10/15-19:49:41.410 b52 Delete type=0 #4
+2025/10/15-19:49:41.411 b52 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/10/15-19:49:41.411 b52 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01E\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00.\x00h\x00i\x00n\x00d\x00u\x00s\x00t\x00a\x00n\x00t\x00i\x00m\x00e\x00s\x00.\x00c\x00o\x00m\x00/\x00f\x00o\x00n\x00t\x00s\x00/\x00p\x00t\x00s\x00e\x00r\x00i\x00f\x00-\x00r\x00e\x00g\x00u\x00l\x00a\x00r\x00-\x00w\x00e\x00b\x00f\x00o\x00n\x00t\x00.\x00w\x00o\x00f\x00f\x002' @ 172 : 1
+2025/10/15-19:49:41.411 b52 Compacting 1@1 + 1@2 files
+2025/10/15-19:49:41.412 b52 Generated table #9@1: 33 keys, 1411 bytes
+2025/10/15-19:49:41.412 b52 Compacted 1@1 + 1@2 files => 1411 bytes
+2025/10/15-19:49:41.413 b52 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/15-19:49:41.414 b52 Delete type=2 #8
+2025/10/15-19:49:41.414 b52 Delete type=2 #5
+2025/10/15-19:49:41.414 b52 Manual compaction at level-1 from '\x00\x01\x01\x02\x01E\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00i\x00m\x00a\x00g\x00e\x00s\x00.\x00h\x00i\x00n\x00d\x00u\x00s\x00t\x00a\x00n\x00t\x00i\x00m\x00e\x00s\x00.\x00c\x00o\x00m\x00/\x00f\x00o\x00n\x00t\x00s\x00/\x00p\x00t\x00s\x00e\x00r\x00i\x00f\x00-\x00r\x00e\x00g\x00u\x00l\x00a\x00r\x00-\x00w\x00e\x00b\x00f\x00o\x00n\x00t\x00.\x00w\x00o\x00f\x00f\x002' @ 172 : 1 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2025/12/10-09:44:14.613 197f Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2025/12/10-09:44:14.614 197f Recovering log #1013
+2025/12/10-09:44:14.614 197f Reusing old log /home/shdangwal/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/001013.log 
+2025/12/10-13:19:33.477 197f Level-0 table #1018: started
+2025/12/10-13:19:33.486 197f Level-0 table #1018: 672835 bytes OK
+2025/12/10-13:19:33.487 197f Delete type=0 #1013

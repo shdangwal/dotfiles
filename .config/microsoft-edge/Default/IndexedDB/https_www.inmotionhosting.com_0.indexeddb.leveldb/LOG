@@ -1,0 +1,6 @@
+2025/08/11-05:52:08.162 b83 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.inmotionhosting.com_0.indexeddb.leveldb since it was missing.
+2025/08/11-05:52:08.165 b83 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.inmotionhosting.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/11-05:58:32.236 b84 Level-0 table #5: started
+2025/08/11-05:58:32.239 b84 Level-0 table #5: 10595 bytes OK
+2025/08/11-05:58:32.241 b84 Delete type=0 #3
+2025/08/11-05:58:32.242 b84 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

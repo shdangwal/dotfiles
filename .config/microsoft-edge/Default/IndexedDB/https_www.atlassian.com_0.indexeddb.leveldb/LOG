@@ -1,0 +1,6 @@
+2025/12/07-11:28:56.769 1591 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb since it was missing.
+2025/12/07-11:28:56.772 1591 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.atlassian.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/07-11:30:14.351 1592 Level-0 table #5: started
+2025/12/07-11:30:14.353 1592 Level-0 table #5: 35063 bytes OK
+2025/12/07-11:30:14.355 1592 Delete type=0 #3
+2025/12/07-11:30:14.355 1592 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,10 @@
+2025/12/01-12:56:06.602 ba5 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_ww2.kissasian.vip_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/01-12:56:06.602 ba5 Recovering log #17
+2025/12/01-12:56:06.603 ba5 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_ww2.kissasian.vip_0.indexeddb.leveldb/000017.log 
+2025/12/01-12:56:06.603 ba5 Delete type=2 #19
+2025/12/01-12:56:06.635 ba6 Compacting 1@1 + 1@2 files
+2025/12/01-12:56:06.666 ba6 Generated table #20@1: 19561 keys, 580853 bytes
+2025/12/01-12:56:06.666 ba6 Compacted 1@1 + 1@2 files => 580853 bytes
+2025/12/01-12:56:06.667 ba6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/01-12:56:06.667 ba6 Delete type=2 #16
+2025/12/01-12:56:06.667 ba6 Delete type=2 #18

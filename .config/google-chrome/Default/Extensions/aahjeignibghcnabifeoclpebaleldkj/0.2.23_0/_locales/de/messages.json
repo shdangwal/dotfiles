@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "Benutzerdefinierter TabGruppentitel"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "Regel hinzufügen"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "Registerkarte zur Gruppe hinzufügen"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "Fügen Sie Registerkarten zur Gruppe hinzu"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "Alle Registerkarten zum Aufheben der Gruppierung automatisch gruppieren"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "Automatische Gruppenregeln"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "Hintergrundthemen"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "Stornieren"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "Schriftfamilie ändern"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "Schriftgröße ändern"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "Obere Tabs schließen"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "Schließen Sie die folgenden Tabs"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "Andere Tabs schließen"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "Ausgewählte Tabs schließen"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "Tab schließen"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "Gruppe ein-/ausblenden"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Farbe"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "Kompaktmodus"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️ Konfiguration"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "kopiert"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "URL kopieren"
+   },
+   "create": {
+      "description": "Create",
+      "message": "Erstellen"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "Erstellen Sie zuerst eine automatische Gruppenregel"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "Gruppe erstellen"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "Regel erstellen"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "Registerkarte erstellen"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "Arbeitsbereich erstellen"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "Eigene URL"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "Gruppe löschen"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "Regel löschen"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "Domain"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "Registerkarte duplizieren"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "Gruppe bearbeiten"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "Regel bearbeiten"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 Aktivieren Sie die automatische Tab-Gruppierung"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 Aktivieren Sie die automatische Tab-Sperre"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 Arbeitsbereich aktivieren"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(optional) ausgewählte Domänen eingeben. Komma für Multi"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(optional) Geben Sie ausgewählte Top-Domains ein. Komma für Multi"
+   },
+   "export": {
+      "description": "Export",
+      "message": "Export"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Verwalten Sie Registerkarten und Registerkartengruppen vertikal im Seitenbereich. Erweiterte automatische Tab-Gruppierung. Wechseln Sie den Arbeitsbereich. Registerkarte „Automatisch anhalten“."
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal – vertikale Tabs"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "Filter"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "Erstes Pfadsegment"
+   },
+   "format": {
+      "description": "Format",
+      "message": "Format"
+   },
+   "group": {
+      "description": "Group",
+      "message": "Gruppe"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "Gruppieren Sie dieselben Domänenregisterkarten"
+   },
+   "import": {
+      "description": "Import",
+      "message": "Importieren"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "Registerkarte „Importieren/Exportieren“."
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "Nur ein Klick"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "Tastatürkürzel"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "Übereinstimmungsmuster"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "Streichhölzer"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "Gruppe ins Fenster verschieben"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "Tab in Fenster verschieben"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "Tabs ins Fenster verschieben"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "Registerkarte „Stumm“."
+   },
+   "name": {
+      "description": "Name",
+      "message": "Name"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "Neuer Tab oben"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "Neuer Tab unten"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "Neues Fenster"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "Panelposition"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "Pin-Registerkarte"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "Priorität"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "Kürzlich verwendet"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "Registerkarte „Neu laden“."
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "Entfernen Sie doppelte Registerkarten"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "Fehler melden"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "Umkehren"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "Regelname"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "Suchregisterkarten"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "Registerkarte auswählen"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "ausgewählt"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(optional) Geben Sie den ausgewählten ersten Pfad ein. Komma für Multi"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(optional) Geben Sie die ersten beiden ausgewählten Pfade ein. Komma für Multi"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Einstellungen"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "Entschuldigung, etwas ist schief gelaufen"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "Sortieren"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "Manager suspendieren"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "Andere Tabs unterbrechen"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "Ausgewählte Tabs anhalten"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "Registerkarte „Unterbrechen“."
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "Tabgruppe anhalten"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "Tab-Titel enthält"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "TabGroup-Regeln"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "Dieses Fenster"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "Top-Domain"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "Zwei-Pfad-Segment"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "ungroup_all_tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "Registerkarte „Gruppierung aufheben“."
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "Alles wiederufen"
+   },
+   "update": {
+      "description": "Update",
+      "message": "Aktualisieren"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "Titel der Tabgruppe aktualisieren"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "Fensternamen aktualisieren"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "URL-Übereinstimmung"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "Arbeitsplatz"
+   }
+}

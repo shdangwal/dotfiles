@@ -1,0 +1,33 @@
+2025/05/19-14:01:29.358 b8f Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_uira.live_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/19-14:01:29.359 b8f Recovering log #7
+2025/05/19-14:01:29.360 b8f Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_uira.live_0.indexeddb.leveldb/000007.log 
+2025/05/19-14:01:29.382 bc3 Level-0 table #11: started
+2025/05/19-14:01:29.384 bc3 Level-0 table #11: 1514 bytes OK
+2025/05/19-14:01:29.386 bc3 Delete type=0 #7
+2025/05/19-14:01:29.386 b8f Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 177 : 1
+2025/05/19-14:01:29.387 b8f Compacting 1@0 + 1@1 files
+2025/05/19-14:01:29.388 b8f Generated table #12@0: 52 keys, 1548 bytes
+2025/05/19-14:01:29.388 b8f Compacted 1@0 + 1@1 files => 1548 bytes
+2025/05/19-14:01:29.390 b8f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/19-14:01:29.390 b8f Delete type=2 #11
+2025/05/19-14:01:29.391 b8f Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 177 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/19-14:01:36.040 b90 Level-0 table #14: started
+2025/05/19-14:01:36.042 b90 Level-0 table #14: 1109 bytes OK
+2025/05/19-14:01:36.043 b90 Delete type=0 #10
+2025/05/19-14:01:36.043 b90 Delete type=2 #8
+2025/05/19-14:01:36.044 b90 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x006\x008\x001\x002\x008\x004\x009\x005\x004\x008\x003\x00:\x00w\x00e\x00b\x00:\x00d\x000\x005\x00f\x00f\x00f\x003\x009\x002\x00c\x00a\x00f\x00b\x001\x004\x00c\x001\x008\x00b\x00f\x00d\x00e' @ 212 : 1
+2025/05/19-14:01:36.044 b90 Compacting 1@0 + 1@1 files
+2025/05/19-14:01:36.045 b90 Generated table #15@0: 52 keys, 1431 bytes
+2025/05/19-14:01:36.046 b90 Compacted 1@0 + 1@1 files => 1431 bytes
+2025/05/19-14:01:36.047 b90 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/19-14:01:36.047 b90 Delete type=2 #14
+2025/05/19-14:01:36.047 b90 Delete type=2 #12
+2025/05/19-14:01:36.048 b90 Manual compaction at level-0 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x006\x008\x001\x002\x008\x004\x009\x005\x004\x008\x003\x00:\x00w\x00e\x00b\x00:\x00d\x000\x005\x00f\x00f\x00f\x003\x009\x002\x00c\x00a\x00f\x00b\x001\x004\x00c\x001\x008\x00b\x00f\x00d\x00e' @ 212 : 1 .. (end); will stop at (end)
+2025/05/19-14:01:36.048 b90 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x006\x008\x001\x002\x008\x004\x009\x005\x004\x008\x003\x00:\x00w\x00e\x00b\x00:\x00d\x000\x005\x00f\x00f\x00f\x003\x009\x002\x00c\x00a\x00f\x00b\x001\x004\x00c\x001\x008\x00b\x00f\x00d\x00e' @ 212 : 1
+2025/05/19-14:01:36.048 b90 Compacting 1@1 + 1@2 files
+2025/05/19-14:01:36.050 b90 Generated table #16@1: 33 keys, 1208 bytes
+2025/05/19-14:01:36.050 b90 Compacted 1@1 + 1@2 files => 1208 bytes
+2025/05/19-14:01:36.051 b90 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/19-14:01:36.051 b90 Delete type=2 #15
+2025/05/19-14:01:36.051 b90 Delete type=2 #5
+2025/05/19-14:01:36.052 b90 Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x002\x006\x008\x001\x002\x008\x004\x009\x005\x004\x008\x003\x00:\x00w\x00e\x00b\x00:\x00d\x000\x005\x00f\x00f\x00f\x003\x009\x002\x00c\x00a\x00f\x00b\x001\x004\x00c\x001\x008\x00b\x00f\x00d\x00e' @ 212 : 1 .. (end); will stop at (end)

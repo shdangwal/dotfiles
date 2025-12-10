@@ -1,0 +1,152 @@
+body {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  width: 600px;
+}
+
+table tr td {
+  padding: 0;
+  font-family: monospace;
+  transition: 300ms ease all;
+}
+
+input[type='checkbox'] {
+  margin: -2px 0 0 2px;
+  vertical-align: middle;
+}
+
+label {
+  color: #333;
+  font-size: 13px;
+  cursor: pointer;
+  user-select: none;
+  display: inline-block;
+}
+
+p {
+  border: 0;
+  color: #333;
+  padding: 10px 0;
+  text-align: left;
+  user-select: none;
+  text-indent: 10px;
+  display: inline-block;
+  margin: 10px auto 0 auto;
+}
+
+.content {
+  width: 100%;
+  height: 100%;
+}
+
+.controls, .footer {
+  width: 100%;
+  font-size: 13px;
+  border-spacing: 0;
+}
+
+.controls {
+  height: 100%;
+  table-layout: fixed;
+}
+
+.footer {
+  height: 42px;
+  border-top: solid 1px rgba(0,0,0,0.1);
+  border-bottom: solid 1px rgba(0,0,0,0.1);
+}
+
+.footer tr td {
+  width: 52px;
+  height: 42px;
+  cursor: pointer;
+  min-width: 52px;
+  max-width: 52px;
+  text-align: center;
+}
+
+.footer tr td svg {
+  fill: #555;
+  pointer-events: none;
+  vertical-align: middle;
+}
+
+#status {
+  width: 100%;
+  color: #3970d5;
+  cursor: default;
+  font-weight: 600;
+  user-select: none;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+#separator {
+  width: 1px;
+  min-width: 1px;
+  max-width: 1px;
+  background: #3970d5;
+}
+
+#ON, #OFF {
+  height: 98px;
+  cursor: pointer;
+  font-size: 16px;
+  text-indent: 32px;
+  user-select: none;
+  font-family: monospace;
+  border-bottom: solid 1px transparent;
+}
+
+#ON {
+  color: rgba(0,0,0,0.50);
+  border-right: solid 1px rgba(0,0,0,0.01);
+  background: url('../icons/ON/96.png') no-repeat center center;
+}
+
+#OFF {
+  color: rgba(0,0,0,0.50);
+  border-left: solid 1px rgba(0,0,0,0.01);
+  background: url('../icons/OFF/96.png') no-repeat center center
+}
+
+#ON[type='active'], 
+#OFF[type='active'] {
+  border-bottom: solid 1px #3970d5;
+}
+
+#ON:hover, 
+#OFF:hover, 
+#check:hover, 
+#clear:hover,
+#reload:hover, 
+#support:hover {
+  background-color: rgba(0,0,0,0.05) !important;
+}
+
+#ON, #OFF {
+  background-size: 48px;
+}
+
+#whitelist {
+  padding: 10px;
+  height: 170px;
+  outline: none;
+  display: block;
+  font-size: 13px;
+  margin: 5px auto;
+  line-height: 22px;
+  box-sizing: border-box;
+  width: calc(100% - 10px);
+  border: solid 1px rgba(0,0,0,0.10);
+}
+
+#clear svg {
+  transition: 300ms ease transform;
+}
+
+#clear[cleared] svg {
+  fill: #3970d5;
+  transform: scale(1.5);
+}

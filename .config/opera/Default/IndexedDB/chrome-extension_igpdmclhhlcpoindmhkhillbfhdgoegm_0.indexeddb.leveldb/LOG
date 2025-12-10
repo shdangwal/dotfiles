@@ -1,0 +1,7 @@
+2025/11/01-11:34:48.582 5751 Reusing MANIFEST /home/shdangwal/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/01-11:34:48.583 5751 Recovering log #4
+2025/11/01-11:34:48.583 5751 Reusing old log /home/shdangwal/.config/opera/Default/IndexedDB/chrome-extension_igpdmclhhlcpoindmhkhillbfhdgoegm_0.indexeddb.leveldb/000004.log 
+2025/11/01-11:34:48.595 575c Level-0 table #8: started
+2025/11/01-11:34:48.598 575c Level-0 table #8: 9357 bytes OK
+2025/11/01-11:34:48.599 575c Delete type=0 #4
+2025/11/01-11:34:48.599 5751 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

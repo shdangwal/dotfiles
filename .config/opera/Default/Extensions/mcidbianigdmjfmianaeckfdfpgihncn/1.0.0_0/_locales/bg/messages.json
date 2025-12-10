@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Мед"
+   },
+   "greyscale": {
+      "message": "Сив мащаб"
+   },
+   "rise": {
+      "message": "Изгрев"
+   },
+   "set": {
+      "message": "Залез"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Тук има дракони. Изследвайте анимационен тапет от стария свят с музика и звук."
+   }
+}

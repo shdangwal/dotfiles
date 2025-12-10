@@ -1,0 +1,29 @@
+{
+   "action": {
+      "default_icon": "assets/interceptor_48x48.png",
+      "default_popup": "html/index.html",
+      "default_title": "Postman Interceptor"
+   },
+   "background": {
+      "service_worker": "background/background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "content_script.js" ],
+      "matches": [ "*://*.postman-beta.co/*", "*://*.postman-stage.co/*", "*://*.postman-preview.co/*", "*://*.postman.co/*" ]
+   } ],
+   "description": "Capture requests from any website and send them to Postman Client.",
+   "host_permissions": [ "*://*/**" ],
+   "icons": {
+      "128": "assets/interceptor_128x128.png",
+      "16": "assets/interceptor_16x16.png",
+      "32": "assets/interceptor_32x32.png",
+      "48": "assets/interceptor_48x48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA8qf4CckKppD+xna+habRhuch5/8K7eV0KdYEUK+6LYWH94ZwYv2emNr91bO0eZKVIR1ATqk9kyUddIgpvChQKHbzHpWjTpQWQdB2vVWhUgaEngYTseb2E8kZADoV+ajHfyPuWno8P/NjTewj7XLcGT229ut0PEEbUdF7phHBZ6g1NrRAEPoSMhyy6+qlHfKM012UnIrnwrJnA+GsirgPy+o/XMDhrOb67Sv0gYhIfj7xWsl9M5Xe+ay3livU/dQNSCxQyBOklFgsN3bZncXUArIWtd5/YH4jPPnHYvO+Ms8YNoRkmaYkKBh7QxJ4EM//baAeJnXrDJsHZKf74CJ8xwIDAQAB",
+   "manifest_version": 3,
+   "name": "Postman Interceptor",
+   "permissions": [ "webRequest", "nativeMessaging", "storage", "cookies", "scripting", "tabs" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "3.2.1"
+}

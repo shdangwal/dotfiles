@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "ทองแดง"
+   },
+   "greyscale": {
+      "message": "เฉดสีเทา"
+   },
+   "rise": {
+      "message": "พระอาทิตย์ขึ้น"
+   },
+   "set": {
+      "message": "พระอาทิตย์ตก"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "ที่นี่มีมังกร สำรวจวอลล์เปเปอร์เคลื่อนไหวสไตล์โลกเก่าพร้อมดนตรีและเสียง"
+   }
+}

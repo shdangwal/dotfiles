@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Rame"
+   },
+   "greyscale": {
+      "message": "Tonalità di grigio"
+   },
+   "rise": {
+      "message": "Alba"
+   },
+   "set": {
+      "message": "Tramonto"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Qui ci sono draghi. Esplora un vecchio sfondo animato con musica e suoni."
+   }
+}

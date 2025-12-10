@@ -1,0 +1,46 @@
+2025/12/10-09:44:12.849 1980 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/Local Extension Settings/odfafepnkmbhccpbejgmiehpchacaeak/MANIFEST-000001
+2025/12/10-09:44:12.852 1980 Recovering log #5528
+2025/12/10-09:44:12.852 1980 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/Local Extension Settings/odfafepnkmbhccpbejgmiehpchacaeak/005528.log 
+2025/12/10-14:17:22.131 197f Level-0 table #5532: started
+2025/12/10-14:17:22.153 197f Level-0 table #5532: 4980505 bytes OK
+2025/12/10-14:17:22.155 197f Delete type=0 #5528
+2025/12/10-14:18:23.076 197f Level-0 table #5534: started
+2025/12/10-14:18:23.115 197f Level-0 table #5534: 4197504 bytes OK
+2025/12/10-14:18:23.117 197f Delete type=0 #5531
+2025/12/10-14:18:26.097 1a08 Level-0 table #5536: started
+2025/12/10-14:18:26.174 1a08 Level-0 table #5536: 5576169 bytes OK
+2025/12/10-14:18:26.176 1a08 Delete type=0 #5533
+2025/12/10-14:18:26.178 1a08 Compacting 4@0 + 4@1 files
+2025/12/10-14:18:26.209 1a08 Generated table #5537@0: 4 keys, 2645646 bytes
+2025/12/10-14:18:26.229 1a08 Generated table #5538@0: 6 keys, 3055965 bytes
+2025/12/10-14:18:26.242 1a08 Generated table #5539@0: 2 keys, 2440795 bytes
+2025/12/10-14:18:26.291 1a08 Generated table #5540@0: 2 keys, 5585463 bytes
+2025/12/10-14:18:26.299 1a08 Generated table #5541@0: 8 keys, 1297381 bytes
+2025/12/10-14:18:26.299 1a08 Compacted 4@0 + 4@1 files => 15025250 bytes
+2025/12/10-14:18:26.300 1a08 compacted to: files[ 0 5 5 0 0 0 0 ]
+2025/12/10-14:18:26.301 1a08 Delete type=2 #5526
+2025/12/10-14:18:26.301 1a08 Delete type=2 #5524
+2025/12/10-14:18:26.301 1a08 Delete type=2 #5534
+2025/12/10-14:18:26.301 1a08 Delete type=2 #5536
+2025/12/10-14:18:26.301 1a08 Delete type=2 #5525
+2025/12/10-14:18:26.301 1a08 Delete type=2 #5532
+2025/12/10-14:18:26.301 1a08 Delete type=2 #5527
+2025/12/10-14:18:26.301 1a08 Delete type=2 #5529
+2025/12/10-14:18:26.308 1a08 Compacting 1@1 + 1@2 files
+2025/12/10-14:18:26.316 1a08 Generated table #5542@1: 16 keys, 1299697 bytes
+2025/12/10-14:18:26.316 1a08 Compacted 1@1 + 1@2 files => 1299697 bytes
+2025/12/10-14:18:26.317 1a08 compacted to: files[ 0 4 5 0 0 0 0 ]
+2025/12/10-14:18:26.317 1a08 Delete type=2 #5496
+2025/12/10-14:18:26.317 1a08 Delete type=2 #5541
+2025/12/10-14:18:26.318 1a08 Compacting 1@1 + 1@2 files
+2025/12/10-14:18:26.335 1a08 Generated table #5543@1: 6 keys, 2663062 bytes
+2025/12/10-14:18:26.335 1a08 Compacted 1@1 + 1@2 files => 2663062 bytes
+2025/12/10-14:18:26.336 1a08 compacted to: files[ 0 3 5 0 0 0 0 ]
+2025/12/10-14:18:26.337 1a08 Delete type=2 #5537
+2025/12/10-14:18:26.337 1a08 Delete type=2 #5497
+2025/12/10-14:18:26.338 1a08 Compacting 1@1 + 1@2 files
+2025/12/10-14:18:26.359 1a08 Generated table #5544@1: 8 keys, 3230222 bytes
+2025/12/10-14:18:26.359 1a08 Compacted 1@1 + 1@2 files => 3230222 bytes
+2025/12/10-14:18:26.360 1a08 compacted to: files[ 0 2 5 0 0 0 0 ]
+2025/12/10-14:18:26.360 1a08 Delete type=2 #5538
+2025/12/10-14:18:26.360 1a08 Delete type=2 #5498

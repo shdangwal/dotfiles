@@ -1,0 +1,6 @@
+2025/07/19-19:39:09.692 3caf Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_app.luminpdf.com_0.indexeddb.leveldb since it was missing.
+2025/07/19-19:39:09.696 3caf Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_app.luminpdf.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/19-19:40:41.148 1b51 Level-0 table #5: started
+2025/07/19-19:40:41.150 1b51 Level-0 table #5: 24068 bytes OK
+2025/07/19-19:40:41.152 1b51 Delete type=0 #3
+2025/07/19-19:40:41.152 1b51 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

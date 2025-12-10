@@ -1,0 +1,6 @@
+2025/09/14-12:38:32.864 78e5 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.svsound.com_0.indexeddb.leveldb since it was missing.
+2025/09/14-12:38:32.868 78e5 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.svsound.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/14-12:38:39.366 78e5 Level-0 table #5: started
+2025/09/14-12:38:39.367 78e5 Level-0 table #5: 1083 bytes OK
+2025/09/14-12:38:39.368 78e5 Delete type=0 #3
+2025/09/14-12:38:39.369 78e5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

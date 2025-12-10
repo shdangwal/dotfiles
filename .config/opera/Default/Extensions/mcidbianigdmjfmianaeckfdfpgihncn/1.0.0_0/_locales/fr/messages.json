@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Cuivre"
+   },
+   "greyscale": {
+      "message": "Niveau de gris"
+   },
+   "rise": {
+      "message": "Lever"
+   },
+   "set": {
+      "message": "Coucher"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Ici se trouvent des dragons. Explorez un fond d'écran animé de l'ancien monde avec de la musique et des sons."
+   }
+}

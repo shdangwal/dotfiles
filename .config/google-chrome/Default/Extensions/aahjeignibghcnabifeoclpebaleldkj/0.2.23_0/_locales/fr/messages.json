@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "Onglet personnaliséTitre du groupe"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "Ajouter une règle"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "Ajouter un onglet au groupe"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "Ajouter des onglets au groupe"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "Regrouper automatiquement tous les onglets de dissociation"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "Règles de groupe automatique"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "Thèmes d'arrière-plan"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "Annuler"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "Changer la famille de polices"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "Changer la taille de la police"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "Fermer les onglets ci-dessus"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "Fermer les onglets ci-dessous"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "Fermer les autres onglets"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "Fermer les onglets sélectionnés"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "Fermer l'onglet"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "groupe réduire/réduire"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Couleur"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "Mode compact"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️Configuration"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "copié"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "Copier le lien"
+   },
+   "create": {
+      "description": "Create",
+      "message": "Créer"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "Créez d'abord une règle de groupe automatique"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "Créer un groupe"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "Créer une règle"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "Créer un onglet"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "Créer un espace de travail"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "URL personnalisée"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "Supprimer le groupe"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "Supprimer la règle"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "Domaine"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "Onglet en double"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "Modifier le groupe"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "Modifier la règle"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 Activer le regroupement automatique des onglets"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 Activer la suspension automatique des onglets"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 Activer l'espace de travail"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(facultatif) saisissez les domaines sélectionnés. virgule pour multi"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(facultatif) saisissez les principaux domaines sélectionnés. virgule pour multi"
+   },
+   "export": {
+      "description": "Export",
+      "message": "Exporter"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Gérez les onglets et les groupes d'onglets verticalement dans le panneau latéral. Regroupement automatique avancé d'onglets. Changez d’espace de travail. Onglet Suspension automatique"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - onglets verticaux"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "Filtre"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "Segment du premier chemin"
+   },
+   "format": {
+      "description": "Format",
+      "message": "Format"
+   },
+   "group": {
+      "description": "Group",
+      "message": "Groupe"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "Regrouper les onglets du même domaine"
+   },
+   "import": {
+      "description": "Import",
+      "message": "Importer"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "Onglet Importer/Exporter"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "Juste un clic"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "Raccourcis clavier"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "modèles de correspondance"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "Allumettes"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "Déplacer le groupe vers la fenêtre"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "Déplacer l'onglet vers la fenêtre"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "Déplacer les onglets vers la fenêtre"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "Onglet Muet"
+   },
+   "name": {
+      "description": "Name",
+      "message": "Nom"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "Nouvel onglet ci-dessus"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "Nouvel onglet ci-dessous"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "Nouvelle fenetre"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "Position du panneau"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "Onglet broche"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "Priorité"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "Utilisé récemment"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "Onglet Recharger"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "Supprimer les onglets en double"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "Rapportez une erreur"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "Inverse"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "Nom de la règle"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "Onglets de recherche"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "Sélectionner l'onglet"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "choisi"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(facultatif) entrez le premier chemin sélectionné. virgule pour multi"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(facultatif) entrez les deux premiers chemins sélectionnés. virgule pour multi"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Paramètres"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "Désolé, quelque chose s'est mal passé"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "Trier"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "Suspendre le gestionnaire"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "Suspendre les autres onglets"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "Suspendre les onglets sélectionnés"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "Onglet Suspendre"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "Suspendre le groupe d'onglets"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "Le titre de l'onglet comprend"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "Règles de groupe d'onglets"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "Cette fenêtre"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "Domaine principal"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "Segment à deux voies"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "dissocier_all_tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "Onglet Dissocier"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "Tout déselectionner"
+   },
+   "update": {
+      "description": "Update",
+      "message": "Mise à jour"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "Mettre à jour le titre du groupe d'onglets"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "Mettre à jour le nom de la fenêtre"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "Correspondance d'URL"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "Espace de travail"
+   }
+}

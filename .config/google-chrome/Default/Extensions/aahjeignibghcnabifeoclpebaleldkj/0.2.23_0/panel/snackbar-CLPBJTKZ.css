@@ -1,0 +1,43 @@
+#snackbar,
+action-snackbar {
+	min-width: 12ch;
+	width: max-content;
+	padding: 0.5em 0.4em;
+	position: fixed;
+	z-index: 1000;
+	bottom: 2em;
+	inset-inline: 0;
+	margin-inline: auto;
+	color: light-dark(rgb(255, 208, 0), rgb(245, 140, 3));
+	text-align: center;
+	border-radius: 1em;
+	box-shadow: var(--card);
+	background-color: light-dark(rgb(51, 51, 51), rgb(95, 95, 95));
+
+	translate: 0 200%;
+	animation: in-out 5s ease-out;
+}
+
+action-snackbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	column-gap: 0.4em;
+
+	& .undo-btn {
+		color: rgb(240, 146, 6);
+		margin-left: auto;
+		font-size: 0.8rem;
+
+		& + sr-icon svg {
+			height: 1em;
+		}
+	}
+}
+
+@keyframes in-out {
+	10%,
+	90% {
+		translate: 0 0;
+	}
+}

@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Měď"
+   },
+   "greyscale": {
+      "message": "Šedá škála"
+   },
+   "rise": {
+      "message": "Východ slunce"
+   },
+   "set": {
+      "message": "Západ slunce"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Zde jsou draci. Prozkoumejte animovanou tapetu ze starého světa s hudbou a zvukem."
+   }
+}

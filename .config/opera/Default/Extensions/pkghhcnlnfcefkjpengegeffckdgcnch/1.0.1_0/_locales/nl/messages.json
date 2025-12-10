@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Vroeg"
+   },
+   "hidden": {
+      "message": "Verborgen"
+   },
+   "late": {
+      "message": "Laat"
+   },
+   "seen": {
+      "message": "Gezien"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Het lachen is lang vervaagd, maar de lichten branden nog steeds in dit geanimeerde donkere thema."
+   }
+}

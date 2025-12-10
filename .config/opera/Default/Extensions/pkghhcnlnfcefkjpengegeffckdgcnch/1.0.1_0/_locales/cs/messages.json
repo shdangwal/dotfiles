@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Brzy"
+   },
+   "hidden": {
+      "message": "Skryto"
+   },
+   "late": {
+      "message": "Pozdě"
+   },
+   "seen": {
+      "message": "Viděno"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Smích už dávno vyprchal, ale světla stále svítí v tomto animovaném tmavém motivu."
+   }
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../../../../../devtools/projects/shell-browser/src/app/ng-validate.ts"],
+  "sourcesContent": ["/**\n * @license\n * Copyright Google LLC All Rights Reserved.\n *\n * Use of this source code is governed by an MIT-style license that can be\n * found in the LICENSE file at https://angular.dev/license\n */\n\n/// <reference types=\"chrome\"/>\n\nif (document.contentType === 'text/html') {\n  const script = document.createElement('script');\n  script.src = chrome.runtime.getURL('app/detect_angular_for_extension_icon_bundle.js');\n  document.documentElement.appendChild(script);\n  document.documentElement.removeChild(script);\n}\n"],
+  "mappings": "mBAUA,GAAIA,SAASC,cAAgB,YAAa,CACxC,IAAMC,EAASF,SAASG,cAAc,QAAQ,EAC9CD,EAAOE,IAAMC,OAAOC,QAAQC,OAAO,iDAAiD,EACpFP,SAASQ,gBAAgBC,YAAYP,CAAM,EAC3CF,SAASQ,gBAAgBE,YAAYR,CAAM,CAC7C",
+  "names": ["document", "contentType", "script", "createElement", "src", "chrome", "runtime", "getURL", "documentElement", "appendChild", "removeChild"]
+}

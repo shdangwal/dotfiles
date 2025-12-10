@@ -1,0 +1,23 @@
+2025/12/10-00:36:39.877 18ec Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/Local Extension Settings/odfafepnkmbhccpbejgmiehpchacaeak/MANIFEST-000001
+2025/12/10-00:36:39.881 18ec Recovering log #5519
+2025/12/10-00:36:39.881 18ec Reusing old log /home/shdangwal/.config/microsoft-edge/Default/Local Extension Settings/odfafepnkmbhccpbejgmiehpchacaeak/005519.log 
+2025/12/10-08:38:15.444 18ea Level-0 table #5523: started
+2025/12/10-08:38:15.471 18ea Level-0 table #5523: 4977274 bytes OK
+2025/12/10-08:38:15.473 18ea Delete type=0 #5519
+2025/12/10-08:38:15.474 18ea Compacting 4@0 + 3@1 files
+2025/12/10-08:38:15.494 18ea Generated table #5524@0: 4 keys, 2645227 bytes
+2025/12/10-08:38:15.515 18ea Generated table #5525@0: 6 keys, 3053510 bytes
+2025/12/10-08:38:15.545 18ea Generated table #5526@0: 10 keys, 2167544 bytes
+2025/12/10-08:38:15.546 18ea Generated table #5527@0: 2 keys, 321 bytes
+2025/12/10-08:38:15.546 18ea Compacted 4@0 + 3@1 files => 7866602 bytes
+2025/12/10-08:38:15.547 18ea compacted to: files[ 0 4 5 0 0 0 0 ]
+2025/12/10-08:38:15.548 18ea Delete type=2 #5516
+2025/12/10-08:38:15.548 18ea Delete type=2 #5523
+2025/12/10-08:38:15.548 18ea Delete type=2 #5520
+2025/12/10-08:38:15.548 18ea Delete type=2 #5518
+2025/12/10-08:38:15.548 18ea Delete type=2 #5509
+2025/12/10-08:38:15.548 18ea Delete type=2 #5512
+2025/12/10-08:38:15.548 18ea Delete type=2 #5508
+2025/12/10-08:39:14.612 19e0 Level-0 table #5529: started
+2025/12/10-08:39:14.704 19e0 Level-0 table #5529: 9486099 bytes OK
+2025/12/10-08:39:14.707 19e0 Delete type=0 #5522

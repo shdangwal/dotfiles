@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Früh"
+   },
+   "hidden": {
+      "message": "Versteckt"
+   },
+   "late": {
+      "message": "Spät"
+   },
+   "seen": {
+      "message": "Gesehen"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Das Lachen ist längst verklungen, aber die Lichter brennen immer noch in diesem animierten dunklen Thema."
+   }
+}

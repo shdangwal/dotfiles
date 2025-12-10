@@ -1,0 +1,140 @@
+{
+   "checksum": "bde7d164b11751fc49eaeb4b0bec7859",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13390856842068026",
+         "date_last_used": "0",
+         "date_modified": "13404748828961241",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13390856842068037",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13390856842068041",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "workspaces": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13390857187434814",
+            "date_last_used": "0",
+            "date_modified": "13390857187434815",
+            "guid": "f7bf9342-aff6-422d-85bc-24b8c913bf7d",
+            "id": "7",
+            "name": "Novels",
+            "source": "unknown",
+            "type": "workspace",
+            "workspace_id": "b3425766-31de-42c9-8f34-52d53186e44a"
+         }, {
+            "children": [ {
+               "date_added": "13391674062108425",
+               "date_last_used": "0",
+               "guid": "51640b86-be81-4cf8-b602-87e8577f3bcb",
+               "id": "16",
+               "name": "----- :: Paysquare :: -----",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://mypayroll.paysquare.com/",
+               "visit_count": 1
+            }, {
+               "date_added": "13398886459994640",
+               "date_last_used": "0",
+               "guid": "5b24afa2-d6b3-4692-a68d-6b2b030675eb",
+               "id": "18",
+               "name": "Evil Reference - Practicalli Doom Emacs",
+               "show_icon": false,
+               "source": "user_add",
+               "type": "url",
+               "url": "https://practical.li/doom-emacs/basics/vim-quick-reference/#searching_1",
+               "visit_count": 1
+            } ],
+            "date_added": "13390857217419844",
+            "date_last_used": "0",
+            "date_modified": "13401201021154896",
+            "guid": "980ab9ef-aed8-4661-a03d-217eb8065754",
+            "id": "8",
+            "name": "Home",
+            "source": "unknown",
+            "type": "workspace",
+            "workspace_id": "ec18eb74-0e0a-4e46-8aa4-216d59396e0b"
+         }, {
+            "children": [  ],
+            "date_added": "13390857320242810",
+            "date_last_used": "0",
+            "date_modified": "13390865410812113",
+            "guid": "8a2767c1-10f6-438e-8c7d-ea1d1b653089",
+            "id": "9",
+            "name": "Watch",
+            "source": "unknown",
+            "type": "workspace",
+            "workspace_id": "a982a015-a035-471f-9996-07f03232cdfc"
+         }, {
+            "children": [  ],
+            "date_added": "13391310614793134",
+            "date_last_used": "0",
+            "date_modified": "13391674062108425",
+            "guid": "3571a979-c967-48fa-bc1e-cbdb1bc2987e",
+            "id": "14",
+            "name": "Code",
+            "source": "unknown",
+            "type": "workspace",
+            "workspace_id": "178a9151-6245-4209-8f25-59bb76aca92d"
+         }, {
+            "children": [  ],
+            "date_added": "13403701491521122",
+            "date_last_used": "0",
+            "date_modified": "13403858758161164",
+            "guid": "fbd0624f-8635-45e7-838d-2e6c28564bae",
+            "id": "20",
+            "name": "x",
+            "source": "unknown",
+            "type": "workspace",
+            "workspace_id": "0d8e667e-8cf2-46b1-ab30-b93909c26ccc"
+         }, {
+            "children": [  ],
+            "date_added": "13406527597977562",
+            "date_last_used": "0",
+            "date_modified": "13406527597977563",
+            "guid": "6c354e83-e64a-4c16-b98e-cba7c5295663",
+            "id": "22",
+            "name": "Reading",
+            "source": "unknown",
+            "type": "workspace",
+            "workspace_id": "b2e15a82-ce29-4235-b6ff-cb115cf0e266"
+         } ],
+         "date_added": "13390856842068058",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000006",
+         "id": "4",
+         "name": "Workspaces favorites",
+         "source": "unknown",
+         "type": "workspace",
+         "workspace_id": ""
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCIrkjUKaAQAAEgAqGFU5R3FIb2xqUVdYMXVOVzJ5a2hiQ0E9PUgDoAYEEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGY5ODMzMWM1LWEzMGMtNWVhZi1hYzQ4LTZkZDQ0Y2VlYWNkORgAIAAoADDWiqOTsi44g9XC4PEvQIPVwuDxL0ocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiQ4Y2RlNGQ1Yy1kODZlLTViZmItYmQxNy1lMGY0YjhhOGE4YmIYACAAKAAw1Yqjk7IuOOPUwuDxL0Dj1MLg8S9KHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkNWY3OGRkOTUtMjRjMi01NDAxLWIzNDEtYTcxNjVhMGI4N2M4GAAgACgAMNqKo5OyLjjg1cLg8S9A4NXC4PEvShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}

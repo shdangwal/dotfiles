@@ -1,0 +1,6 @@
+2025/08/25-11:32:42.708 b83 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_ravenscans.com_0.indexeddb.leveldb since it was missing.
+2025/08/25-11:32:42.711 b83 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_ravenscans.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/25-13:44:04.562 b83 Level-0 table #5: started
+2025/08/25-13:44:04.564 b83 Level-0 table #5: 6623 bytes OK
+2025/08/25-13:44:04.565 b83 Delete type=0 #3
+2025/08/25-13:44:04.566 b83 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

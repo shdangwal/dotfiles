@@ -1,0 +1,6 @@
+2025/10/01-15:42:31.316 bac Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb since it was missing.
+2025/10/01-15:42:31.318 bac Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/01-15:42:52.015 b8a Level-0 table #5: started
+2025/10/01-15:42:52.017 b8a Level-0 table #5: 7544 bytes OK
+2025/10/01-15:42:52.019 b8a Delete type=0 #3
+2025/10/01-15:42:52.019 b8a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title></title>
+		<style>
+			html {
+				display: table;
+				margin: 20px;
+			}
+			body {
+				background-color: white;
+				border: none;
+				width: 100%;
+				height: 100%;
+				margin: 0;
+				white-space: nowrap;
+				overflow: auto;
+				padding: 0;
+				font-family: Arial, Helvetica, "Nimbus Sans L", "Liberation Sans", FreeSans, Sans-serif;
+				font-size: 16px;
+				cursor: default;
+			}
+			#opt_available_buttons {
+				background-color: #b8ffbf;
+				display: block;
+				position: relative;
+				top: 0px; left: 2px;
+				width: 100%; height: 26px;
+			}
+			#opt_toolbar_main {
+				background-color: #f2f2f2;
+				display: block;
+				position: relative;
+				width: 100%; height: 26px;
+			}
+			#opt_toolbar_tools {
+				background-color: #f2f2f2;
+				display: block;
+				position: relative;
+				width: 100%; height: 26px;
+			}
+			.button {
+				border: 1px solid transparent;
+			}
+			.button:hover, .button:active {
+				border: 1px solid #cccccc;
+			}
+		</style>
+	</head>
+	<body>
+		<link type="text/css" rel="stylesheet" media="all" href="theme_Standard/Standard.css" />
+		<script type="text/javascript" src="../lib_jquery/jquery-2.1.4.min.js"></script>
+		<script src="options.js"></script>
+		
+		<div style="width:850px; align:left;"><span style="width:100%; font-size:20px; display:inline-block; text-align:center; ">Vertical Tabs</span></div>
+		<br>
+		<fieldset style="width:850px;">
+			<legend class="label" id="options_pinned" ></legend>
+			<input type="checkbox" class="opt_checkbox" id="pin_list_on_top"/><label class="label" id="options_pin_list_on_top"></label><br>
+			<input type="checkbox" class="opt_checkbox" id="pin_list_multi_row"/><label class="label" id="options_pin_list_multi_row"></label>
+		</fieldset><br>
+		
+		<fieldset style="width:850px;">
+			<legend class="label" id="options_scrolling"></legend>
+			<input type="checkbox" class="opt_checkbox" id="scroll_to_active"/><label class="label" id="options_scroll_to_active"></label><br>
+			<input type="checkbox" class="opt_checkbox" id="scroll_to_new"/><label class="label" id="options_scroll_to_new"></label><br>
+			<input type="checkbox" class="opt_checkbox" id="scroll_to_moved"/><label class="label" id="options_scroll_to_moved"></label>
+		</fieldset><br>
+		
+		<fieldset style="width:850px;">
+			<legend class="label" id="options_tabs"></legend>
+			
+			<label class="label" id="options_activate_last_after_close"></label>
+			<select id="after_close_action">
+				<option class="drop_down_menu" id="options_drop_down_menu_after_close_action_last" value="last">go back to the last active tab</option>
+				<option class="drop_down_menu" id="options_drop_down_menu_after_close_action_opera" value="opera">let Opera decide (will cause jumps between groups)</option>
+				<option class="drop_down_menu" id="options_drop_down_menu_after_close_action_prev" value="prev">activate tab above</option>
+				<option class="drop_down_menu" id="options_drop_down_menu_after_close_action_next" value="next">activate tab below</option>
+			</select><br>
+
+			<input type="checkbox" class="opt_checkbox" id="new_open_below"/><label class="label" id="options_new_open_below"></label><br>
+			<input type="checkbox" class="opt_checkbox" id="openclose_animation"/><label class="label" id="options_openclose_animation"></label><br>
+			<input type="checkbox" class="opt_checkbox" id="update_favicon_hover"/><label class="label" id="options_update_favicon_hover"></label><br>
+			<input type="checkbox" class="opt_checkbox" id="close_with_MMB"/><label class="label" id="options_close_with_MMB"></label><br>
+			<input type="checkbox" class="opt_checkbox" id="always_show_close"/><label class="label" id="options_always_show_close"></label><br>
+			<input type="checkbox" class="opt_checkbox" id="allow_pin_close"/><label class="label" id="option_allow_pin_close"></label><br>
+			<input type="checkbox" class="opt_checkbox" id="auto_switch_to_group"/><label class="label" id="options_auto_switch_to_group"></label><br>
+		</fieldset><br>
+		
+		<fieldset id="show_toolbar_field" style="width:850px;">
+			<legend id="toolbar_legend"> <input type="checkbox" class="opt_checkbox" id="show_toolbar" /><label class="label" id="options_toolbar"></label></legend>
+			<input type="checkbox" class="toolbar_options opt_checkbox" id="toolbar_on_top"/><label class="toolbar_options label" id="options_toolbar_on_top"></label><br>
+
+			<div class="toolbar_options label" id="options_available_buttons" style="margin:10px;"></div>
+			<div class="toolbar_options toolbar_buttons" id="opt_available_buttons">
+			</div>
+			
+			<div class="toolbar_options label" id="options_toolbar_main_buttons" style="margin:10px;"></div>
+			<div class="toolbar_options toolbar_buttons" id="opt_toolbar_main">
+			</div>
+			
+			<div class="toolbar_options label" id="options_toolbar_tools_buttons" style="margin:10px;"></div>
+			<div class="toolbar_options toolbar_buttons" id="opt_toolbar_tools">
+			</div>
+			<button class="toolbar_options set_button" type="button" id="options_toolbar_reset" style="margin:10px;" ></button>
+
+		</fieldset><br>
+		
+		<fieldset style="width:850px;">
+			<legend class="label" id="options_scrollbars"></legend>
+			<input type="number" style="width:50px;" min="0" max="20" step="1" class = "opt_scrollbar" id="scrollbar_pin_list"/><label class="label" id="options_scrollbar_pin_list"></label><br>
+			<input type="number" style="width:50px;" min="0" max="20" step="1" class = "opt_scrollbar" id="scrollbar_tab_list"/><label class="label" id="options_scrollbar_tab_list"></label>
+		</fieldset><br>
+		
+		<fieldset style="width:850px;">
+			<legend class="label" id="options_theme"></legend>
+			<select id="theme">
+				<option value="theme_Standard">Standard</option>
+				<option value="theme_Standard">StandardTiny</option>
+				<option value="theme_Dark">Dark</option>
+				<option value="theme_Dark">DarkTiny</option>
+			</select>
+			<br><input type="checkbox" class="opt_checkbox" id="grayscale_groups"/><label class="label" id="options_grayscale_groups"></label>
+		</fieldset>			
+		<button class="global_options set_button" type="button" id="options_reset_all_settings" style="margin:10px;" ></button>
+		<button class="global_options set_button" type="button" id="options_apply_all_settings" style="margin:10px;" ></button>
+		<button class="global_options set_button" type="button" id="options_load_backup" style="margin:10px;" ></button>
+
+		<div style="position:absolute; top:10px; left:700px;">
+			<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+				<input type="hidden" name="cmd" value="_donations">
+				<input type="hidden" name="business" value="karol@jagiello.it">
+				<input type="hidden" name="lc" value="US">
+				<input type="hidden" name="item_number" value="Vertical Tabs Support">
+				<input type="hidden" name="no_note" value="0">
+				<input type="hidden" name="currency_code" value="USD">
+				<input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
+				<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+				<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+			</form>
+		</div>
+
+	</body>
+
+</html>

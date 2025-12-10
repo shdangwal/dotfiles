@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Koppar"
+   },
+   "greyscale": {
+      "message": "Gråskala"
+   },
+   "rise": {
+      "message": "Stig"
+   },
+   "set": {
+      "message": "Sätt"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Här finns drakar. Utforska en gammaldags animerad tapet med musik och ljud."
+   }
+}

@@ -1,0 +1,14 @@
+2025/12/08-12:10:55.331 1669 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_watch.rivestream.app_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/08-12:10:55.331 1669 Recovering log #118
+2025/12/08-12:10:55.331 1669 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_watch.rivestream.app_0.indexeddb.leveldb/000118.log 
+2025/12/08-12:10:55.332 1669 Delete type=2 #116
+2025/12/08-12:10:55.400 166a Level-0 table #123: started
+2025/12/08-12:10:55.401 166a Level-0 table #123: 1528 bytes OK
+2025/12/08-12:10:55.403 166a Delete type=0 #118
+2025/12/08-12:10:55.404 166a Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at '\x00 \x00\x00\x05' @ 1232 : 1
+2025/12/08-12:10:55.404 166a Compacting 1@0 + 1@1 files
+2025/12/08-12:10:55.405 166a Generated table #124@0: 33 keys, 1271 bytes
+2025/12/08-12:10:55.405 166a Compacted 1@0 + 1@1 files => 1271 bytes
+2025/12/08-12:10:55.407 166a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/08-12:10:55.407 166a Delete type=2 #123
+2025/12/08-12:10:55.408 166a Manual compaction at level-0 from '\x00 \x00\x00\x05' @ 1232 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)

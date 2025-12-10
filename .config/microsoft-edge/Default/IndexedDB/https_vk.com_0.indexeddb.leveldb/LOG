@@ -1,0 +1,6 @@
+2025/05/27-20:21:32.705 b57 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb since it was missing.
+2025/05/27-20:21:32.708 b57 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_vk.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/27-20:22:08.100 b58 Level-0 table #5: started
+2025/05/27-20:22:08.101 b58 Level-0 table #5: 2145 bytes OK
+2025/05/27-20:22:08.102 b58 Delete type=0 #3
+2025/05/27-20:22:08.102 b58 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

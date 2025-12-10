@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "カスタムタブグループタイトル"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "ルールの追加"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "タブをグループに追加"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "タブをグループに追加する"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "グループ化解除されたすべてのタブを自動グループ化する"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "自動グループルール"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "背景テーマ"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "キャンセル"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "フォントファミリーを変更する"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "フォントの大きさを変える"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "上のタブを閉じます"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "以下のタブを閉じます"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "他のタブを閉じる"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "選択したタブを閉じる"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "タブを閉じる"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "グループの折りたたみ/折りたたみ解除"
+   },
+   "color": {
+      "description": "Color",
+      "message": "色"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "コンパクトモード"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️設定"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "コピーされました"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "URLをコピー"
+   },
+   "create": {
+      "description": "Create",
+      "message": "作成する"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "最初に自動グループ ルールを作成します"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "グループを作る"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "ルールの作成"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "タブの作成"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "ワークスペースの作成"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "カスタムURL"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "グループの削除"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "ルールの削除"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "ドメイン"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "タブの複製"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "グループの編集"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "ルールの編集"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 自動タブグループ化を有効にする"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 タブの自動一時停止を有効にする"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 ワークスペースを有効にする"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(オプション) 選択したドメインを入力します。複数の場合はカンマ"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(オプション) 選択したトップ ドメインを入力します。複数の場合はカンマ"
+   },
+   "export": {
+      "description": "Export",
+      "message": "輸出"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "サイドパネルでタブとタブグループを垂直に管理します。高度な自動タブグループ化。ワークスペースを切り替えます。自動サスペンドタブ"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - 垂直タブ"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "フィルター"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "最初のパスセグメント"
+   },
+   "format": {
+      "description": "Format",
+      "message": "フォーマット"
+   },
+   "group": {
+      "description": "Group",
+      "message": "グループ"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "同じドメインのタブをグループ化する"
+   },
+   "import": {
+      "description": "Import",
+      "message": "輸入"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "インポート/エクスポートタブ"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "ワンクリックするだけ"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "キーボードショートカット"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "パターンの一致"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "一致"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "グループをウィンドウに移動"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "タブをウィンドウに移動"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "タブをウィンドウに移動"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "「ミュート」タブ"
+   },
+   "name": {
+      "description": "Name",
+      "message": "名前"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "上の新しいタブ"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "以下の新しいタブ"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "新しい窓"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "パネルの位置"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "ピン]タブ"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "優先度"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "最近使用したもの"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "「リロード」タブ"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "重複したタブを削除する"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "バグを報告する"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "逆行する"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "ルール名"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "検索タブ"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "タブを選択"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "選択された"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(オプション) 選択した最初のパスを入力します。複数の場合はカンマ"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(オプション) 選択した最初の 2 つのパスを入力します。複数の場合はカンマ"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "設定"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "申し訳ありませんが、問題が発生しました"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "選別"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "マネージャーを一時停止する"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "他のタブを一時停止する"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "選択したタブを一時停止する"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "一時停止タブ"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "タブグループを一時停止する"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "タブのタイトルには次の内容が含まれます"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "タブグループのルール"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "この窓"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "トップドメイン"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "2 つのパス セグメント"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "ungroup_all_tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "タブのグループ化を解除"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "すべての選択を解除します"
+   },
+   "update": {
+      "description": "Update",
+      "message": "アップデート"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "タブグループのタイトルを更新"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "ウィンドウ名を更新する"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "URLの一致"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "ワークスペース"
+   }
+}

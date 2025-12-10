@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "Judul grup tab khusus"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "Tambahkan Aturan"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "Tambahkan tab ke grup"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "Tambahkan tab ke grup"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "Kelompokkan otomatis semua tab yang tidak dikelompokkan"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "Aturan Grup Otomatis"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "Tema latar belakang"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "Membatalkan"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "Ubah jenis font"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "Ubah ukuran font"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "Tutup tab di atas"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "Tutup tab di bawah"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "Tutup tab lainnya"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "Tutup tab yang dipilih"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "Tutup tab"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "grup runtuh/lepaskan"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Warna"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "Modus ringkas"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️ Konfigurasi"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "disalin"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "Salin URL"
+   },
+   "create": {
+      "description": "Create",
+      "message": "Membuat"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "Buat aturan grup otomatis terlebih dahulu"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "Membuat grup"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "Buat Aturan"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "Buat Tab"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "Buat ruang kerja"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "Url khusus"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "Hapus grup"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "Hapus aturan"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "Domain"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "Tab duplikat"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "Sunting grup"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "Sunting aturan"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 Aktifkan pengelompokan tab Otomatis"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 Aktifkan penangguhan tab Otomatis"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 Aktifkan Ruang Kerja"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(opsional) masukkan domain yang dipilih. koma untuk multi"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(opsional) masukkan domain teratas yang dipilih. koma untuk multi"
+   },
+   "export": {
+      "description": "Export",
+      "message": "Ekspor"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Kelola tab & Grup tab secara vertikal di panel samping. Pengelompokan tab otomatis tingkat lanjut. Ganti ruang kerja. Tab tangguhkan otomatis"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - tab vertikal"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "Saring"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "Segmen Jalur Pertama"
+   },
+   "format": {
+      "description": "Format",
+      "message": "Format"
+   },
+   "group": {
+      "description": "Group",
+      "message": "Kelompok"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "Kelompokkan tab domain yang sama"
+   },
+   "import": {
+      "description": "Import",
+      "message": "Impor"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "Tab impor/ekspor"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "Hanya satu klik"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "Pintasan keyboard"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "pola pertandingan"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "Cocok"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "Pindahkan grup ke jendela"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "Pindahkan tab ke jendela"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "Pindahkan tab ke jendela"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "Bisukan tab"
+   },
+   "name": {
+      "description": "Name",
+      "message": "Nama"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "Tab baru di atas"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "Tab baru di bawah"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "Jendela baru"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "Posisi panel"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "Tab pin"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "Prioritas"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "Baru-baru ini digunakan"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "Muat ulang tab"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "Hapus tab duplikat"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "Melaporkan kesalahan"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "Balik"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "Nama aturan"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "Tab pencarian"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "Pilih tab"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "terpilih"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(opsional) masukkan jalur pertama yang dipilih. koma untuk multi"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(opsional) masukkan dua jalur pertama yang dipilih. koma untuk multi"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Pengaturan"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "Maaf, ada yang tidak beres"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "Menyortir"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "Tangguhkan manajer"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "Tangguhkan tab lain"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "Tangguhkan tab yang dipilih"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "Tangguhkan tab"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "Tangguhkan grup tab"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "Judul tab termasuk"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "Aturan Grup Tab"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "Jendela ini"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "Domain teratas"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "Segmen Dua Jalur"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "batalkan grup_semua_tab"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "Pisahkan tab"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "Batalkan pilihan semua"
+   },
+   "update": {
+      "description": "Update",
+      "message": "Memperbarui"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "Perbarui judul grup tab"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "Perbarui nama jendela"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "Pencocokan Url"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "Ruang kerja"
+   }
+}

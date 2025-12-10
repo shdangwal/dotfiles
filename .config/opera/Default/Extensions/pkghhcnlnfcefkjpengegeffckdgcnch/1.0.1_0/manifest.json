@@ -1,0 +1,132 @@
+{
+   "author": "Opera Software",
+   "default_locale": "en",
+   "description": "__MSG_themeDescription__",
+   "developer": {
+      "name": "Opera Software"
+   },
+   "icons": {
+      "218": "icon.png"
+   },
+   "key": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEApa3j/hS/iGbegPLcmnJCfxaez4uDHG5QbyKUd6jH/9ekdkcG+UmgB0cf5GeFrIhz52pdcPMhwCRmybcIwSwBcn9a52vs0rSzcxN0BKRr/t4TWKPo/VtYOlY93c1rZ2B8nPbeOer0yYt31+PAIY9xjzOW4hhxj8a51ZBU9g0F1AvziVDs9jFrwaxAHRoseu7vR55+R9aP6w9GghXnUOc7YdQRq33fowl5c8bjnbLqsdf/X3wdIJjLZntfLrKxKuYCt/LeUDZvoKZ/OkBvHk/RuXhamnLU1TJrQo7LCHbNbcxIe7OZvYL4Ve0ZpNRhzbafEIEqBVZk4PMRFMBCpfJdyJevGwBiSQCT6OT3oTfYgseNP0fB+g3yKsYpg8ukVFb7D0C9i1rdifLwF4HYXzJ40dZoJK9gbmICASiBcuoZXBpNRQzF9b0w19EptbI0++hvK9ASh/GcbJP2sPiCRR9WNF/p4reK3eFfWWoGuOm2wXYZHW/MSSRrZZpuy9HK7yCAJGl7JTOIGqji+Ivft28RBuwQn98DmT64ETC6hHpaRGB/FjGiR0myYxZn6gSeGE88vk8yk7Ksqeboli2cCZkFW+F8zPlHHi+xZuEWKw/2Yg2P0jj1j8tQ0myMuyc7z/e/wotVjTJgb95v6VE0UCiQNrDGeEpoSZ8NvFG+Wyhs1TcCAwEAAQ==",
+   "manifest_version": 3,
+   "mod": {
+      "flavor": {
+         "features": [  ],
+         "hash": "74be16979710d4c4e7c6647856088456",
+         "parent_hash": "d41d8cd98f00b204e9800998ecf8427e"
+      },
+      "payload": {
+         "background_music": [ {
+            "author": "Opera",
+            "id": "0",
+            "name": "Carnival",
+            "tracks": [ "music/MUSIC.mp3" ]
+         } ],
+         "browser_sounds": [ {
+            "author": "Opera Software",
+            "id": "0",
+            "name": "Carnival",
+            "sounds": {
+               "ARIA_COMMAND_LINE_SHOWN": [ "sounds/ARIA.mp3" ],
+               "ARIA_SIDEBAR_PANEL_SHOWN": [ "sounds/ARIA.mp3" ],
+               "CLICK": [ "sounds/MAIN_PAGE_CLICK.mp3" ],
+               "SPLIT_SCREEN_CREATE": [ "sounds/SPLIT_SCREEN_OPEN.mp3" ],
+               "SPLIT_SCREEN_REMOVE": [ "sounds/SPLIT_SCREEN_CLOSE.mp3" ],
+               "TAB_CLOSE": [ "sounds/TAB_CLOSE.mp3" ],
+               "TAB_GROUP_COLLAPSE": [ "sounds/ISLAND_COLLAPSE.mp3" ],
+               "TAB_GROUP_CREATE": [ "sounds/ISLAND_FORM.mp3" ],
+               "TAB_INSERT": [ "sounds/TAB_OPEN.mp3" ]
+            }
+         } ],
+         "keyboard_sounds": [ {
+            "author": "Opera Software",
+            "id": "0",
+            "name": "Carnival",
+            "sounds": {
+               "TYPING_BACKSPACE": [ "sounds/TYPE_BACKSPACE.mp3" ],
+               "TYPING_ENTER": [ "sounds/TYPE_ENTER.mp3" ],
+               "TYPING_LETTER": [ "sounds/TYPE_1.mp3", "sounds/TYPE_2.mp3", "sounds/TYPE_3.mp3" ],
+               "TYPING_SPACE": [ "sounds/TYPE_SPACE.mp3" ]
+            }
+         } ],
+         "theme": [ {
+            "dark": {
+               "gx_accent": {
+                  "h": 190,
+                  "l": 40,
+                  "s": 60
+               },
+               "gx_secondary_base": {
+                  "h": 197,
+                  "l": 2,
+                  "s": 64
+               }
+            },
+            "id": "vibe",
+            "name": "default"
+         } ],
+         "wallpaper": [ {
+            "dark": {
+               "groups": [ {
+                  "layers": [ {
+                     "resource": "wallpaper/dark.mp4",
+                     "type": "video"
+                  } ]
+               } ],
+               "preview": {
+                  "270x360": "wallpaper/preview.png"
+               },
+               "text_color": "#ffffff",
+               "text_shadow": "#000000"
+            },
+            "full_browser": true,
+            "id": "default",
+            "name": "default",
+            "title": "Default"
+         } ]
+      },
+      "schema_version": 2,
+      "settings": [ {
+         "id": "color_picker_x_axis",
+         "label": "color-picker-x",
+         "max": 1,
+         "max_label": "__MSG_seen__",
+         "min": 0,
+         "min_label": "__MSG_hidden__",
+         "min_max_labels_translated": true,
+         "name": "color-picker-x-axis",
+         "step": 0.1,
+         "type": "range",
+         "value": 0.16
+      }, {
+         "id": "color_picker_y_axis",
+         "label": "color-picker-y",
+         "max": 1,
+         "max_label": "__MSG_early__",
+         "min": 0,
+         "min_label": "__MSG_late__",
+         "min_max_labels_translated": true,
+         "name": "color-picker-y-axis",
+         "step": 0.1,
+         "type": "range",
+         "value": 0.48
+      } ],
+      "vibe": {
+         "color-picker-palettes": {
+            "dark": {
+               "accent": "wallpaper/color_picker/accent.png",
+               "background": "wallpaper/color_picker/background.png"
+            }
+         },
+         "preview": "wallpaper/preview.png",
+         "wallpaper": {
+            "animated": true,
+            "type": "video"
+         }
+      }
+   },
+   "name": "Opera One: Carnival",
+   "update_url": "https://api.gx.me/store/mods/update",
+   "version": "1.0.1"
+}

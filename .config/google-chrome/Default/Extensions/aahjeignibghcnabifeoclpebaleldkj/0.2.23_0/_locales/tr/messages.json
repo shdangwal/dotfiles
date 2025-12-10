@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "Özel sekmeGrup başlığı"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "Kural Ekle"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "Gruba sekme ekle"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "Gruba sekme ekleyin"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "Tüm grubu çöz sekmelerini otomatik olarak gruplandır"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "Otomatik Grup kuralları"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "Arka plan temaları"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "İptal etmek"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "Yazı tipi ailesini değiştir"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "Yazı tipi boyutunu değiştir"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "Yukarıdaki sekmeleri kapat"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "Aşağıdaki sekmeleri kapat"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "Diğer sekmeleri kapat"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "Seçilen sekmeleri kapat"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "Sekmeyi kapat"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "grubu daralt/çöz"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Renk"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "Kompakt mod"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️ Yapılandırma"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "kopyalandı"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "Url'yi kopyala"
+   },
+   "create": {
+      "description": "Create",
+      "message": "Yaratmak"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "Önce otomatik grup kuralı oluşturun"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "Grup oluştur"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "Kural koy"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "Sekme Oluştur"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "Çalışma alanı oluştur"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "Özel URL"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "Grubu sil"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "Kuralı sil"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "İhtisas"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "Sekmeyi kopyala"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "Grubu düzenle"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "Kuralı düzenle"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 Otomatik sekme gruplamasını etkinleştir"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 Otomatik sekme askıya almayı etkinleştir"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 Çalışma Alanını Etkinleştir"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(isteğe bağlı) seçili alan adlarını girin. çoklu için virgül"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(isteğe bağlı) seçili üst alan adlarını girin. çoklu için virgül"
+   },
+   "export": {
+      "description": "Export",
+      "message": "İhracat"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Sekmeleri ve sekme gruplarını yan panelde dikey olarak yönetin. Gelişmiş otomatik sekme gruplaması. Çalışma alanlarını değiştirin. Otomatik askıya alma sekmesi"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - dikey sekmeler"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "Filtre"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "İlk Yol segmenti"
+   },
+   "format": {
+      "description": "Format",
+      "message": "Biçim"
+   },
+   "group": {
+      "description": "Group",
+      "message": "Grup"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "Aynı etki alanı sekmelerini gruplandır"
+   },
+   "import": {
+      "description": "Import",
+      "message": "İçe aktarmak"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "İçe/dışa aktarma sekmesi"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "Sadece tek bir tıklama"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "Klavye kısayolları"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "maç desenleri"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "Maçlar"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "Grubu pencereye taşı"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "Sekmeyi pencereye taşı"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "Sekmeleri pencereye taşı"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "Sekmeyi sessize al"
+   },
+   "name": {
+      "description": "Name",
+      "message": "İsim"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "Yukarıdaki yeni sekme"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "Aşağıda yeni sekme"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "Yeni Pencere"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "Panel konumu"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "Sekmeyi sabitle"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "Öncelik"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "Son kullanılan"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "Sekmeyi yeniden yükle"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "Yinelenen sekmeleri kaldırın"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "Hata Bildir"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "Tersi"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "Kural adı"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "Arama sekmeleri"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "Sekmeyi seçin"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "seçilmiş"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(isteğe bağlı) seçilen ilk yolu girin. çoklu için virgül"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(isteğe bağlı) seçilen ilk iki yolu girin. çoklu için virgül"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Ayarlar"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "Üzgünüz, bir şeyler ters gitti"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "Düzenlemek"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "Yöneticiyi askıya al"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "Diğer sekmeleri askıya al"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "Seçili sekmeleri askıya al"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "Sekmeyi askıya al"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "Sekme grubunu askıya al"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "Sekme başlığı şunları içerir"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "Sekme Grubu Kuralları"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "Bu pencere"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "En iyi alan adı"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "İki Yol segmenti"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "ungroup_all_tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "Grubu çöz sekmesi"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "Tümünün seçimini kaldır"
+   },
+   "update": {
+      "description": "Update",
+      "message": "Güncelleme"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "Sekme grubu başlığını güncelle"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "Pencere adını güncelle"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "URL Eşleşmesi"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "Çalışma alanı"
+   }
+}

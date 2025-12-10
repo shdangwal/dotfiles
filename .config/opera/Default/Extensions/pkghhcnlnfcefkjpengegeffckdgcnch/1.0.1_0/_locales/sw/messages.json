@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Mapema"
+   },
+   "hidden": {
+      "message": "Imefichwa"
+   },
+   "late": {
+      "message": "Mchana"
+   },
+   "seen": {
+      "message": "Imeonekana"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Kicheko kimepotea kwa muda mrefu, lakini mwanga bado unawaka katika mandhari hii ya giza iliyo hai."
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Réz"
+   },
+   "greyscale": {
+      "message": "Szürkeárnyalat"
+   },
+   "rise": {
+      "message": "Napfelkelte"
+   },
+   "set": {
+      "message": "Naplemente"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Itt sárkányok vannak. Fedezz fel egy régi világot idéző animált háttérképet zenével és hanggal."
+   }
+}

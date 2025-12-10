@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Медь"
+   },
+   "greyscale": {
+      "message": "Оттенки серого"
+   },
+   "rise": {
+      "message": "Восход"
+   },
+   "set": {
+      "message": "Закат"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Здесь живут драконы. Исследуйте анимированные обои в старом стиле с музыкой и звуком."
+   }
+}

@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "Пользовательская вкладкаНазвание группы"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "Добавить правило"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "Добавить вкладку в группу"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "Добавить вкладки в группу"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "Автоматически сгруппировать все вкладки, разгруппировать их"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "Правила автоматической группы"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "Фоновые темы"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "Отмена"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "Изменить семейство шрифтов"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "Изменить размер шрифта"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "Закрыть вкладки выше"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "Закрыть вкладки ниже"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "Закрыть другие вкладки"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "Закрыть выбранные вкладки"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "Закрыть вкладку"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "свернуть/развернуть группу"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Цвет"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "Компактный режим"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️ Конфигурация"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "скопирован"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "Копировать URL"
+   },
+   "create": {
+      "description": "Create",
+      "message": "Создавать"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "Сначала создайте правило автогруппировки"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "Создать группу"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "Создать правило"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "Создать вкладку"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "Создать рабочую область"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "Пользовательский URL"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "Удалить группу"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "Удалить правило"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "Домен"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "Дублировать вкладку"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "Изменить группу"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "Изменить правило"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 Включить автоматическую группировку вкладок"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 Включить автоматическую приостановку вкладок"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 Включить рабочую область"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(необязательно) введите выбранные домены. запятая для нескольких"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(необязательно) введите выбранные топ-домены. запятая для нескольких"
+   },
+   "export": {
+      "description": "Export",
+      "message": "Экспорт"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Управляйте вкладками и группами вкладок вертикально на боковой панели. Расширенная автоматическая группировка вкладок. Поменяйте рабочие места. Вкладка «Автоматическая приостановка»"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - вертикальные вкладки"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "Фильтр"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "Первый сегмент пути"
+   },
+   "format": {
+      "description": "Format",
+      "message": "Формат"
+   },
+   "group": {
+      "description": "Group",
+      "message": "Группа"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "Группировать вкладки одного домена"
+   },
+   "import": {
+      "description": "Import",
+      "message": "Импортировать"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "Вкладка «Импорт/экспорт»"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "Всего один клик"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "Горячие клавиши"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "соответствие шаблонам"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "Матчи"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "Переместить группу в окно"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "Переместить вкладку в окно"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "Переместить вкладки в окно"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "Вкладка «Отключить звук»"
+   },
+   "name": {
+      "description": "Name",
+      "message": "Имя"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "Новая вкладка выше"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "Новая вкладка ниже"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "Новое окно"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "Положение панели"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "Прикрепить вкладку"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "Приоритет"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "Последние использованные"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "Перезагрузить вкладку"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "Удалить повторяющиеся вкладки"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "Сообщить об ошибке"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "Обеспечить регресс"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "Название правила"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "Вкладки поиска"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "Выберите вкладку"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "выбрано"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(необязательно) введите выбранный первый путь. запятая для нескольких"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(необязательно) введите выбранные первые два пути. запятая для нескольких"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Настройки"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "Извините, что-то пошло не так"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "Сортировать"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "Приостановить работу менеджера"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "Приостановить другие вкладки"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "Приостановить выбранные вкладки"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "Приостановить вкладку"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "Приостановить группу вкладок"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "Заголовок вкладки включает в себя"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "Правила группы вкладок"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "Это окно"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "Топ домен"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "Два сегмента пути"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "ungroup_all_tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "Разгруппировать вкладку"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "Снять все"
+   },
+   "update": {
+      "description": "Update",
+      "message": "Обновлять"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "Обновить заголовок группы вкладок"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "Обновить имя окна"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "URL-адрес совпадения"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "Рабочая среда"
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "早"
+   },
+   "hidden": {
+      "message": "隐藏"
+   },
+   "late": {
+      "message": "晚"
+   },
+   "seen": {
+      "message": "已见"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "笑声早已消逝，但在这个动感的黑暗主题中，灯光依然闪烁。"
+   }
+}

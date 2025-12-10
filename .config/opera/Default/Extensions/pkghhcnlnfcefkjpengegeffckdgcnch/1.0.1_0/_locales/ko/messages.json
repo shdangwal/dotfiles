@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "이른"
+   },
+   "hidden": {
+      "message": "숨겨짐"
+   },
+   "late": {
+      "message": "늦음"
+   },
+   "seen": {
+      "message": "보임"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "웃음은 오래전에 사라졌지만, 이 애니메이션 어두운 테마에서는 여전히 불빛이 빛나고 있습니다."
+   }
+}

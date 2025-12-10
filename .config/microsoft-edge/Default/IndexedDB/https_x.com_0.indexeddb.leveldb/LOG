@@ -1,0 +1,15 @@
+2025/09/23-19:58:54.267 b6b Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/23-19:58:54.267 b6b Recovering log #7
+2025/09/23-19:58:54.267 b6b Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_x.com_0.indexeddb.leveldb/000007.log 
+2025/09/23-19:59:24.434 b6c Level-0 table #12: started
+2025/09/23-19:59:24.435 b6c Level-0 table #12: 209 bytes OK
+2025/09/23-19:59:24.437 b6c Delete type=0 #7
+2025/09/23-19:59:24.437 b6c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/09/23-19:59:24.437 b6c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 85 : 1
+2025/09/23-19:59:24.437 b6c Compacting 1@1 + 1@2 files
+2025/09/23-19:59:24.439 b6c Generated table #13@1: 23 keys, 742 bytes
+2025/09/23-19:59:24.439 b6c Compacted 1@1 + 1@2 files => 742 bytes
+2025/09/23-19:59:24.440 b6c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/09/23-19:59:24.440 b6c Delete type=2 #9
+2025/09/23-19:59:24.441 b6c Delete type=2 #12
+2025/09/23-19:59:24.441 b6c Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 85 : 1 .. (end); will stop at (end)

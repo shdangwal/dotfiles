@@ -1,0 +1,21 @@
+2025/12/10-13:19:34.008 197f Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/10-13:19:34.009 197f Recovering log #352
+2025/12/10-13:19:34.043 197f Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000352.log 
+2025/12/10-13:19:55.691 197f Level-0 table #357: started
+2025/12/10-13:19:55.715 197f Level-0 table #357: 2346868 bytes OK
+2025/12/10-13:19:55.719 197f Delete type=0 #352
+2025/12/10-13:22:56.242 197e Compacting 1@1 + 1@2 files
+2025/12/10-13:22:56.254 197e Generated table #358@1: 55 keys, 31265 bytes
+2025/12/10-13:22:56.254 197e Compacted 1@1 + 1@2 files => 31265 bytes
+2025/12/10-13:22:56.256 197e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/10-13:22:56.256 197e Delete type=2 #357
+2025/12/10-13:22:56.256 197e Delete type=2 #354
+2025/12/10-13:51:25.388 197f Level-0 table #360: started
+2025/12/10-13:51:25.419 197f Level-0 table #360: 2360106 bytes OK
+2025/12/10-13:51:25.422 197f Delete type=0 #356
+2025/12/10-14:22:14.125 1980 Compacting 1@1 + 1@2 files
+2025/12/10-14:22:14.146 1980 Generated table #361@1: 55 keys, 47831 bytes
+2025/12/10-14:22:14.146 1980 Compacted 1@1 + 1@2 files => 47831 bytes
+2025/12/10-14:22:14.147 1980 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/10-14:22:14.148 1980 Delete type=2 #358
+2025/12/10-14:22:14.148 1980 Delete type=2 #360

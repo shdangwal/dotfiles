@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Maaga"
+   },
+   "hidden": {
+      "message": "Nakatago"
+   },
+   "late": {
+      "message": "Huli"
+   },
+   "seen": {
+      "message": "Nakita"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Matagal nang nawala ang tawanan, ngunit ang mga ilaw ay patuloy na nagliliyab sa madilim na temang ito."
+   }
+}

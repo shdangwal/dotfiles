@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Мідь"
+   },
+   "greyscale": {
+      "message": "Сірий масштаб"
+   },
+   "rise": {
+      "message": "Схід"
+   },
+   "set": {
+      "message": "Захід"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Тут є дракони. Досліджуйте анімований фон старого світу з музикою та звуком."
+   }
+}

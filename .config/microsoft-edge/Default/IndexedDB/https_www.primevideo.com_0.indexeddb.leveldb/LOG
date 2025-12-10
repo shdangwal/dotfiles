@@ -1,0 +1,15 @@
+2025/12/10-13:40:44.484 197e Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/10-13:40:44.484 197e Recovering log #200
+2025/12/10-13:40:44.501 197e Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/000200.log 
+2025/12/10-13:40:49.679 197f Level-0 table #206: started
+2025/12/10-13:40:49.698 197f Level-0 table #206: 690693 bytes OK
+2025/12/10-13:40:49.700 197f Delete type=0 #200
+2025/12/10-13:40:49.701 197f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/12/10-13:40:49.701 197f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x01$\x00c\x007\x00c\x003\x00c\x002\x004\x009\x00-\x007\x004\x009\x009\x00-\x004\x00b\x008\x00b\x00-\x00a\x003\x001\x00e\x00-\x00e\x001\x00c\x00f\x00c\x00f\x000\x00f\x009\x00a\x000\x007' @ 675389 : 1
+2025/12/10-13:40:49.701 197f Compacting 1@1 + 1@2 files
+2025/12/10-13:40:49.706 197f Generated table #207@1: 72 keys, 21913 bytes
+2025/12/10-13:40:49.706 197f Compacted 1@1 + 1@2 files => 21913 bytes
+2025/12/10-13:40:49.707 197f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/10-13:40:49.708 197f Delete type=2 #206
+2025/12/10-13:40:49.708 197f Delete type=2 #203
+2025/12/10-13:40:49.708 197f Manual compaction at level-1 from '\x00\x03\x01\x02\x01$\x00c\x007\x00c\x003\x00c\x002\x004\x009\x00-\x007\x004\x009\x009\x00-\x004\x00b\x008\x00b\x00-\x00a\x003\x001\x00e\x00-\x00e\x001\x00c\x00f\x00c\x00f\x000\x00f\x009\x00a\x000\x007' @ 675389 : 1 .. (end); will stop at (end)

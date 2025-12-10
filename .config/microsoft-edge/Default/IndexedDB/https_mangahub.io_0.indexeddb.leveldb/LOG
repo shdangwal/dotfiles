@@ -1,0 +1,10 @@
+2025/06/03-20:14:47.453 b06 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_mangahub.io_0.indexeddb.leveldb since it was missing.
+2025/06/03-20:14:47.456 b06 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_mangahub.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/03-20:14:47.515 b08 Level-0 table #5: started
+2025/06/03-20:14:47.517 b08 Level-0 table #5: 676 bytes OK
+2025/06/03-20:14:47.518 b08 Delete type=0 #3
+2025/06/03-20:14:47.519 b06 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/03-20:14:47.520 b06 Level-0 table #7: started
+2025/06/03-20:14:47.522 b06 Level-0 table #7: 757 bytes OK
+2025/06/03-20:14:47.524 b06 Delete type=0 #4
+2025/06/03-20:14:47.524 b06 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

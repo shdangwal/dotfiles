@@ -1,0 +1,7 @@
+2025/12/08-21:47:40.903 16c1 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_rivestream.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/08-21:47:40.904 16c1 Recovering log #1031
+2025/12/08-21:47:40.904 16c1 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_rivestream.org_0.indexeddb.leveldb/001031.log 
+2025/12/08-21:47:40.943 1748 Level-0 table #1037: started
+2025/12/08-21:47:40.945 1748 Level-0 table #1037: 840 bytes OK
+2025/12/08-21:47:40.947 1748 Delete type=0 #1031
+2025/12/08-21:47:40.947 16c0 Manual compaction at level-0 from ' #\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' $\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

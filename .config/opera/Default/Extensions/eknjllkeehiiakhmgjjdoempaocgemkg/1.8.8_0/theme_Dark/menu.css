@@ -1,0 +1,79 @@
+.menu, #group_edit {
+	display: none;
+	word-wrap: normal;
+	white-space: initial; z-index: 1000;
+	font-family: Arial, Helvetica, "Nimbus Sans L", "Liberation Sans", FreeSans, Sans-serif; font-size: 12px;
+	border: 1px solid #656565; padding: 0;
+	background: #444444; color: #bdbdbd;
+}
+.menu li {
+	padding: 3px 8px; cursor: pointer; list-style-type: none;
+}
+.menu li:hover {
+	padding: 2px 7px;
+	border: 1px solid #828282;
+	background-color: #595959;
+}
+.menu .separator {
+	width: 80%; height: 1px;
+	background-color: #656565;
+	margin: 0 auto;
+}
+
+
+#group_edit {
+	width: calc(100% - 28px); height: 53px;
+	background-color: #444444;
+}
+#group_edit_font, #group_edit_background, #group_edit_name, #group_edit_confirm, #group_edit_discard {
+	position: absolute;
+}
+#group_edit_font, #group_edit_background {
+	display: inline-block;
+	top: 5px;
+	width: 19px; height: 19px;
+	border: 1px solid #656565;
+	background-color: #000000;
+}
+#group_edit_background {
+	right: 5px;
+}
+#group_edit_font {
+	right: 28px;
+}
+#group_edit_name {
+	display: inline-block;
+	vertical-align: top;
+	top: 5px; left: 5px; width: calc(100% - 60px);
+}
+#group_edit_confirm, #group_edit_discard {
+	line-height: 17px;
+	font-family: Arial, Helvetica, "Nimbus Sans L", "Liberation Sans", FreeSans, Sans-serif;
+	font-size: 11px;
+	color: #000000;
+	text-overflow: ellipsis;
+	background: transparent;
+	text-align: center;
+	vertical-align: middle;
+
+	overflow: hidden;
+	display: inline-block;
+	top: 30px;
+	width: calc(50% - 8px); height: 17px;
+	border: 1px solid #656565;
+}
+#group_edit_confirm {
+	left: 5px;
+}
+#group_edit_discard {
+	left: calc(50% + 1px);
+}
+
+
+#group_edit_font:hover, #group_edit_background:hover {
+	opacity: 0.8;
+}
+#group_edit_confirm:hover, #group_edit_discard:hover {
+	background-color: #595959;
+	border: 1px solid #828282;
+}

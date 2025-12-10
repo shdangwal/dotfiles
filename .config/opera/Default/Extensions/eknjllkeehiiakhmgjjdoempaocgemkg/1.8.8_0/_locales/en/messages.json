@@ -1,0 +1,302 @@
+{
+   "at": {
+      "message": "Show all tabs"
+   },
+   "button_bookmarks": {
+      "message": "Unsorted bookmarks"
+   },
+   "button_discard": {
+      "message": "Unload tabs"
+   },
+   "button_downloads": {
+      "message": "Downloads"
+   },
+   "button_extensions": {
+      "message": "Extensions"
+   },
+   "button_filter_type": {
+      "message": "Search titles or urls"
+   },
+   "button_group_bar": {
+      "message": "Show / Hide groups"
+   },
+   "button_history": {
+      "message": "History"
+   },
+   "button_move": {
+      "message": "Detach tab"
+   },
+   "button_new": {
+      "message": "Press left mouse button to open new tab. \nPress middle mouse button to clone the active tab. \nPress right mouse button to scroll the list to the active tab."
+   },
+   "button_options": {
+      "message": "Vertical tabs settings"
+   },
+   "button_pin": {
+      "message": "Pin / Unpin current tab"
+   },
+   "button_search": {
+      "message": "Search tabs"
+   },
+   "button_settings": {
+      "message": "Settings"
+   },
+   "button_sort": {
+      "message": "Sort tabs"
+   },
+   "button_tools": {
+      "message": "Tools"
+   },
+   "button_undo": {
+      "message": "Reopen last closed"
+   },
+   "caption_clear_filter": {
+      "message": "Clear search results"
+   },
+   "caption_group": {
+      "message": "Group"
+   },
+   "caption_loading": {
+      "message": "Loading..."
+   },
+   "caption_searchbox": {
+      "message": "Search tabs..."
+   },
+   "close_group": {
+      "message": "Remove current group"
+   },
+   "donate_no_thanks_button": {
+      "message": "I don't care and please, don't bother me anymore"
+   },
+   "donate_text_change_mind": {
+      "message": "\u003Cbr>If you change your mind, you can always donate from options page.\u003Cbr>Wish you happy experience with Vertical Tabs :)"
+   },
+   "donate_text_pledge": {
+      "message": "I have spent countless hours of work on this extension every day and night, \u003Cbr>as the Vertical Tabs extension keeps growing, my free time is not unlimited, \u003Cbr>please consider donating for further development. Thank you very much."
+   },
+   "extensionDescription": {
+      "message": "Manage your tabs in the sidebar!"
+   },
+   "extensionName": {
+      "message": "Vertical Tabs"
+   },
+   "group_edit_background": {
+      "message": "Background color"
+   },
+   "group_edit_button_cancel": {
+      "message": "Cancel"
+   },
+   "group_edit_button_confirm": {
+      "message": "OK"
+   },
+   "group_edit_font": {
+      "message": "Title color"
+   },
+   "groups_menu_bookmark": {
+      "message": "Bookmark"
+   },
+   "groups_menu_close": {
+      "message": "Remove"
+   },
+   "groups_menu_close_with_tabs": {
+      "message": "Remove and close tabs"
+   },
+   "groups_menu_discard": {
+      "message": "Unload"
+   },
+   "groups_menu_edit": {
+      "message": "Edit"
+   },
+   "groups_menu_mute": {
+      "message": "Mute group"
+   },
+   "groups_menu_mute_other": {
+      "message": "Mute other"
+   },
+   "groups_menu_new": {
+      "message": "New group"
+   },
+   "groups_menu_suspend": {
+      "message": "Suspend"
+   },
+   "groups_menu_unmute": {
+      "message": "Unmute"
+   },
+   "groups_menu_unmute_other": {
+      "message": "Unmute other"
+   },
+   "new_group": {
+      "message": "New group"
+   },
+   "option_allow_pin_close": {
+      "message": " - allow to close pinned tabs"
+   },
+   "options_activate_last_after_close": {
+      "message": "When active tab was closed, "
+   },
+   "options_always_show_close": {
+      "message": " - show close button on all tabs"
+   },
+   "options_apply_all_settings": {
+      "message": "Apply"
+   },
+   "options_auto_switch_to_group": {
+      "message": " - after moving tabs to another group, switch to that group"
+   },
+   "options_available_buttons": {
+      "message": "Available options, drag and drop to customize"
+   },
+   "options_close_with_MMB": {
+      "message": " - close tabs with middle mouse button"
+   },
+   "options_drop_down_menu_after_close_action_last": {
+      "message": "go back to the last active tab"
+   },
+   "options_drop_down_menu_after_close_action_next": {
+      "message": "activate tab below"
+   },
+   "options_drop_down_menu_after_close_action_opera": {
+      "message": "let Opera decide (will cause jumps between groups)"
+   },
+   "options_drop_down_menu_after_close_action_prev": {
+      "message": "activate tab above"
+   },
+   "options_grayscale_groups": {
+      "message": " - gray scale groups"
+   },
+   "options_load_backup": {
+      "message": "Load last auto saved backup"
+   },
+   "options_new_open_below": {
+      "message": " - open new tabs below active"
+   },
+   "options_openclose_animation": {
+      "message": " - animate opening and closing tabs"
+   },
+   "options_pin_list_multi_row": {
+      "message": " - multi row list"
+   },
+   "options_pin_list_on_top": {
+      "message": " - display pinned tabs bar on top"
+   },
+   "options_pinned": {
+      "message": " Pinned tabs bar "
+   },
+   "options_reset_all_settings": {
+      "message": "Reset"
+   },
+   "options_scroll_to_active": {
+      "message": " - automatically scroll to the active tab"
+   },
+   "options_scroll_to_moved": {
+      "message": " - scroll tabs list when Opera's tab is moved"
+   },
+   "options_scroll_to_new": {
+      "message": " - scroll to new tab"
+   },
+   "options_scrollbar_pin_list": {
+      "message": " - pinned tabs bar scrollbar height"
+   },
+   "options_scrollbar_tab_list": {
+      "message": " - tabs list scrollbar width"
+   },
+   "options_scrollbars": {
+      "message": " Scrollbars "
+   },
+   "options_scrolling": {
+      "message": " Scrolling "
+   },
+   "options_tabs": {
+      "message": " Tabs "
+   },
+   "options_theme": {
+      "message": "Theme"
+   },
+   "options_toolbar": {
+      "message": " Toolbar "
+   },
+   "options_toolbar_main_buttons": {
+      "message": "Main toolbar"
+   },
+   "options_toolbar_on_top": {
+      "message": " - toolbar on top"
+   },
+   "options_toolbar_reset": {
+      "message": "Reset"
+   },
+   "options_toolbar_tools_buttons": {
+      "message": "Tools toolbar"
+   },
+   "options_update_favicon_hover": {
+      "message": " - update favicons and titles when hovering over tabs"
+   },
+   "remove_tabs_from_group": {
+      "message": "Ungroup selected tabs"
+   },
+   "repeat_search": {
+      "message": "Repeat search"
+   },
+   "tabs_menu_bookmark": {
+      "message": "Bookmark"
+   },
+   "tabs_menu_clone": {
+      "message": "Duplicate"
+   },
+   "tabs_menu_close": {
+      "message": "Close"
+   },
+   "tabs_menu_close_above": {
+      "message": "Close above"
+   },
+   "tabs_menu_close_below": {
+      "message": "Close below"
+   },
+   "tabs_menu_close_other": {
+      "message": "Close other"
+   },
+   "tabs_menu_discard": {
+      "message": "Unload"
+   },
+   "tabs_menu_move": {
+      "message": "Detach"
+   },
+   "tabs_menu_move_to_group": {
+      "message": "Move to group:"
+   },
+   "tabs_menu_move_to_new_group": {
+      "message": "Move to a new group"
+   },
+   "tabs_menu_mute": {
+      "message": "Mute / Unmute"
+   },
+   "tabs_menu_mute_other": {
+      "message": "Mute other"
+   },
+   "tabs_menu_new": {
+      "message": "New tab"
+   },
+   "tabs_menu_pin": {
+      "message": "Pin"
+   },
+   "tabs_menu_reload": {
+      "message": "Reload"
+   },
+   "tabs_menu_settings": {
+      "message": "Settings"
+   },
+   "tabs_menu_undo": {
+      "message": "Undo close"
+   },
+   "tabs_menu_ungroup": {
+      "message": "Ungroup"
+   },
+   "tabs_menu_unmute_other": {
+      "message": "Unmute other"
+   },
+   "tabs_menu_unpin": {
+      "message": "Unpin"
+   },
+   "ut": {
+      "message": "Show tabs that do not belong to any group"
+   }
+}

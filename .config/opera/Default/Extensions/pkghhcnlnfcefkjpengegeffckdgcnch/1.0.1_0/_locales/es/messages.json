@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Temprano"
+   },
+   "hidden": {
+      "message": "Oculto"
+   },
+   "late": {
+      "message": "Tarde"
+   },
+   "seen": {
+      "message": "Visto"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "La risa ha desaparecido hace tiempo, pero las luces aún brillan en este tema oscuro animado."
+   }
+}

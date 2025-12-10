@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Tidlig"
+   },
+   "hidden": {
+      "message": "Skjult"
+   },
+   "late": {
+      "message": "Sen"
+   },
+   "seen": {
+      "message": "Sett"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Latter har lenge falmet, men lysene brenner fortsatt i dette animerte mørke temaet."
+   }
+}

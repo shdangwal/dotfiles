@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "구리"
+   },
+   "greyscale": {
+      "message": "그레이스케일"
+   },
+   "rise": {
+      "message": "일출"
+   },
+   "set": {
+      "message": "저녁"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "여기 드래곤이 있습니다. 음악과 소리가 있는 구세계 애니메이션 배경화를 탐험하세요."
+   }
+}

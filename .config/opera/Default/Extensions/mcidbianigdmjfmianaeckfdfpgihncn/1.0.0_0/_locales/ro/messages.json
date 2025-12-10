@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Cupru"
+   },
+   "greyscale": {
+      "message": "Gri"
+   },
+   "rise": {
+      "message": "Răsărit"
+   },
+   "set": {
+      "message": "Apus"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Aici sunt dragoni. Explorează un fundal animat din vechea lume cu muzică și sunet."
+   }
+}

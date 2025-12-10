@@ -1,0 +1,15 @@
+2025/12/10-00:36:38.224 18ea Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/12/10-00:36:38.238 18ea Recovering log #880
+2025/12/10-00:36:38.243 18ea Reusing old log /home/shdangwal/.config/microsoft-edge/Default/Sync Data/LevelDB/000880.log 
+2025/12/10-00:36:43.805 19e1 Level-0 table #884: started
+2025/12/10-00:36:43.808 19e1 Level-0 table #884: 112783 bytes OK
+2025/12/10-00:36:43.812 19e1 Delete type=0 #880
+2025/12/10-00:36:43.812 19e1 Compacting 4@0 + 1@1 files
+2025/12/10-00:36:43.828 19e1 Generated table #885@0: 411 keys, 39619 bytes
+2025/12/10-00:36:43.829 19e1 Compacted 4@0 + 1@1 files => 39619 bytes
+2025/12/10-00:36:43.831 19e1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/10-00:36:43.831 19e1 Delete type=2 #876
+2025/12/10-00:36:43.832 19e1 Delete type=2 #881
+2025/12/10-00:36:43.832 19e1 Delete type=2 #874
+2025/12/10-00:36:43.832 19e1 Delete type=2 #879
+2025/12/10-00:36:43.832 19e1 Delete type=2 #884

@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Primer"
+   },
+   "hidden": {
+      "message": "Amagat"
+   },
+   "late": {
+      "message": "Tard"
+   },
+   "seen": {
+      "message": "Vist"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "El riure fa temps que s'ha apagat, però les llums encara brillen en aquest tema fosc animat."
+   }
+}

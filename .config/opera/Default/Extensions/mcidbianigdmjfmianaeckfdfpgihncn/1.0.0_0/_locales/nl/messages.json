@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Koper"
+   },
+   "greyscale": {
+      "message": "Grijstinten"
+   },
+   "rise": {
+      "message": "Zonsopgang"
+   },
+   "set": {
+      "message": "Zonsondergang"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Hier zijn draken. Verken een oude wereld animatieachtergrond met muziek en geluid."
+   }
+}

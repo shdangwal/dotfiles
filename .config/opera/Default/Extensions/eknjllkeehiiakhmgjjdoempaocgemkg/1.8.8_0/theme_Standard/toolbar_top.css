@@ -1,0 +1,28 @@
+#toolbar, #toolbar_main  {
+	height: 26px;
+	top: 0px;
+}
+
+#toolbar_search, #toolbar_tools {
+	height: 27px;
+	top: 27px;
+}
+
+#toolbar_main {
+	border-bottom: 1px solid #cccccc;
+}
+
+#content_container {
+	bottom: 0px;
+}
+
+#toolbar_main #button_tools.on, #toolbar_main #button_tools.on:hover, 
+#toolbar_main #button_search.on, #toolbar_main #button_search.on:hover {
+	background-color: #f2f2f2;
+	height: 24px;
+	border-top: 1px solid #cccccc;
+	border-bottom: 1px solid transparent;
+	border-left: 1px solid #cccccc;
+	border-right: 1px solid #cccccc;
+}
+

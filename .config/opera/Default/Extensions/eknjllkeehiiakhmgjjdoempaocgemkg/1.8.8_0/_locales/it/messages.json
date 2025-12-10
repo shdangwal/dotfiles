@@ -1,0 +1,281 @@
+{
+   "at": {
+      "message": "Visualizza tutte le schede"
+   },
+   "button_bookmarks": {
+      "message": "Segnalibri non ordinati"
+   },
+   "button_downloads": {
+      "message": "Trasferimenti"
+   },
+   "button_filter_type": {
+      "message": "Trova tra gli titoli oppure url"
+   },
+   "button_group_bar": {
+      "message": "Visualizza / Nascondi i gruppi"
+   },
+   "button_history": {
+      "message": "Cronologia"
+   },
+   "button_move": {
+      "message": "Stacca la scheda"
+   },
+   "button_new": {
+      "message": "Premi il tasto sinistro del mouse per aprire una nuova scheda.\nPremi il tasto centrale del mouse per duplicare la scheda attuale.\nPremi il tasto destro del mouse, per scorrere la lista fino alla scheda attiva."
+   },
+   "button_options": {
+      "message": "Impostazioni Vertical Tabs"
+   },
+   "button_pin": {
+      "message": "Blocca / Sblocca la scheda attuale"
+   },
+   "button_search": {
+      "message": "Trova le schede"
+   },
+   "button_settings": {
+      "message": "Impostazioni"
+   },
+   "button_sort": {
+      "message": "Ordina le schede"
+   },
+   "button_tools": {
+      "message": "Strumenti"
+   },
+   "button_undo": {
+      "message": "Riapri l'ultima scheda chiusa"
+   },
+   "caption_clear_filter": {
+      "message": "Cancella i risultati della ricerca"
+   },
+   "caption_group": {
+      "message": "Gruppo"
+   },
+   "caption_loading": {
+      "message": "Caricamento..."
+   },
+   "caption_searchbox": {
+      "message": "Cerca le schede..."
+   },
+   "close_group": {
+      "message": "Rimuovi gruppo corrente"
+   },
+   "donate_no_thanks_button": {
+      "message": "Non mi importa e non chiedermelo mai più"
+   },
+   "donate_text_change_mind": {
+      "message": "\u003Cbr>Se per caso cambi idea, puoi sempre fare una donazione attraverso la pagina di opzioni di questa estensione. \u003Cbr>Le auguro una felice esperienza con Vertical Tabs :)"
+   },
+   "donate_text_pledge": {
+      "message": "Ho trascorso innumerevoli ore di lavoro su questa estensione ogni giorno e notte, \u003Cbr>come Vertical Tabs continua a crescere, il mio tempo libero purtroppo non è illimitato, \u003Cbr>la prego di prendere in considerazione anche una minima donazione per un ulteriore sviluppo.\u003Cbr>Grazie mille."
+   },
+   "extensionDescription": {
+      "message": "Organizza le schede in barra laterale!"
+   },
+   "extensionName": {
+      "message": "Vertical Tabs"
+   },
+   "group_edit_background": {
+      "message": "Colore dello sfondo"
+   },
+   "group_edit_button_cancel": {
+      "message": "Anulla"
+   },
+   "group_edit_button_confirm": {
+      "message": "OK"
+   },
+   "group_edit_font": {
+      "message": "Colore del titolo"
+   },
+   "groups_menu_bookmark": {
+      "message": "Salva in segnalibri"
+   },
+   "groups_menu_close": {
+      "message": "Rimuovi"
+   },
+   "groups_menu_close_with_tabs": {
+      "message": "Rimuovi e chiudi le schede"
+   },
+   "groups_menu_edit": {
+      "message": "Modifica"
+   },
+   "groups_menu_mute": {
+      "message": "Silenzia il gruppo"
+   },
+   "groups_menu_mute_other": {
+      "message": "Silenzia gli altri"
+   },
+   "groups_menu_new": {
+      "message": "Nuovo gruppo"
+   },
+   "groups_menu_suspend": {
+      "message": "Sospendi"
+   },
+   "groups_menu_unmute": {
+      "message": "Attiva audio in gruppo"
+   },
+   "groups_menu_unmute_other": {
+      "message": "Attiva audio in altri"
+   },
+   "new_group": {
+      "message": "Crea un nuovo gruppo"
+   },
+   "option_allow_pin_close": {
+      "message": " - consenti di chiudere le schede bloccate"
+   },
+   "options_activate_last_after_close": {
+      "message": "Dopo la chiusura della scheda attiva, "
+   },
+   "options_always_show_close": {
+      "message": " - mostra il tasto di chiusura in ogni scheda"
+   },
+   "options_apply_all_settings": {
+      "message": "Applica"
+   },
+   "options_auto_switch_to_group": {
+      "message": " - cambia automaticamente il gruppo, dopo il spostamento delle schede nell'altro gruppo"
+   },
+   "options_available_buttons": {
+      "message": "Possibili opzioni, sposta le icone per modificare le barre"
+   },
+   "options_close_with_MMB": {
+      "message": " - chiudi le schede con il tasto centrale del mouse"
+   },
+   "options_drop_down_menu_after_close_action_last": {
+      "message": "ritorna alla scheda precedente"
+   },
+   "options_drop_down_menu_after_close_action_next": {
+      "message": "attiva la scheda che si trova sotto"
+   },
+   "options_drop_down_menu_after_close_action_opera": {
+      "message": "lascia as Opera a decidere (causa salti tra i gruppi)"
+   },
+   "options_drop_down_menu_after_close_action_prev": {
+      "message": "attiva la scheda che si trova sopra"
+   },
+   "options_pin_list_multi_row": {
+      "message": " - righe multiple"
+   },
+   "options_pin_list_on_top": {
+      "message": " - visualizza barra delle schede bloccate in cima della lista"
+   },
+   "options_pinned": {
+      "message": " Barra delle schede bloccate "
+   },
+   "options_reset_all_settings": {
+      "message": "Predefinite"
+   },
+   "options_scroll_to_active": {
+      "message": " - scorri automaticamente la lista per focalizzare la scheda attuale"
+   },
+   "options_scroll_to_moved": {
+      "message": " - scorri la lista quando la scheda venga spostata da Opera"
+   },
+   "options_scroll_to_new": {
+      "message": " - scorri la lista per focalizzare la nuova scheda"
+   },
+   "options_scrollbar_pin_list": {
+      "message": " - altezza della barra di scorrimento delle schede bloccate"
+   },
+   "options_scrollbar_tab_list": {
+      "message": " - larghezza della barra di scorrimento delle schede"
+   },
+   "options_scrollbars": {
+      "message": " Barre di scorrimento "
+   },
+   "options_scrolling": {
+      "message": " Scorrimento "
+   },
+   "options_tabs": {
+      "message": " Le Schede "
+   },
+   "options_theme": {
+      "message": "Tema"
+   },
+   "options_toolbar": {
+      "message": " Barra degli strumenti "
+   },
+   "options_toolbar_main_buttons": {
+      "message": "Barra principale"
+   },
+   "options_toolbar_on_top": {
+      "message": " - visualizza la barra in cima"
+   },
+   "options_toolbar_reset": {
+      "message": "Predefinite"
+   },
+   "options_toolbar_tools_buttons": {
+      "message": "Barra degli strumenti"
+   },
+   "options_update_favicon_hover": {
+      "message": " - aggiorna le icone e i titoli delle schede quando il mouse passa sopra le schede"
+   },
+   "remove_tabs_from_group": {
+      "message": "Rimuovi le schede selezionate dal gruppo"
+   },
+   "repeat_search": {
+      "message": "Ripeti la ricerca"
+   },
+   "tabs_menu_bookmark": {
+      "message": "Salva in segnalibri"
+   },
+   "tabs_menu_clone": {
+      "message": "Duplica"
+   },
+   "tabs_menu_close": {
+      "message": "Chiudi"
+   },
+   "tabs_menu_close_above": {
+      "message": "Chiudi sopra"
+   },
+   "tabs_menu_close_below": {
+      "message": "Chiudi sotto"
+   },
+   "tabs_menu_close_other": {
+      "message": "Chiudi le altre"
+   },
+   "tabs_menu_discard": {
+      "message": "Sopprimi dalla memoria"
+   },
+   "tabs_menu_move": {
+      "message": "Stacca"
+   },
+   "tabs_menu_move_to_group": {
+      "message": "Sposta nel gruppo:"
+   },
+   "tabs_menu_move_to_new_group": {
+      "message": "Sposta in un nuovo gruppo"
+   },
+   "tabs_menu_mute": {
+      "message": "Muto / Suono"
+   },
+   "tabs_menu_mute_other": {
+      "message": "Silenzia le altre"
+   },
+   "tabs_menu_new": {
+      "message": "Nuova scheda"
+   },
+   "tabs_menu_pin": {
+      "message": "Blocca"
+   },
+   "tabs_menu_reload": {
+      "message": "Ricarica"
+   },
+   "tabs_menu_settings": {
+      "message": "Impostazioni"
+   },
+   "tabs_menu_undo": {
+      "message": "Riapri l'ultima"
+   },
+   "tabs_menu_ungroup": {
+      "message": "Rimuovi dal gruppo"
+   },
+   "tabs_menu_unmute_other": {
+      "message": "Audio nelle altre"
+   },
+   "tabs_menu_unpin": {
+      "message": "Sblocca"
+   },
+   "ut": {
+      "message": "Visualizza le schede che non appartengono a nessun gruppo"
+   }
+}

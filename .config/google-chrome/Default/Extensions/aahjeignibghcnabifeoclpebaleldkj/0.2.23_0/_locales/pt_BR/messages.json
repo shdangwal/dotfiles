@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "Guia personalizadaTítulo do grupo"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "Adicionar regra"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "Adicionar guia ao grupo"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "Adicionar guias ao grupo"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "Agrupar automaticamente todas as guias de desagrupar"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "Regras de grupo automático"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "Temas de fundo"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "Cancelar"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "Alterar família de fontes"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "Mudar TAMANHO DA FONTE"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "Fechar as guias acima"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "Fechar as guias abaixo"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "Fechar outras guias"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "Fechar guias selecionadas"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "Aba fechada"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "recolher/descompactar grupo"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Cor"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "Modo compacto"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️ Configuração"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "copiado"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "Copiar URL"
+   },
+   "create": {
+      "description": "Create",
+      "message": "Criar"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "Crie uma regra de grupo automático primeiro"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "Criar grupo"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "Criar regra"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "Criar guia"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "Criar espaço de trabalho"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "URL personalizado"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "Excluir grupo"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "Excluir regra"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "Domínio"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "Guia duplicada"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "Editar grupo"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "Editar regra"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 Ativar agrupamento automático de guias"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 Ativar suspensão automática de guias"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 Habilitar espaço de trabalho"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(opcional) insira os domínios selecionados. vírgula para multi"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(opcional) insira os principais domínios selecionados. vírgula para multi"
+   },
+   "export": {
+      "description": "Export",
+      "message": "Exportar"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Gerencie guias e grupos de guias verticalmente no painel lateral. Agrupamento automático avançado de guias. Alterne os espaços de trabalho. Guia de suspensão automática"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - guias verticais"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "Filtro"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "Segmento do primeiro caminho"
+   },
+   "format": {
+      "description": "Format",
+      "message": "Formatar"
+   },
+   "group": {
+      "description": "Group",
+      "message": "Grupo"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "Agrupar guias do mesmo domínio"
+   },
+   "import": {
+      "description": "Import",
+      "message": "Importar"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "Guia Importar/exportar"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "Apenas um clique"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "Atalhos do teclado"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "combinar padrões"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "Partidas"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "Mover grupo para janela"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "Mover guia para janela"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "Mover guias para janela"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "Guia Silenciar"
+   },
+   "name": {
+      "description": "Name",
+      "message": "Nome"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "Nova aba acima"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "Nova aba abaixo"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "Nova janela"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "Posição do painel"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "Fixar Guia"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "Prioridade"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "Usado recentemente"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "Guia Recarregar"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "Remover guias duplicadas"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "Reportar bug"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "Reverter"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "Nome da regra"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "Guias de pesquisa"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "Selecionar guia"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "selecionado"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(opcional) insira o primeiro caminho selecionado. vírgula para multi"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(opcional) insira os dois primeiros caminhos selecionados. vírgula para multi"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Configurações"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "Desculpe, algo deu errado"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "Organizar"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "Suspender gerente"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "Suspender outras guias"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "Suspender guias selecionadas"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "Guia Suspender"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "Suspender grupo de guias"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "O título da guia inclui"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "Regras do TabGroup"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "Esta janela"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "Domínio principal"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "Segmento de dois caminhos"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "ungroup_all_tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "Guia Desagrupar"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "Desmarque todos"
+   },
+   "update": {
+      "description": "Update",
+      "message": "Atualizar"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "Atualizar título do grupo de guias"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "Atualizar nome da janela"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "Correspondência de URL"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "Área de trabalho"
+   }
+}

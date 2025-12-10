@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Kupfer"
+   },
+   "greyscale": {
+      "message": "Graustufen"
+   },
+   "rise": {
+      "message": "Sonnenaufgang"
+   },
+   "set": {
+      "message": "Sonnenuntergang"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Hier gibt es Drachen. Entdecken Sie ein animiertes Wallpaper im alten Stil mit Musik und Geräuschen."
+   }
+}

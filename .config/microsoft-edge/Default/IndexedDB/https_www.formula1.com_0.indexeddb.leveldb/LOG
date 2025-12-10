@@ -1,0 +1,6 @@
+2025/11/30-00:35:52.000 ba4 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.formula1.com_0.indexeddb.leveldb since it was missing.
+2025/11/30-00:35:52.003 ba4 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.formula1.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/30-01:08:35.077 ba5 Level-0 table #5: started
+2025/11/30-01:08:35.081 ba5 Level-0 table #5: 136131 bytes OK
+2025/11/30-01:08:35.083 ba5 Delete type=0 #3
+2025/11/30-01:08:35.083 ba5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

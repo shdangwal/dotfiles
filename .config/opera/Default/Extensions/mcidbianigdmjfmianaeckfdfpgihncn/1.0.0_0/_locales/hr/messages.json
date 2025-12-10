@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Bakar"
+   },
+   "greyscale": {
+      "message": "Siva skala"
+   },
+   "rise": {
+      "message": "Izlazak"
+   },
+   "set": {
+      "message": "Zalazak"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Ovdje su zmajevi. Istražite animiranu pozadinu starog svijeta s glazbom i zvukom."
+   }
+}

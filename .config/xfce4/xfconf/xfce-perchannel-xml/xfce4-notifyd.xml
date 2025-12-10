@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-notifyd" version="1.0">
+  <property name="log-max-size-enabled" type="bool" value="true"/>
+  <property name="date-time-custom-format" type="string" value="%a %H:%M:%S"/>
+  <property name="theme" type="string" value="Default"/>
+  <property name="notification-log" type="bool" value="true"/>
+  <property name="log-level" type="string" value="always"/>
+  <property name="applications" type="empty">
+    <property name="known_applications" type="array">
+      <value type="string" value=""/>
+      <value type="string" value="/snap/elecwhat/19/elecwhat"/>
+      <value type="string" value="/snap/elecwhat/22/elecwhat"/>
+      <value type="string" value="/snap/elecwhat/23/elecwhat"/>
+      <value type="string" value="/snap/elecwhat/30/elecwhat"/>
+      <value type="string" value="/snap/elecwhat/31/elecwhat"/>
+      <value type="string" value="/snap/elecwhat/32/elecwhat"/>
+      <value type="string" value="/snap/elecwhat/36/elecwhat"/>
+      <value type="string" value="/snap/elecwhat/37/elecwhat"/>
+      <value type="string" value="balenaEtcher"/>
+      <value type="string" value="blueman"/>
+      <value type="string" value="firefox_Firefox"/>
+      <value type="string" value="google-chrome"/>
+      <value type="string" value="microsoft-edge"/>
+      <value type="string" value="notify-send"/>
+      <value type="string" value="org.gnome.Nautilus"/>
+      <value type="string" value="org.qbittorrent.qBittorrent"/>
+      <value type="string" value="snapd-desktop-integration_snapd-desktop-integration"/>
+      <value type="string" value="vivaldi-stable"/>
+      <value type="string" value="wezterm"/>
+    </property>
+  </property>
+</channel>

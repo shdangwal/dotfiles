@@ -1,0 +1,12 @@
+2025/11/01-11:34:47.587 4 Reusing MANIFEST /home/shdangwal/.config/opera/Default/Local Storage/leveldb/MANIFEST-000001
+2025/11/01-11:34:47.593 4 Recovering log #3
+2025/11/01-11:34:47.594 4 Reusing old log /home/shdangwal/.config/opera/Default/Local Storage/leveldb/000003.log 
+2025/11/01-12:21:20.986 5 Level-0 table #5: started
+2025/11/01-12:21:20.990 5 Level-0 table #5: 36593 bytes OK
+2025/11/01-12:21:20.992 5 Delete type=0 #3
+2025/11/01-12:21:39.969 5 Level-0 table #7: started
+2025/11/01-12:21:39.974 5 Level-0 table #7: 11063 bytes OK
+2025/11/01-12:21:39.976 5 Delete type=0 #4
+2025/11/01-12:23:23.040 5 Level-0 table #9: started
+2025/11/01-12:23:23.043 5 Level-0 table #9: 12586 bytes OK
+2025/11/01-12:23:23.046 5 Delete type=0 #6

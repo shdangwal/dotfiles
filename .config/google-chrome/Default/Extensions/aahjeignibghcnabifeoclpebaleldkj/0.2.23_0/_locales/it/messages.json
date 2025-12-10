@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "Scheda personalizzataTitolo del gruppo"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "Aggiungi regola"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "Aggiungi scheda al gruppo"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "Aggiungi schede al gruppo"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "Raggruppa automaticamente tutte le schede separabili"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "Regole del gruppo automatico"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "Temi di sfondo"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "Annulla"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "Cambia famiglia di caratteri"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "Cambiare la dimensione del font"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "Chiudi le schede sopra"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "Chiudi le schede sottostanti"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "Chiudi le altre schede"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "Chiudi le schede selezionate"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "Chiudi scheda"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "gruppo comprimi/ripristina"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Colore"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "Modalità compatta"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️Configurazione"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "copiato"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "Copia l'URL"
+   },
+   "create": {
+      "description": "Create",
+      "message": "Creare"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "Crea prima la regola del gruppo automatico"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "Creare un gruppo"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "Crea regola"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "Crea scheda"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "Crea spazio di lavoro"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "URL personalizzato"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "Elimina gruppo"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "Elimina regola"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "Dominio"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "Scheda duplicata"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "Modifica gruppo"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "Modifica regola"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 Abilita il raggruppamento automatico delle schede"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 Abilita la sospensione automatica delle schede"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 Abilita l'area di lavoro"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(facoltativo) inserisci i domini selezionati. virgola per multi"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(facoltativo) inserisci i domini principali selezionati. virgola per multi"
+   },
+   "export": {
+      "description": "Export",
+      "message": "Esportare"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Gestisci schede e gruppi di schede verticalmente nel pannello laterale. Raggruppamento automatico avanzato delle schede. Cambia area di lavoro. Scheda Sospensione automatica"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal: schede verticali"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "Filtro"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "Primo segmento del percorso"
+   },
+   "format": {
+      "description": "Format",
+      "message": "Formato"
+   },
+   "group": {
+      "description": "Group",
+      "message": "Gruppo"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "Raggruppa le schede dello stesso dominio"
+   },
+   "import": {
+      "description": "Import",
+      "message": "Importare"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "Scheda Importa/esporta"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "Basta un clic"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "Tasti rapidi"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "modelli di corrispondenza"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "Partite"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "Sposta il gruppo nella finestra"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "Sposta la scheda nella finestra"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "Sposta le schede nella finestra"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "Scheda Disattiva"
+   },
+   "name": {
+      "description": "Name",
+      "message": "Nome"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "Nuova scheda sopra"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "Nuova scheda qui sotto"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "Nuova finestra"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "Posizione del pannello"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "Scheda perno"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "Priorità"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "Usato recente"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "Scheda Ricarica"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "Rimuovi le schede duplicate"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "Segnala un errore"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "Inversione"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "Nome della regola"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "Schede di ricerca"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "Seleziona la scheda"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "selezionato"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(facoltativo) inserisci il primo percorso selezionato. virgola per multi"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(facoltativo) inserisci i primi due percorsi selezionati. virgola per multi"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Impostazioni"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "Scusa, qualcosa è andato storto"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "Ordinare"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "Sospendere il gestore"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "Sospendere le altre schede"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "Sospende le schede selezionate"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "Scheda Sospendi"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "Sospendi il gruppo di schede"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "Il titolo della scheda include"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "Regole del gruppo di schede"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "Questa finestra"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "Dominio principale"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "Segmento a due percorsi"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "separa_tutte_tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "Scheda Separa"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "Deseleziona tutto"
+   },
+   "update": {
+      "description": "Update",
+      "message": "Aggiornamento"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "Aggiorna il titolo del gruppo di schede"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "Aggiorna il nome della finestra"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "Corrispondenza URL"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "Spazio di lavoro"
+   }
+}

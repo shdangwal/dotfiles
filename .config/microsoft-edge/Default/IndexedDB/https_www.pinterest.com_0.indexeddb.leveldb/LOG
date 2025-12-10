@@ -1,0 +1,6 @@
+2025/09/13-18:16:30.991 b64 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb since it was missing.
+2025/09/13-18:16:30.993 b64 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.pinterest.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/13-18:22:20.252 b65 Level-0 table #5: started
+2025/09/13-18:22:20.264 b65 Level-0 table #5: 127166 bytes OK
+2025/09/13-18:22:20.271 b65 Delete type=0 #3
+2025/09/13-18:22:20.271 b65 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

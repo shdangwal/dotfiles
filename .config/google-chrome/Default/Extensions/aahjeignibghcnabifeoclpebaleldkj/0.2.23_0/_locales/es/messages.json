@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "Pestaña personalizadaTítulo del grupo"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "Agregar regla"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "Agregar pestaña al grupo"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "Agregar pestañas al grupo"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "Agrupar automáticamente todas las pestañas desagrupadas"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "Reglas de grupo automático"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "Temas de fondo"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "Cancelar"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "Cambiar familia de fuentes"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "Cambia tamaño de fuente"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "Cerrar pestañas superiores"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "Cerrar las pestañas siguientes"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "Cerrar otras pestañas"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "Cerrar pestañas seleccionadas"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "Cerrar pestaña"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "colapsar/descomprimir grupo"
+   },
+   "color": {
+      "description": "Color",
+      "message": "Color"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "Modo compacto"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️ Configuración"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "copiado"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "Copiar URL"
+   },
+   "create": {
+      "description": "Create",
+      "message": "Crear"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "Primero cree la regla de grupo automático"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "Crea un grupo"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "Crear regla"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "Crear pestaña"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "Crear espacio de trabajo"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "URL personalizada"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "Eliminar grupo"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "Eliminar regla"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "Dominio"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "Duplicar pestaña"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "Editar grupo"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "Editar regla"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 Habilite la agrupación automática de pestañas"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 Habilitar suspensión automática de pestañas"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 Habilitar espacio de trabajo"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(opcional) ingrese los dominios seleccionados. coma para multi"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(opcional) ingrese los dominios principales seleccionados. coma para multi"
+   },
+   "export": {
+      "description": "Export",
+      "message": "Exportar"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "Administre pestañas y grupos de pestañas verticalmente en el panel lateral. Agrupación de pestañas automática avanzada. Cambie de espacio de trabajo. Pestaña de suspensión automática"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - pestañas verticales"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "Filtrar"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "Primer segmento de ruta"
+   },
+   "format": {
+      "description": "Format",
+      "message": "Formato"
+   },
+   "group": {
+      "description": "Group",
+      "message": "Grupo"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "Agrupar pestañas del mismo dominio"
+   },
+   "import": {
+      "description": "Import",
+      "message": "Importar"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "Pestaña Importar/exportar"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "Sólo un clic"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "Atajos de teclado"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "combinar patrones"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "Partidos"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "Mover grupo a la ventana"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "Mover pestaña a ventana"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "Mover pestañas a la ventana"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "Pestaña de silencio"
+   },
+   "name": {
+      "description": "Name",
+      "message": "Nombre"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "Nueva pestaña arriba"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "Nueva pestaña a continuación"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "Nueva ventana"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "Posición del panel"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "Pestaña pin"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "Prioridad"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "Usado reciente"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "Recargar pestaña"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "Eliminar pestañas duplicadas"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "Reportar un error"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "Contrarrestar"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "Nombre de la regla"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "Pestañas de búsqueda"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "Seleccionar pestaña"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "seleccionado"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(opcional) ingrese la primera ruta seleccionada. coma para multi"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(opcional) ingrese las dos primeras rutas seleccionadas. coma para multi"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "Ajustes"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "Perdón, algo salió mal"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "Clasificar"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "suspender gerente"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "Suspender otras pestañas"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "Suspender pestañas seleccionadas"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "Suspender pestaña"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "Suspender grupo de pestañas"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "El título de la pestaña incluye"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "Reglas de grupo de pestañas"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "esta ventana"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "Dominio superior"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "Segmento de dos rutas"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "ungroup_all_tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "Pestaña Desagrupar"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "Deselecciona todo"
+   },
+   "update": {
+      "description": "Update",
+      "message": "Actualizar"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "Actualizar título del grupo de pestañas"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "Actualizar nombre de la ventana"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "Coincidencia de URL"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "Espacio de trabajo"
+   }
+}

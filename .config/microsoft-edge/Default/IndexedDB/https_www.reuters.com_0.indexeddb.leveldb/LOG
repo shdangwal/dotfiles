@@ -1,0 +1,6 @@
+2025/09/21-17:11:39.587 5bb3 Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.reuters.com_0.indexeddb.leveldb since it was missing.
+2025/09/21-17:11:39.591 5bb3 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_www.reuters.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/21-17:17:25.807 5bb4 Level-0 table #5: started
+2025/09/21-17:17:25.810 5bb4 Level-0 table #5: 243408 bytes OK
+2025/09/21-17:17:25.812 5bb4 Delete type=0 #3
+2025/09/21-17:17:25.812 5bb4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

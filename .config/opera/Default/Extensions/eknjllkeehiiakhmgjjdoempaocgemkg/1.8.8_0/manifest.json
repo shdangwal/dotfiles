@@ -1,0 +1,33 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "default_locale": "en",
+   "description": "",
+   "developer": {
+      "name": "kroppy"
+   },
+   "icons": {
+      "128": "icons/128.png",
+      "19": "icons/19.png",
+      "38": "icons/38.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo4ma67kqv2ur1IYSM9gytOSk8aJ9jftTylej3gD+Fw5oYOO5zwUUvWjAAqbSCJ02xRxWdkHfPFph0uKVk0LWWjg6aVBrvYd9qZILWG1dotqnxRpt6Znbxe/EF9gOa8cEfhNoxNGaYBVlrQH1DibPKViFiKW75sbs64OMmdJKyEZG6lpAgOHPHg7n/TlLJOmm87Yx5vtBadmLaO+hcJDcYbkMl4qFFau3IjWdXPaG0XqHnVzNUTRAub37gj3iWAnBJ1kHYz5OeMRWnBN/Khn+2U9Gzx1ORt0cVC3xzx8NGwD5SF3eLlZUhQ9sTDDj4zdyG2z36XaOaRpG0YoA4yJuVQIDAQAB",
+   "manifest_version": 2,
+   "minimum_opera_version": "29.0",
+   "name": "Vertical Tabs",
+   "options_page": "options.html",
+   "permissions": [ "tabs", "sessions", "chrome://favicon/*", "bookmarks" ],
+   "sidebar_action": {
+      "default_icon": {
+         "19": "icons/19.png",
+         "38": "icons/38.png"
+      },
+      "default_panel": "sidebar.html",
+      "default_title": "Vertical Tabs"
+   },
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "1.8.8"
+}

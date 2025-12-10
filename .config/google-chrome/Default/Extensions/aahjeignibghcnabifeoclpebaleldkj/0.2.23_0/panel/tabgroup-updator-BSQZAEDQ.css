@@ -1,0 +1,48 @@
+:host {
+	border-radius: 0 0 6px 6px;
+	min-width: 60vw;
+}
+
+button {
+	border: none;
+	background-image: var(--btn-clr);
+	text-align: center;
+	box-shadow: var(--card);
+	border-radius: 7px;
+	padding-block: 0.5em;
+	margin-left: 1.2em;
+	width: 80%;
+	font-weight: bold;
+	font-size: medium;
+	color: #ffff;
+	opacity: 0.7;
+	cursor: pointer;
+
+	&:hover {
+		opacity: 1;
+		transition: opacity 0.5s linear;
+	}
+}
+
+.color-box {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 0.5em;
+
+	& label {
+		height: 5vw;
+		width: 5vw;
+		border-radius: 50%;
+		display: inline-block;
+		background-color: var(--clr);
+
+		&:has(input:checked) {
+			outline: 1px dashed red;
+		}
+	}
+
+	& + input {
+		display: block;
+		margin-block: 0.5em;
+	}
+}

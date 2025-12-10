@@ -1,0 +1,162 @@
+{
+   "author": "Opera Software",
+   "default_locale": "en",
+   "description": "__MSG_themeDescription__",
+   "developer": {
+      "name": "Opera Software"
+   },
+   "icons": {
+      "218": "icon.png"
+   },
+   "key": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAxS2Gfbg/eTUVqR+JtZI2uoTczLq0y5XEXatYlf6tqtvOyfSmdeIki0Lyy+dukGW4O+cGYRQqSGQeaQSKa1FkMrHkBLXWg07QoCy1ylSpaDz9Eob3VAZ4dgUMVQp3E+5UQuxc0uvNQYttjIQu9oqtx5ZUi+Drspy966cRU9wAJVkl4DeGdKU7FZlzbVKOtU40VkkYFK+Rv2RRHcQGLPsfPUIbMlpGeUWhJd/yzkZ8P3zM6TFmeUbEJhYM2OsGFBH1So/m6o3C6n6dpAoE6qPAx8oCN5q/vQcnqSOybu39M2PvuIXKVcnd/+5Rlk8SHkSF+QNBuyiRuBhlU9xa2zEBMYoPOatUWLSAnqfDmrMjhUQ9TxgNcnTl65zAI8bHNqpwtzcYFGh1yKpBuElFpglkW4MyR3nTXkRzUzVK6mYfkrJBPL+g59X56UraQR5w0okdMfGXgiHWaOpBsja2BwhbZMc73eORw7tQbry7Wvmg2X6KHJdQKjY1q9gptfh4adDDgL6V4kzV4z0a71G0Vz8gmVI1+47ZKoYIf80A8VYUB/IYGvG5sSim/ZLNWrupu6ZkNwY0+JIjALEWrLl7gsgyM4u4geCkik9UBiRuBG2MJHH7SAxdiOHUB3K6fA1VilWpQidTUNqJxn1L9YMjm3izOpOTH+qiOclaf6S7TDsaA8kCAwEAAQ==",
+   "manifest_version": 3,
+   "mod": {
+      "flavor": {
+         "features": [  ],
+         "hash": "74be16979710d4c4e7c6647856088456",
+         "parent_hash": "d41d8cd98f00b204e9800998ecf8427e"
+      },
+      "payload": {
+         "background_music": [ {
+            "author": "Opera",
+            "id": "0",
+            "name": "Legend",
+            "tracks": [ "music/MUSIC.m4a" ]
+         } ],
+         "browser_sounds": [ {
+            "author": "Opera Software",
+            "id": "0",
+            "name": "Legend",
+            "sounds": {
+               "ARIA_COMMAND_LINE_SHOWN": [ "sounds/ARIA_OPEN.m4a" ],
+               "ARIA_SIDEBAR_PANEL_SHOWN": [ "sounds/ARIA_OPEN.m4a" ],
+               "CLICK": [ "sounds/MAIN_PAGE_CLICK_SHORT.m4a", "sounds/MAIN_PAGE_CLICK_LONG.m4a" ],
+               "SPLIT_SCREEN_CREATE": [ "sounds/SPLIT_SCREEN_OPEN.m4a" ],
+               "SPLIT_SCREEN_REMOVE": [ "sounds/SPLIT_SCREEN_CLOSE.m4a" ],
+               "TAB_CLOSE": [ "sounds/TAB_CLOSE.m4a" ],
+               "TAB_GROUP_COLLAPSE": [ "sounds/ISLAND_COLLAPSE.m4a" ],
+               "TAB_GROUP_CREATE": [ "sounds/ISLAND_FORM.m4a" ],
+               "TAB_GROUP_EXPAND": [ "sounds/ISLAND_FORM.m4a" ],
+               "TAB_INSERT": [ "sounds/TAB_OPEN.m4a" ]
+            }
+         } ],
+         "keyboard_sounds": [ {
+            "author": "Opera Software",
+            "id": "0",
+            "name": "Legend",
+            "sounds": {
+               "TYPING_BACKSPACE": [ "sounds/TYPE_BACKSPACE.m4a" ],
+               "TYPING_ENTER": [ "sounds/TYPE_ENTER.m4a" ],
+               "TYPING_LETTER": [ "sounds/TYPE_1.m4a", "sounds/TYPE_2.m4a", "sounds/TYPE_3.m4a" ],
+               "TYPING_SPACE": [ "sounds/TYPE_SPACE.m4a" ]
+            }
+         } ],
+         "theme": [ {
+            "dark": {
+               "gx_accent": {
+                  "h": 27,
+                  "l": 51,
+                  "s": 57
+               },
+               "gx_secondary_base": {
+                  "h": 27,
+                  "l": 4,
+                  "s": 58
+               }
+            },
+            "id": "vibe",
+            "light": {
+               "gx_accent": {
+                  "h": 27,
+                  "l": 51,
+                  "s": 57
+               },
+               "gx_secondary_base": {
+                  "h": 26,
+                  "l": 87,
+                  "s": 52
+               }
+            },
+            "name": "default"
+         } ],
+         "wallpaper": [ {
+            "dark": {
+               "groups": [ {
+                  "layers": [ {
+                     "resource": "wallpaper/dark.webm",
+                     "type": "video"
+                  } ]
+               } ],
+               "preview": {
+                  "270x360": "wallpaper/preview.png"
+               },
+               "text_color": "#ffffff",
+               "text_shadow": "#000000"
+            },
+            "full_browser": true,
+            "id": "default",
+            "light": {
+               "groups": [ {
+                  "layers": [ {
+                     "resource": "wallpaper/light.webm",
+                     "type": "video"
+                  } ]
+               } ],
+               "preview": {
+                  "270x360": "wallpaper/preview.png"
+               },
+               "text_color": "#000000",
+               "text_shadow": "#ffffff"
+            },
+            "name": "default",
+            "title": "Default"
+         } ]
+      },
+      "schema_version": 2,
+      "settings": [ {
+         "id": "color_picker_x_axis",
+         "label": "color-picker-x",
+         "max": 1,
+         "max_label": "__MSG_rise__",
+         "min": 0,
+         "min_label": "__MSG_set__",
+         "min_max_labels_translated": true,
+         "name": "color-picker-x-axis",
+         "step": 0.1,
+         "type": "range",
+         "value": 0.03
+      }, {
+         "id": "color_picker_y_axis",
+         "label": "color-picker-y",
+         "max": 1,
+         "max_label": "__MSG_greyscale__",
+         "min": 0,
+         "min_label": "__MSG_copper__",
+         "min_max_labels_translated": true,
+         "name": "color-picker-y-axis",
+         "step": 0.1,
+         "type": "range",
+         "value": 0.03
+      } ],
+      "vibe": {
+         "color-picker-palettes": {
+            "dark": {
+               "accent": "wallpaper/color_picker/accent_dark.png",
+               "background": "wallpaper/color_picker/background_dark.png"
+            },
+            "light": {
+               "accent": "wallpaper/color_picker/accent_light.png",
+               "background": "wallpaper/color_picker/background_light.png"
+            }
+         },
+         "preview": "wallpaper/preview.png",
+         "wallpaper": {
+            "animated": true,
+            "type": "video"
+         }
+      }
+   },
+   "name": "Opera One: Legend",
+   "update_url": "https://api.gx.me/store/mods/update",
+   "version": "1.0.0"
+}

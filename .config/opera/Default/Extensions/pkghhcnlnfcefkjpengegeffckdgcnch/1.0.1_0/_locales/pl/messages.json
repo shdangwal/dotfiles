@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Wcześnie"
+   },
+   "hidden": {
+      "message": "Ukryty"
+   },
+   "late": {
+      "message": "Późno"
+   },
+   "seen": {
+      "message": "Widoczny"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Śmiech dawno zgasł, ale światła wciąż płoną w tym animowanym ciemnym motywie."
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Đồng"
+   },
+   "greyscale": {
+      "message": "Đen trắng"
+   },
+   "rise": {
+      "message": "Bình minh"
+   },
+   "set": {
+      "message": "Hoàng hôn"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Ở đây có rồng. Khám phá một hình nền hoạt hình cổ điển với nhạc và âm thanh."
+   }
+}

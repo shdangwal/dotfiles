@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "เช้า"
+   },
+   "hidden": {
+      "message": "ซ่อน"
+   },
+   "late": {
+      "message": "สาย"
+   },
+   "seen": {
+      "message": "เห็น"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "เสียงหัวเราะได้จางหายไปนานแล้ว แต่แสงไฟยังคงส่องสว่างในธีมมืดที่มีชีวิตชีวานี้."
+   }
+}

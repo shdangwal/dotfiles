@@ -1,24 +1,17 @@
---return {
---  -- add gruvbox
---  { "catppuccin/nvim" },
---
---  -- Configure LazyVim to load gruvbox
---  {
---    "LazyVim/LazyVim",
---    opts = {
---      colorscheme = "catppuccin-macchiato",
---    },
---  },
---}
---
 return {
-  {
-    "Mofiqul/dracula.nvim",
-  },
+  -- add gruvbox
+  { "ellisonleao/gruvbox.nvim" },
+
+  -- Configure LazyVim to load gruvbox
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "dracula",
+      colorscheme = "gruvbox",
+      transparent = vim.g.transparent_enabled,
+      styles = {
+        sidebars = "transparent",
+        floats = "transparent",
+      },
     },
   },
 }

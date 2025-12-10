@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Agrs"
+   },
+   "hidden": {
+      "message": "Slēpts"
+   },
+   "late": {
+      "message": "Vēlu"
+   },
+   "seen": {
+      "message": "Redzēts"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Smešanās sen ir izzudusi, bet gaismas joprojām deg šajā animētajā tumšajā tēmā."
+   }
+}

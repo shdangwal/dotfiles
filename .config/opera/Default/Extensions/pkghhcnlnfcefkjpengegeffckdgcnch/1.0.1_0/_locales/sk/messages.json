@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Skoro"
+   },
+   "hidden": {
+      "message": "Skrytý"
+   },
+   "late": {
+      "message": "Neskoro"
+   },
+   "seen": {
+      "message": "Viditeľný"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Smiech už dávno vybledol, ale svetlá stále horia v tejto animovanej tmavej téme."
+   }
+}

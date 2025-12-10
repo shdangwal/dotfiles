@@ -1,0 +1,287 @@
+{
+   "at": {
+      "message": "Показать все вкладки"
+   },
+   "button_bookmarks": {
+      "message": "Закладки"
+   },
+   "button_downloads": {
+      "message": "Загрузки"
+   },
+   "button_filter_type": {
+      "message": "Поиск заголовка или URL-адреса"
+   },
+   "button_group_bar": {
+      "message": "Показать / Скрыть  группы"
+   },
+   "button_history": {
+      "message": "История"
+   },
+   "button_move": {
+      "message": "Отсоединить вкладку"
+   },
+   "button_new": {
+      "message": "ЛКМ -  открыть новую вкладку. \nСКМ -  дублировать активную вкладку. \nПКМ - прокрутка списка к активной вкладке."
+   },
+   "button_options": {
+      "message": "Настройки Vertical Tabs"
+   },
+   "button_pin": {
+      "message": "Закрепить / Открепить текущую вкладку"
+   },
+   "button_search": {
+      "message": "Поиск вкладок"
+   },
+   "button_settings": {
+      "message": "Настройки браузера"
+   },
+   "button_sort": {
+      "message": "Сортировка вкладок"
+   },
+   "button_tools": {
+      "message": "Дополнительные инструменты"
+   },
+   "button_undo": {
+      "message": "Открыть последнюю закрытую вкладку"
+   },
+   "caption_clear_filter": {
+      "message": "Очистить результаты поиска"
+   },
+   "caption_group": {
+      "message": "Группа"
+   },
+   "caption_loading": {
+      "message": "Загрузка..."
+   },
+   "caption_searchbox": {
+      "message": "Поиск вкладок..."
+   },
+   "close_group": {
+      "message": "Удалить текущую группу"
+   },
+   "donate_no_thanks_button": {
+      "message": "Спасибо, не надо…"
+   },
+   "donate_text_change_mind": {
+      "message": "\u003Cbr>Если вы передумаете, то всегда можете пожертвовать со страницы настроек.\u003Cbr>Пользуйтесь Vertical Tabs :)"
+   },
+   "donate_text_pledge": {
+      "message": "Я потерял счёт времени, работая над этим расширением. \u003Cbr>Хотя Vertical Tabs и продолжает развиваться, моё время не безгранично. \u003Cbr>Пожалуйста, рассмотрите возможность пожертвования для дальнейшего развития проекта. Большое спасибо."
+   },
+   "extensionDescription": {
+      "message": "Управляйте вкладками с боковой панели!"
+   },
+   "extensionName": {
+      "message": "Vertical Tabs"
+   },
+   "group_edit_background": {
+      "message": "Цвет фона"
+   },
+   "group_edit_button_cancel": {
+      "message": "Отмена"
+   },
+   "group_edit_button_confirm": {
+      "message": "OK"
+   },
+   "group_edit_font": {
+      "message": "Цвет заголовка"
+   },
+   "groups_menu_bookmark": {
+      "message": "Закладка"
+   },
+   "groups_menu_close": {
+      "message": "Удалить группу"
+   },
+   "groups_menu_close_with_tabs": {
+      "message": "Закрыть и удалить вкладки"
+   },
+   "groups_menu_edit": {
+      "message": "Редактировать группу"
+   },
+   "groups_menu_mute": {
+      "message": "Выкл. звук в группе"
+   },
+   "groups_menu_mute_other": {
+      "message": "Выкл. звук (в других)"
+   },
+   "groups_menu_new": {
+      "message": "Новая группа"
+   },
+   "groups_menu_suspend": {
+      "message": "Приостановить активность"
+   },
+   "groups_menu_unmute": {
+      "message": "Вкл. звук в группе"
+   },
+   "groups_menu_unmute_other": {
+      "message": "Вкл. звук (в других) "
+   },
+   "new_group": {
+      "message": "Новая группа"
+   },
+   "option_allow_pin_close": {
+      "message": "- закрывать закреплённые вкладки из контекстного меню"
+   },
+   "options_activate_last_after_close": {
+      "message": "Если активная вкладка была закрыта, "
+   },
+   "options_always_show_close": {
+      "message": "- показать кнопку закрытия на всех вкладках"
+   },
+   "options_apply_all_settings": {
+      "message": "Применить"
+   },
+   "options_auto_switch_to_group": {
+      "message": "- после перемещения вкладок в другую группу, переключаться на эту группу"
+   },
+   "options_available_buttons": {
+      "message": "Настраивайте панель управления перетаскиванием элементов:"
+   },
+   "options_close_with_MMB": {
+      "message": "- закрыть вкладки с помощью СКМ"
+   },
+   "options_drop_down_menu_after_close_action_last": {
+      "message": "вернуться к предыдущей активной вкладке"
+   },
+   "options_drop_down_menu_after_close_action_next": {
+      "message": "активировать вкладку ниже"
+   },
+   "options_drop_down_menu_after_close_action_opera": {
+      "message": "на усмотрение браузера Opera"
+   },
+   "options_drop_down_menu_after_close_action_prev": {
+      "message": "активировать вкладку выше"
+   },
+   "options_grayscale_groups": {
+      "message": "- чёрно-белые значки групп"
+   },
+   "options_load_backup": {
+      "message": "Загрузка последней автоматически сохранённой резервной копии"
+   },
+   "options_new_open_below": {
+      "message": "- открывать новые вкладки ниже активной"
+   },
+   "options_openclose_animation": {
+      "message": "- анимация открытия и закрытия вкладок"
+   },
+   "options_pin_list_multi_row": {
+      "message": "- список в несколько строк"
+   },
+   "options_pin_list_on_top": {
+      "message": "- показывать панель закреплённых вкладок сверху"
+   },
+   "options_pinned": {
+      "message": "Панель закреплённых вкладок"
+   },
+   "options_reset_all_settings": {
+      "message": "Сброс"
+   },
+   "options_scroll_to_active": {
+      "message": "- автопрокрутка к активной вкладке"
+   },
+   "options_scroll_to_moved": {
+      "message": "- прокрутка списка вкладок при перемещении вкладки в панели Opera"
+   },
+   "options_scroll_to_new": {
+      "message": "- прокрутка к новой вкладке"
+   },
+   "options_scrollbar_pin_list": {
+      "message": "- высота полосы прокрутки панели закреплённых вкладок"
+   },
+   "options_scrollbar_tab_list": {
+      "message": "- ширина полосы прокрутки списка вкладок"
+   },
+   "options_scrollbars": {
+      "message": "Полосы прокрутки"
+   },
+   "options_scrolling": {
+      "message": "Прокрутка"
+   },
+   "options_tabs": {
+      "message": "Вкладки"
+   },
+   "options_theme": {
+      "message": "Тема"
+   },
+   "options_toolbar": {
+      "message": "Панель инструментов"
+   },
+   "options_toolbar_main_buttons": {
+      "message": "Главная панель инструментов"
+   },
+   "options_toolbar_on_top": {
+      "message": "- панель инструментов сверху"
+   },
+   "options_toolbar_reset": {
+      "message": "Сброс"
+   },
+   "options_toolbar_tools_buttons": {
+      "message": "Дополнительные инструменты"
+   },
+   "options_update_favicon_hover": {
+      "message": "- обновление значков и заголовков при наведении курсора на вкладки"
+   },
+   "remove_tabs_from_group": {
+      "message": "Удалить вкладки из группы"
+   },
+   "repeat_search": {
+      "message": "Повторить поиск"
+   },
+   "tabs_menu_bookmark": {
+      "message": "Закладка"
+   },
+   "tabs_menu_clone": {
+      "message": "Дублировать вкладку"
+   },
+   "tabs_menu_close": {
+      "message": "Закрыть вкладку"
+   },
+   "tabs_menu_close_above": {
+      "message": "Закрыть вкладки выше"
+   },
+   "tabs_menu_close_below": {
+      "message": "Закрыть вкладки ниже"
+   },
+   "tabs_menu_close_other": {
+      "message": "Закрыть другие вкладки"
+   },
+   "tabs_menu_move": {
+      "message": "Отсоединить вкладку"
+   },
+   "tabs_menu_move_to_group": {
+      "message": "Переместить в группу"
+   },
+   "tabs_menu_mute": {
+      "message": "Выкл. / Вкл. звук"
+   },
+   "tabs_menu_mute_other": {
+      "message": "Выкл.звук (на других)"
+   },
+   "tabs_menu_new": {
+      "message": "Новая вкладка"
+   },
+   "tabs_menu_pin": {
+      "message": "Закрепить вкладку"
+   },
+   "tabs_menu_reload": {
+      "message": "Обновить вкладку"
+   },
+   "tabs_menu_settings": {
+      "message": "Настройки Vertical Tabs"
+   },
+   "tabs_menu_undo": {
+      "message": "Отменить закрытие"
+   },
+   "tabs_menu_ungroup": {
+      "message": "Разгруппировать"
+   },
+   "tabs_menu_unmute_other": {
+      "message": "Вкл. звук (на других)"
+   },
+   "tabs_menu_unpin": {
+      "message": "Открепить вкладку"
+   },
+   "ut": {
+      "message": "Показывать вкладки, не принадлежащие к какой-либо группе"
+   }
+}

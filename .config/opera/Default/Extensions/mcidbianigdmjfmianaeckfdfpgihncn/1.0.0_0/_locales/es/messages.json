@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Cobre"
+   },
+   "greyscale": {
+      "message": "Escala de grises"
+   },
+   "rise": {
+      "message": "Salida"
+   },
+   "set": {
+      "message": "Puesta"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Aquí hay dragones. Explora un fondo de pantalla animado de viejo mundo con música y sonido."
+   }
+}

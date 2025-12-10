@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Kupari"
+   },
+   "greyscale": {
+      "message": "Harmaasävy"
+   },
+   "rise": {
+      "message": "Nousu"
+   },
+   "set": {
+      "message": "Lasku"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Täällä on lohikäärmeitä. Tutki vanhan maailman animoitua taustakuvaa musiikin ja äänen kanssa."
+   }
+}

@@ -1,0 +1,6 @@
+2025/08/18-19:03:04.171 ba6 Creating DB /home/shdangwal/.config/microsoft-edge/Default/WebStorage/206/IndexedDB/indexeddb.leveldb since it was missing.
+2025/08/18-19:03:04.174 ba6 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/WebStorage/206/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/08/18-19:03:46.984 ba6 Level-0 table #5: started
+2025/08/18-19:03:46.986 ba6 Level-0 table #5: 22602 bytes OK
+2025/08/18-19:03:46.988 ba6 Delete type=0 #3
+2025/08/18-19:03:46.989 ba6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

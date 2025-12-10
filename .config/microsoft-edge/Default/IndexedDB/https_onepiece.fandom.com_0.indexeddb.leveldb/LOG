@@ -1,0 +1,18 @@
+2025/10/13-00:48:47.890 b9c Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_onepiece.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/13-00:48:47.891 b9c Recovering log #3
+2025/10/13-00:48:47.925 b9c Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_onepiece.fandom.com_0.indexeddb.leveldb/000003.log 
+2025/10/13-00:49:48.876 b9c Level-0 table #5: started
+2025/10/13-00:49:48.910 b9c Level-0 table #5: 1202071 bytes OK
+2025/10/13-00:49:48.912 b9c Delete type=0 #3
+2025/10/13-09:04:20.250 b9f Level-0 table #7: started
+2025/10/13-09:04:20.270 b9f Level-0 table #7: 759690 bytes OK
+2025/10/13-09:04:20.274 b9f Delete type=0 #4
+2025/10/13-09:04:20.275 b9f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/10/13-09:04:20.276 b9f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x04\x02\x01\x07\x00c\x00u\x00r\x00r\x00e\x00n\x00t' @ 21045 : 1
+2025/10/13-09:04:20.276 b9f Compacting 1@1 + 1@2 files
+2025/10/13-09:04:20.285 b9f Generated table #8@1: 151 keys, 26508 bytes
+2025/10/13-09:04:20.285 b9f Compacted 1@1 + 1@2 files => 26508 bytes
+2025/10/13-09:04:20.286 b9f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/13-09:04:20.286 b9f Delete type=2 #7
+2025/10/13-09:04:20.287 b9f Delete type=2 #5
+2025/10/13-09:04:20.287 b9f Manual compaction at level-1 from '\x00\x01\x04\x02\x01\x07\x00c\x00u\x00r\x00r\x00e\x00n\x00t' @ 21045 : 1 .. (end); will stop at (end)

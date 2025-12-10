@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Tôt"
+   },
+   "hidden": {
+      "message": "Caché"
+   },
+   "late": {
+      "message": "Tard"
+   },
+   "seen": {
+      "message": "Vu"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Le rire s'est depuis longtemps estompé, mais les lumières brillent encore dans ce thème sombre animé."
+   }
+}

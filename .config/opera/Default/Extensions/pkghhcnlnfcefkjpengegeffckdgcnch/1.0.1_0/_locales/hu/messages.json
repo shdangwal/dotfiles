@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Korai"
+   },
+   "hidden": {
+      "message": "Rejtett"
+   },
+   "late": {
+      "message": "Késő"
+   },
+   "seen": {
+      "message": "Látható"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "A nevetés rég elhalványult, de a fények még mindig égnek ebben az animált sötét témában."
+   }
+}

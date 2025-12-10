@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Meď"
+   },
+   "greyscale": {
+      "message": "Šedá škála"
+   },
+   "rise": {
+      "message": "Východ"
+   },
+   "set": {
+      "message": "Západ"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Tu sú draci. Preskúmajte animovanú tapetu zo starého sveta s hudbou a zvukom."
+   }
+}

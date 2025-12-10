@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "প্রথম"
+   },
+   "hidden": {
+      "message": "গোপন"
+   },
+   "late": {
+      "message": "দেরি"
+   },
+   "seen": {
+      "message": "দেখা"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "হাসি অনেক দিন ধরে মুছে গেছে, কিন্তু এই অ্যানিমেটেড ডার্ক থিমে এখনও আলো জ্বলছে।"
+   }
+}

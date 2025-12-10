@@ -1,0 +1,41 @@
+{
+   "action": {
+   },
+   "background": {
+      "service_worker": "worker.js"
+   },
+   "commands": {
+      "_execute_action": {
+      },
+      "next-track": {
+         "description": "Next Track"
+      },
+      "previous-track": {
+         "description": "Previous Track"
+      },
+      "toggle-play": {
+         "description": "Toggle Play/Pause"
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "homepage_url": "https://webextension.org/listing/the-media-player.html",
+   "icons": {
+      "128": "/data/icons/128.png",
+      "16": "/data/icons/16.png",
+      "256": "/data/icons/256.png",
+      "32": "/data/icons/32.png",
+      "48": "/data/icons/48.png",
+      "512": "/data/icons/512.png",
+      "64": "/data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzepdefRpYgzhtgxa/sRRZKpZdptAYaU3vFEfHtjEt0+l7S9G0M6hI/zLfkCL8bULDMi7kEA/iDILe9Y4+Q3frC4JiR2lYaNfv1hr3khWfO3BNXN1gh7jqnNkn7vJZPuHoC+mj8jJCsQ98logkzXmYC+EAdMGMrCCiGuB/RrjqLwYTS7WtjMiNXmRA7pjKuPVaUfJrFId6IJTTRa0YnWRtaTHmV2QRzCjcF+LUDAODT/lhyti0H742p2xNofsBNgjFiDEmtPmlKLC3Ur88s5kLuxDaUXIjI4DpxupfEPV/l9zZahYLVa6hP3kowSKv46oKWQ4+fQ+XZrOsQFf5rUCfQIDAQAB",
+   "manifest_version": 3,
+   "name": "MediaPlayer - Video and Audio Player",
+   "offline_enabled": true,
+   "optional_host_permissions": [ "*://*/*" ],
+   "optional_permissions": [ "activeTab", "scripting" ],
+   "permissions": [ "storage", "contextMenus", "notifications", "declarativeNetRequestWithHostAccess" ],
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "0.4.8"
+}

@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Рано"
+   },
+   "hidden": {
+      "message": "Сховано"
+   },
+   "late": {
+      "message": "Пізно"
+   },
+   "seen": {
+      "message": "Бачено"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Сміх давно зник, але вогні все ще горять у цій анімованій темній темі."
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Бакар"
+   },
+   "greyscale": {
+      "message": "Сивосцена"
+   },
+   "rise": {
+      "message": "Излаз"
+   },
+   "set": {
+      "message": "Залаз"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Овде су змајеви. Истражите анимирану позадину старог света уз музику и звук."
+   }
+}

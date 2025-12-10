@@ -1,0 +1,6 @@
+2025/08/20-13:53:49.700 b8c Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb since it was missing.
+2025/08/20-13:53:49.704 b8c Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_open.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/20-13:53:52.453 b8d Level-0 table #5: started
+2025/08/20-13:53:52.454 b8d Level-0 table #5: 842 bytes OK
+2025/08/20-13:53:52.456 b8d Delete type=0 #3
+2025/08/20-13:53:52.456 b8d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

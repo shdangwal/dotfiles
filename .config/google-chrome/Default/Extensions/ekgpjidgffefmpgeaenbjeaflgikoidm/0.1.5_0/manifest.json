@@ -1,0 +1,35 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "data/icons/16.png",
+         "32": "data/icons/32.png",
+         "48": "data/icons/48.png",
+         "64": "data/icons/64.png"
+      },
+      "default_popup": "data/popup/popup.html",
+      "default_title": "Free VPN Proxy"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "_execute_action": {
+      }
+   },
+   "description": "Easily find and set free VPN proxies and, browse fast and secure!",
+   "homepage_url": "https://mybrowseraddon.com/private-network.html",
+   "host_permissions": [ "*://pubproxy.com/api/*", "*://gimmeproxy.com/api/*", "*://api.getproxylist.com/*", "*://checkip.amazonaws.com/*" ],
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvgH3ka//r5osD0BMLTHSDFFHpw5PesHPdeyVF7xpo1p4wCB6WHlq1KTmDdZC8Vawh5xQLkitjVkRR4BS7Dyj1meqyioSyHNI7k/Iw50G2KhJEaMFkzDRET1c7c/k4mfQNzYpZa9dNL9mHAy6bAa67YK01BlelZcoYUhYgdl40UcIqwNVZdTN2LO9jVZNQRJ03tpVymc60DCx0eSGEwsL8dIik6tQqEyPOiiS7mJsMcNXy1/3zV9jAj4TtckctkSk1tlTUQDK7AxKZYlw9VBD2D8eZsRw/N46LJ72wOug8gieBHp7DJScwtY7NOckRBi6OF5xd6uIu31UpIKZILnnewIDAQAB",
+   "manifest_version": 3,
+   "name": "Free VPN Proxy",
+   "permissions": [ "proxy", "storage", "notifications" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.5"
+}

@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "कस्टम टैबसमूह शीर्षक"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "नियम जोड़ें"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "समूह में टैब जोड़ें"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "समूह में टैब जोड़ें"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "सभी अनग्रुप टैब को स्वतः समूहित करें"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "ऑटो समूह नियम"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "पृष्ठभूमि विषय"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "रद्द करना"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "फ़ॉन्ट परिवार बदलें"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "फॉण्ट आकार बदलें"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "उपरोक्त टैब बंद करें"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "नीचे दिए गए टैब बंद करें"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "अन्य टैब बंद करें"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "चयनित टैब बंद करें"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "टैब बंद करें"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "पतन/अनसंक्षिप्त समूह"
+   },
+   "color": {
+      "description": "Color",
+      "message": "रंग"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "कॉम्पैक्ट मोड"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️विन्यास"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "की नकल की"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "यूआरएल कॉपी करें"
+   },
+   "create": {
+      "description": "Create",
+      "message": "बनाएं"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "सबसे पहले ऑटोग्रुप नियम बनाएं"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "समूह बनाना"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "नियम बनाएं"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "टैब बनाएं"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "कार्यक्षेत्र बनाएं"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "कस्टम यूआरएल"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "समूह हटाएँ"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "नियम हटाएँ"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "कार्यक्षेत्र"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "डुप्लिकेट टैब"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "समूह संपादित करें"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "नियम संपादित करें"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 ऑटो टैब ग्रुपिंग सक्षम करें"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 ऑटो टैब सस्पेंशन सक्षम करें"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰कार्यस्थान सक्षम करें"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(वैकल्पिक) चयनित डोमेन दर्ज करें। बहु के लिए अल्पविराम"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(वैकल्पिक) चयनित शीर्ष डोमेन दर्ज करें। बहु के लिए अल्पविराम"
+   },
+   "export": {
+      "description": "Export",
+      "message": "निर्यात"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "साइड पैनल में टैब और टैब समूह को लंबवत रूप से प्रबंधित करें। उन्नत ऑटो टैब ग्रुपिंग. कार्यस्थान बदलें. ऑटो निलंबित टैब"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "टैबवर्टिकल - लंबवत टैब"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "फ़िल्टर"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "पहला पथ खंड"
+   },
+   "format": {
+      "description": "Format",
+      "message": "प्रारूप"
+   },
+   "group": {
+      "description": "Group",
+      "message": "समूह"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "समान डोमेन टैब समूहित करें"
+   },
+   "import": {
+      "description": "Import",
+      "message": "आयात"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "आयात/निर्यात टैब"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "बस एक क्लिक"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "कुंजीपटल अल्प मार्ग"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "मिलान पैटर्न"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "माचिस"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "समूह को विंडो पर ले जाएँ"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "टैब को विंडो पर ले जाएँ"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "टैब को विंडो पर ले जाएं"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "टैब म्यूट करें"
+   },
+   "name": {
+      "description": "Name",
+      "message": "नाम"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "ऊपर नया टैब"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "नीचे नया टैब"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "नई विंडो"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "पैनल की स्थिति"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "टैब पिन करें"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "प्राथमिकता"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "हाल ही में उपयोग किया गया"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "टैब पुनः लोड करें"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "डुप्लिकेट टैब हटाएँ"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "रिपोर्ट बग"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "रिवर्स"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "नियम का नाम"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "टैब खोजें"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "टैब चुनें"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "चयनित"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(वैकल्पिक) चयनित पहला पथ दर्ज करें। बहु के लिए अल्पविराम"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(वैकल्पिक) चयनित पहले दो पथ दर्ज करें। बहु के लिए अल्पविराम"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "समायोजन"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "क्षमा करें, कुछ गलत हो गया"
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "क्रम से लगाना"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "प्रबंधक को निलंबित करें"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "अन्य टैब निलंबित करें"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "चयनित टैब निलंबित करें"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "टैब निलंबित करें"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "टैबग्रुप निलंबित करें"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "टैब शीर्षक शामिल है"
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "टैबग्रुप नियम"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "यह खिड़की"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "शीर्ष डोमेन"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "दो पथ खंड"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "अनग्रुप_ऑल_टैब्स"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "टैब को अनग्रुप करें"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "सभी को अचयनित करें"
+   },
+   "update": {
+      "description": "Update",
+      "message": "अद्यतन"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "टैबग्रुप शीर्षक अपडेट करें"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "विंडो का नाम अपडेट करें"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "यूआरएल मिलान"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "कार्यस्थान"
+   }
+}

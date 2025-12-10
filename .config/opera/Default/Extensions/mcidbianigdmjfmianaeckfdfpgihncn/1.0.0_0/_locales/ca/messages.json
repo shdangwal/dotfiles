@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Cobre"
+   },
+   "greyscale": {
+      "message": "Escala de grisos"
+   },
+   "rise": {
+      "message": "Sortida"
+   },
+   "set": {
+      "message": "Posta"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Aquí hi ha dracs. Explora un fons de pantalla animat d'un món antic amb música i so."
+   }
+}

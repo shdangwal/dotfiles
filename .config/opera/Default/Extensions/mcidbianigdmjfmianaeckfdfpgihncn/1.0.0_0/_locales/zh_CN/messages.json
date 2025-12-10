@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "铜"
+   },
+   "greyscale": {
+      "message": "灰度"
+   },
+   "rise": {
+      "message": "升起"
+   },
+   "set": {
+      "message": "落下"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "这里有龙。探索一个带音乐和声音的旧世界动画壁纸。"
+   }
+}

@@ -1,0 +1,5 @@
+2025/05/17-06:01:15.648 b4d Creating DB /home/shdangwal/.config/microsoft-edge/Default/WebStorage/31/IndexedDB/indexeddb.leveldb since it was missing.
+2025/05/17-06:01:15.651 b4d Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/WebStorage/31/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/05/17-06:49:51.756 b4d Level-0 table #5: started
+2025/05/17-06:49:51.783 b4d Level-0 table #5: 1653056 bytes OK
+2025/05/17-06:49:51.785 b4d Delete type=0 #3

@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Bakır"
+   },
+   "greyscale": {
+      "message": "Gri tonlama"
+   },
+   "rise": {
+      "message": "Doğuş"
+   },
+   "set": {
+      "message": "Batış"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Burada ejderhalar var. Müzik ve ses ile eski dünya animasyonlu duvar kağıdını keşfedin."
+   }
+}

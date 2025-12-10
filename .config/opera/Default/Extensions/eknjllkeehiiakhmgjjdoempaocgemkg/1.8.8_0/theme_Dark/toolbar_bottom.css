@@ -1,0 +1,31 @@
+#toolbar, #toolbar_main  {
+	height: 26px;
+	bottom: 0px;
+}
+
+#toolbar_search, #toolbar_tools {
+	height: 27px;
+	bottom: 26px;
+	border-top: 1px solid #656565;
+}
+
+#toolbar_main {
+	border-top: 1px solid #656565;
+}
+
+#content_container {
+	top: 0px;
+}
+
+#toolbar_main #button_tools.on, #toolbar_main #button_tools.on:hover, 
+#toolbar_main #button_search.on, #toolbar_main #button_search.on:hover {
+	background-color: #444444;
+	height: 24px;
+	border-top: 1px solid transparent;
+	border-bottom: 1px solid #656565;
+	border-left: 1px solid #656565;
+	border-right: 1px solid #656565;
+	top: -1px;
+	background-position: 0px 2px;
+}
+

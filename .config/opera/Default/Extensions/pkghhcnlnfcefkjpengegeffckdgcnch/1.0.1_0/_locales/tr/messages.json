@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Erken"
+   },
+   "hidden": {
+      "message": "Gizli"
+   },
+   "late": {
+      "message": "Geç"
+   },
+   "seen": {
+      "message": "Görüldü"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Gülüşler uzun zamandır soldu, ama bu animasyonlu karanlık temada ışıklar hala yanıyor."
+   }
+}

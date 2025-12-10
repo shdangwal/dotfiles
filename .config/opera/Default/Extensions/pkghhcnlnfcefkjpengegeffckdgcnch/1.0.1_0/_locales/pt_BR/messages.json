@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Cedo"
+   },
+   "hidden": {
+      "message": "Oculto"
+   },
+   "late": {
+      "message": "Tarde"
+   },
+   "seen": {
+      "message": "Visto"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "O riso há muito se apagou, mas as luzes ainda queimam neste tema escuro animado."
+   }
+}

@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "जल्दी"
+   },
+   "hidden": {
+      "message": "छिपा हुआ"
+   },
+   "late": {
+      "message": "देरी"
+   },
+   "seen": {
+      "message": "देखा गया"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "हंसी लंबे समय से गायब हो गई है, लेकिन इस एनिमेटेड डार्क थीम में रोशनी अभी भी जलती है।"
+   }
+}

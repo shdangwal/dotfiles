@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title data-i18n="v9_user_message_privacy_policy_title"></title>
+
+    <link rel="stylesheet" href="xul.css"/>
+    <link rel="stylesheet" href="base.css"/>
+    <link rel="stylesheet" href="panel.css"/>
+    <link rel="shortcut icon" href="/content2/icons/stable-color.png"/>
+
+    <style>
+
+      :root {
+        background-color: var(--sl-color-neutral-100);
+      }
+
+      body {
+        margin: var(--sl-spacing-medium) auto;
+        max-width: 600px;
+        min-height: unset;
+      }
+
+    </style>
+
+  </head>
+  <body>
+
+    <vbox align="center">
+      <img width="64" src="/content2/icons/stable-color.png">
+      <h1>Video DownloadHelper</h1>
+    </vbox>
+
+    <h1 data-i18n="v9_user_message_privacy_policy_title"></h1>
+    <vbox class="user-message-actions" style="color: var(--sl-color-neutral-900)">
+      <vbox style="gap: 0.5rem">
+        <p data-i18n="v9_user_message_privacy_policy_text_1" style="font-size: 0.9rem"></p>
+        <p data-i18n="v9_user_message_privacy_policy_text_2" style="font-size: 0.9rem; font-weight: bold"></p>
+      </vbox>
+      <vbox align="end" style="gap: 1em">
+        <sl-button id="button-accept-privacy" size="small" variant="success">
+          <sl-icon name="shield-shaded"></sl-icon>
+          <span data-i18n="v9_user_message_privacy_policy_accept_long"></span>
+        </sl-button>
+        <sl-button id="button-decline-privacy" size="small" data-i18n="v9_user_message_privacy_policy_decline_long"></sl-button>
+        <sl-button id="button-open-privacy" size="small" data-i18n="v9_user_message_privacy_policy_details_long"></sl-button>
+      </vbox>
+    </vbox>
+
+    <script type="module" src="shoelace.js"></script>
+    <script type="module" src="privacy.js"></script>
+  </body>
+</html>

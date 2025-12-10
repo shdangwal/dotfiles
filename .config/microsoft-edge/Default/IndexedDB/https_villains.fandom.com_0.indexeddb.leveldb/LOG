@@ -1,0 +1,7 @@
+2025/10/26-22:42:10.138 bb0 Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_villains.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/26-22:42:10.138 bb0 Recovering log #3
+2025/10/26-22:42:10.140 bb0 Reusing old log /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_villains.fandom.com_0.indexeddb.leveldb/000003.log 
+2025/10/26-22:42:12.337 bb1 Level-0 table #5: started
+2025/10/26-22:42:12.340 bb1 Level-0 table #5: 53272 bytes OK
+2025/10/26-22:42:12.341 bb1 Delete type=0 #3
+2025/10/26-22:42:12.342 bb1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

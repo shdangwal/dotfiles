@@ -1,0 +1,386 @@
+{
+   "Custom_tabGroup_title": {
+      "description": "Custom tabGroup title",
+      "message": "사용자 정의 탭그룹 제목"
+   },
+   "add_rule": {
+      "description": "Add Rule",
+      "message": "규칙 추가"
+   },
+   "add_tab_to_group": {
+      "description": "Add tab to group",
+      "message": "그룹에 탭 추가"
+   },
+   "add_tabs_to_group": {
+      "description": "Add tabs to group",
+      "message": "그룹에 탭 추가"
+   },
+   "auto_group_all_ungroup_tabs": {
+      "description": "Auto group all ungroup tabs",
+      "message": "모든 그룹 해제 탭을 자동 그룹화"
+   },
+   "auto_group_rules": {
+      "description": "Auto Group rules",
+      "message": "자동 그룹 규칙"
+   },
+   "background_themes": {
+      "description": "Background themes",
+      "message": "배경 테마"
+   },
+   "cancel": {
+      "description": "Cancel",
+      "message": "취소"
+   },
+   "change_font_family": {
+      "description": "Change font family",
+      "message": "글꼴 모음 변경"
+   },
+   "change_font_size": {
+      "description": "Change font size",
+      "message": "글꼴 크기 변경"
+   },
+   "close_above_tabs": {
+      "description": "Close above tabs",
+      "message": "위 탭 닫기"
+   },
+   "close_below_tabs": {
+      "description": "Close below tabs",
+      "message": "아래 탭 닫기"
+   },
+   "close_other_tabs": {
+      "description": "Close other tabs",
+      "message": "다른 탭 닫기"
+   },
+   "close_selected_tabs": {
+      "description": "Close selected tabs",
+      "message": "선택한 탭 닫기"
+   },
+   "close_tab": {
+      "description": "Close tab",
+      "message": "탭 닫기"
+   },
+   "collapse_uncollapse_group": {
+      "description": "collapse/uncollapse group",
+      "message": "그룹 축소/축소 해제"
+   },
+   "color": {
+      "description": "Color",
+      "message": "색상"
+   },
+   "compact_mode": {
+      "description": "Compact mode",
+      "message": "컴팩트 모드"
+   },
+   "configuration": {
+      "description": "Configuration",
+      "message": "🛠️ 구성"
+   },
+   "copied": {
+      "description": "copied",
+      "message": "복사됨"
+   },
+   "copy_url": {
+      "description": "Copy URL",
+      "message": "URL 복사"
+   },
+   "create": {
+      "description": "Create",
+      "message": "만들다"
+   },
+   "create_autogroup_rule_first": {
+      "description": "Create autogroup rule first",
+      "message": "먼저 자동 그룹 규칙 만들기"
+   },
+   "create_group": {
+      "description": "Create group",
+      "message": "그룹 만들기"
+   },
+   "create_rule": {
+      "description": " Create Rule",
+      "message": "규칙 생성"
+   },
+   "create_tab": {
+      "description": "Create Tab",
+      "message": "탭 만들기"
+   },
+   "create_workspace": {
+      "description": " Create workspace",
+      "message": "작업공간 만들기"
+   },
+   "custom_url": {
+      "description": "Custom url",
+      "message": "사용자 정의 URL"
+   },
+   "delete_group": {
+      "description": "Delete group",
+      "message": "그룹 삭제"
+   },
+   "delete_rule": {
+      "description": "Delete rule",
+      "message": "규칙 삭제"
+   },
+   "domain": {
+      "description": "Domain",
+      "message": "도메인"
+   },
+   "duplicate_tab": {
+      "description": "Duplicate tab",
+      "message": "탭 복제"
+   },
+   "edit_group": {
+      "description": "Edit group",
+      "message": "그룹 수정"
+   },
+   "edit_rule": {
+      "description": "Edit rule",
+      "message": "규칙 수정"
+   },
+   "enable_auto_grouping": {
+      "description": "Enable Workspace",
+      "message": "🗂 자동 탭 그룹화 활성화"
+   },
+   "enable_auto_suspension": {
+      "description": "Enable Auto tab suspension",
+      "message": "🌜💤 자동 탭 정지 활성화"
+   },
+   "enable_workspace": {
+      "description": "Enable Workspace",
+      "message": "🧰 작업 공간 활성화"
+   },
+   "enter_selected_domains": {
+      "description": "(optional) enter selected domains. comma for multi",
+      "message": "(선택사항) 선택한 도메인을 입력하세요. 다중을 위한 쉼표"
+   },
+   "enter_selected_top_domains": {
+      "description": "(optional) enter selected top domains. comma for multi",
+      "message": "(선택사항) 선택한 상위 도메인을 입력하세요. 다중을 위한 쉼표"
+   },
+   "export": {
+      "description": "Export",
+      "message": "내보내다"
+   },
+   "extDescription": {
+      "description": "Extension description",
+      "message": "측면 패널에서 탭 및 탭 그룹을 수직으로 관리합니다. 고급 자동 탭 그룹화. 작업 공간을 전환하세요. 자동 일시 중단 탭"
+   },
+   "extName": {
+      "description": "Extension name",
+      "message": "tabVertikal - 수직 탭"
+   },
+   "filter": {
+      "description": "Filter",
+      "message": "필터"
+   },
+   "first_path_segment": {
+      "description": "First Path segment",
+      "message": "첫 번째 경로 세그먼트"
+   },
+   "format": {
+      "description": "Format",
+      "message": "체재"
+   },
+   "group": {
+      "description": "Group",
+      "message": "그룹"
+   },
+   "group_same_domain_tab": {
+      "description": "Group same domain tabs",
+      "message": "동일한 도메인 탭을 그룹화"
+   },
+   "import": {
+      "description": "Import",
+      "message": "수입"
+   },
+   "import_export_tab": {
+      "description": "Import/export tab",
+      "message": "가져오기/내보내기 탭"
+   },
+   "just_one_click": {
+      "description": "Just one click",
+      "message": "단 한 번의 클릭으로"
+   },
+   "keyboard_shortcuts": {
+      "description": "Keyboard shortcuts",
+      "message": "키보드 단축키"
+   },
+   "match_patterns": {
+      "description": "match patterns",
+      "message": "일치 패턴"
+   },
+   "matches": {
+      "description": "Matches",
+      "message": "성냥"
+   },
+   "move_group_to_window": {
+      "description": "Move group to window",
+      "message": "그룹을 창으로 이동"
+   },
+   "move_tab_to_window": {
+      "description": "Move tab to window",
+      "message": "탭을 창으로 이동"
+   },
+   "move_tabs_to_window": {
+      "description": "Move tabs to window",
+      "message": "탭을 창으로 이동"
+   },
+   "mute_tab": {
+      "description": "Mute tab",
+      "message": "음소거 탭"
+   },
+   "name": {
+      "description": "Name",
+      "message": "이름"
+   },
+   "new_tab_above": {
+      "description": "New tab above",
+      "message": "위의 새 탭"
+   },
+   "new_tab_below": {
+      "description": "New tab below",
+      "message": "아래 새 탭"
+   },
+   "new_window": {
+      "description": "New window",
+      "message": "새창"
+   },
+   "panel_position": {
+      "description": "Panel position",
+      "message": "패널 위치"
+   },
+   "pin_tab": {
+      "description": "Pin tab",
+      "message": "핀 탭"
+   },
+   "priority": {
+      "description": "Priority",
+      "message": "우선 사항"
+   },
+   "recent_used": {
+      "description": "Recent used",
+      "message": "최근 사용됨"
+   },
+   "reload_tab": {
+      "description": "Reload tab",
+      "message": "탭 새로고침"
+   },
+   "remove_duplicate_tabs": {
+      "description": "Remove duplicate tabs",
+      "message": "중복 탭 ​​제거"
+   },
+   "report_bug": {
+      "description": "Report Bug",
+      "message": "버그를 제보하기"
+   },
+   "reverse": {
+      "description": "Reverse",
+      "message": "뒤집다"
+   },
+   "rule_name": {
+      "description": "Rule name",
+      "message": "규칙 이름"
+   },
+   "search_tabs": {
+      "description": "Search tabs",
+      "message": "검색 탭"
+   },
+   "select_tab": {
+      "description": "Select tab",
+      "message": "탭 선택"
+   },
+   "selected": {
+      "description": "selected",
+      "message": "선택된"
+   },
+   "selected_first_path": {
+      "description": "(optional) enter selected first path. comma for multi",
+      "message": "(선택 사항) 선택한 첫 번째 경로를 입력합니다. 다중을 위한 쉼표"
+   },
+   "selected_first_two_path": {
+      "description": "(optional) enter selected first two path. comma for multi",
+      "message": "(선택 사항) 선택한 처음 두 경로를 입력합니다. 다중을 위한 쉼표"
+   },
+   "settings": {
+      "description": "Settings",
+      "message": "설정"
+   },
+   "sorry_something_went_wrong": {
+      "description": "Sorry, Something went wrong",
+      "message": "죄송합니다. 문제가 발생했습니다."
+   },
+   "sort": {
+      "description": "Sort",
+      "message": "종류"
+   },
+   "suspend_manager": {
+      "description": "Suspend manager",
+      "message": "관리자 정지"
+   },
+   "suspend_other_tabs": {
+      "description": "Suspend other tabs",
+      "message": "다른 탭 일시중지"
+   },
+   "suspend_selected_tabs": {
+      "description": "Suspend selected tabs",
+      "message": "선택한 탭 일시중지"
+   },
+   "suspend_tab": {
+      "description": "Suspend tab",
+      "message": "일시중단 탭"
+   },
+   "suspend_tabgroup": {
+      "description": "Suspend tabgroup",
+      "message": "탭 그룹 일시 중지"
+   },
+   "tab_title_includes": {
+      "description": "Tab title includes",
+      "message": "탭 제목에는 다음이 포함됩니다."
+   },
+   "tabgroup_rules": {
+      "description": "TabGroup Rules",
+      "message": "TabGroup 규칙"
+   },
+   "this_window": {
+      "description": "This window",
+      "message": "이 창"
+   },
+   "top_domain": {
+      "description": "Top domain",
+      "message": "최상위 도메인"
+   },
+   "two_path_segment": {
+      "description": "Two Path segment",
+      "message": "두 경로 세그먼트"
+   },
+   "ungroup_all_tabs": {
+      "description": "ungroup_all_tabs",
+      "message": "ungroup_all_tabs"
+   },
+   "ungroup_tab": {
+      "description": "Ungroup tab",
+      "message": "그룹 해제 탭"
+   },
+   "unselect_all": {
+      "description": "Unselect all",
+      "message": "모두 선택 해제"
+   },
+   "update": {
+      "description": "Update",
+      "message": "업데이트"
+   },
+   "update_tabgroup_title": {
+      "description": "Update tabgroup title",
+      "message": "탭 그룹 제목 업데이트"
+   },
+   "update_window_name": {
+      "description": "Update window name",
+      "message": "창 이름 업데이트"
+   },
+   "url_match": {
+      "description": "Url Match",
+      "message": "URL 일치"
+   },
+   "workspace": {
+      "description": "Workspace",
+      "message": "작업공간"
+   }
+}

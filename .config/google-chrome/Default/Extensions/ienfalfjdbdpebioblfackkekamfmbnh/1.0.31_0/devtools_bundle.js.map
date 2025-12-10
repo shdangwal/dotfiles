@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["devtools.ts"],
+  "sourcesContent": [null],
+  "mappings": "AASAA,OAAOC,SAASC,OAAOC,OAAO,UAAW,uBAAwB,YAAY",
+  "names": ["chrome", "devtools", "panels", "create"]
+}

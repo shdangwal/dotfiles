@@ -1,0 +1,6 @@
+2025/08/18-08:11:57.512 c2d Creating DB /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_ashok-khanna.medium.com_0.indexeddb.leveldb since it was missing.
+2025/08/18-08:11:57.515 c2d Reusing MANIFEST /home/shdangwal/.config/microsoft-edge/Default/IndexedDB/https_ashok-khanna.medium.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/18-08:12:00.948 c2e Level-0 table #5: started
+2025/08/18-08:12:00.949 c2e Level-0 table #5: 4379 bytes OK
+2025/08/18-08:12:00.951 c2e Delete type=0 #3
+2025/08/18-08:12:00.951 c2e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

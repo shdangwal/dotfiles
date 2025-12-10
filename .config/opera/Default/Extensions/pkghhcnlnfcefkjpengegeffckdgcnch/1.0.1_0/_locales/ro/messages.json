@@ -1,0 +1,18 @@
+{
+   "early": {
+      "message": "Devreme"
+   },
+   "hidden": {
+      "message": "Ascuns"
+   },
+   "late": {
+      "message": "Târziu"
+   },
+   "seen": {
+      "message": "Văzut"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Râsul a dispărut de mult, dar luminile încă ard în acest tema animată întunecată."
+   }
+}

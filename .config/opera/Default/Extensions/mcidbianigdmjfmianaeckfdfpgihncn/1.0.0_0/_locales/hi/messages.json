@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "तांबा"
+   },
+   "greyscale": {
+      "message": "ग्रेस्केल"
+   },
+   "rise": {
+      "message": "सूर्योदय"
+   },
+   "set": {
+      "message": "सूर्यास्त"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "यहाँ ड्रैगन हैं। संगीत और ध्वनि के साथ एक पुराने जमाने की एनिमेटेड वॉलपेपर का अन्वेषण करें।"
+   }
+}

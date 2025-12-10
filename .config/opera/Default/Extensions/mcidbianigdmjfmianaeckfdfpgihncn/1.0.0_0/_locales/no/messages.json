@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Kobber"
+   },
+   "greyscale": {
+      "message": "Gråskala"
+   },
+   "rise": {
+      "message": "Stig"
+   },
+   "set": {
+      "message": "Senk"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Her er drager. Utforsk et gammeldags animert bakgrunnsbilde med musikk og lyd."
+   }
+}

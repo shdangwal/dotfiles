@@ -1,0 +1,18 @@
+{
+   "copper": {
+      "message": "Varis"
+   },
+   "greyscale": {
+      "message": "Pilka skalė"
+   },
+   "rise": {
+      "message": "Saulėtekis"
+   },
+   "set": {
+      "message": "Saulėlydis"
+   },
+   "themeDescription": {
+      "description": "Theme description",
+      "message": "Čia gyvena drakonai. Tyrinėkite senovinio pasaulio animuotą tapetą su muzika ir garsu."
+   }
+}

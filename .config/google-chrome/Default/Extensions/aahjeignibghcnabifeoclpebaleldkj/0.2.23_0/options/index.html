@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tabVertikal Configuration</title>
+</head>
+
+<body>
+    <h2>Settings</h2>
+
+    <section>
+        <header id="configuration"> Configuration </header>
+        <blockquote>
+            <div class="config-item">
+                <div class="setting-info">
+                    <h3 id="enable_workspace">Enable Workspace</h3>
+                    <div>
+                        <span>Enable Workspace to switch workspaces</span>
+                    </div>
+                </div>
+
+                <label class="switch">
+                    <input type="checkbox" id="toggle_workspace" />
+                    <span class="slider"></span>
+                </label>
+            </div>
+
+            <div class="config-item">
+                <div class="setting-info">
+                    <h3 id="enable_auto_grouping">Enable Auto tab grouping</h3>
+                    <div>
+                        <span>Enable Auto tab grouping based on your custom rules</span>
+                    </div>
+                </div>
+
+                <label class="switch">
+                    <input type="checkbox" id="toggle_auto_grouping" />
+                    <span class="slider"></span>
+                </label>
+            </div>
+
+            <div class="config-item">
+                <div class="setting-info">
+                    <h3 id="enable_auto_suspension">Enable Auto tab suspension</h3>
+                    <div>
+                        <span>Auto suspend tab when not using more than</span>
+                        <select id="auto_suspension_time" hidden>
+                            <option value="15">15 min</option>
+                            <option value="30">30 min</option>
+                            <option value="60">1 hrs</option>
+                            <option value="90">1.5 hrs</option>
+                            <option value="120">2 hrs</option>
+                            <option value="150">2.5 hrs</option>
+                            <option value="180">3 hrs</option>
+                            <option value="240">4 hrs</option>
+                            <option value="300">5 hrs</option>
+                        </select>
+                    </div>
+                </div>
+
+                <label class="switch">
+                    <input type="checkbox" id="toggle_auto_suspension" />
+                    <span class="slider"></span>
+                </label>
+            </div>
+        </blockquote>
+    </section>
+
+    <section class="card" id="themeList">
+        <header>Themes</header>
+        <blockquote>
+            <div class="config-item">
+                <div class="setting-info">
+                    <h3 id="change_font_family">Change font family</h3>
+                    <div>Change font family</div>
+                </div>
+
+                <select name="font-list" id="font-family">
+                    <option value="system-ui">Default</option>
+                    <option value="Arial">Arial</option>
+                    <option value="cursive">Cursive</option>
+                    <option value="Helvetica">Helvetica</option>
+                    <option value="Georgia">Georgia</option>
+                    <option value="monospace">monospace</option>
+                    <option value="Verdana">Verdana </option>
+                    <option value="'Times New Roman'">Times New Roman</option>
+                    <option value="Tahoma">Tahoma</option>
+                </select>
+            </div>
+            <div class="config-item">
+                <div class="setting-info">
+                    <h3 id="change_font_size">Change font size</h3>
+                    <div>Change font size</div>
+                </div>
+
+                <label> <input type="number" value="15" id="font-size" minlength="2" maxlength="3">px</label>
+            </div>
+            <div class="config-item">
+                <div class="setting-info">
+                    <h3>Text colour</h3>
+                </div>
+                <input type="color" name="text-clr" id="text-clr">
+            </div>
+            <details>
+                <summary id="background_themes">Background themes</summary>
+                <ul id="theme-list"></ul>
+            </details>
+        </blockquote>
+    </section>
+
+    <section class="btn-box">
+        <a href="/guide/welcome-guide.html" target="_blank" rel="noopener noreferrer">
+            <button>Guide</button>
+        </a>
+
+        <a href="mailto:tabrailhelp@gmail.com" target="_blank" rel="noopener noreferrer">
+            <button style="background-color: #6f00ff">Support</button>
+        </a>
+    </section>
+
+    <h2> <a href="#keyboard-shortcuts" id="keyboard_shortcuts">keyboard shortcuts </a></h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Action</th>
+                <th>Shortcut</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Open extension popup</td>
+                <td><kbd>Alt + V</kbd></td>
+            </tr>
+            <tr>
+                <td>Duplicate current tab</td>
+                <td><kbd>Alt + C</kbd></td>
+            </tr>
+            <tr>
+                <td>Focus search input field</td>
+                <td><kbd>Ctrl + Shift + F</kbd></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <output id="snackbar" hidden></output>
+    <script type="module" src="./options.js"></script>
+</body>
+
+</html>
